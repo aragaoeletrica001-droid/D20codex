@@ -1,0 +1,151 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 3 (BRUXO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Carisma
+* Dado de Ponto de Vida: d8 por nível de Bruxo
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Sabedoria e Carisma
+* Proficiência em Perícias: Escolha 2 entre Arcanismo, Enganação, História, Intimidação, Investigação, Natureza ou Religião
+* Proficiência com Armas: Armas Simples
+* Treinamento com Armadura: Armadura Leve
+* Equipamento Inicial: (A) Armadura de Couro, Foice, 2 Adagas, Foco Arcano (orbe), Livro (conhecimento oculto), Kit de Erudito e 15 PO; ou (B) 100 PO
+* Multiclasse (Ganhos): Dado de Vida (d8), Armadura Leve
+
+## TABELA DE PROGRESSÃO (BRUXO)
+| Nv | BP | Invocações | Truques | Magias Prep. | Espaços | Círculo do Espaço | Características |
+|---|---|---|---|---|---|---|---|
+| 1 | +2 | 1 | 2 | 2 | 1 | 1º | Invocações Místicas, Magia de Pacto |
+| 2 | +2 | 3 | 2 | 3 | 2 | 1º | Astúcia Mágica |
+| 3 | +2 | 3 | 2 | 4 | 2 | 2º | Subclasse de Bruxo |
+| 4 | +2 | 3 | 3 | 5 | 2 | 2º | Aumento no Valor de Atributo |
+| 5 | +3 | 5 | 3 | 6 | 2 | 3º | - |
+| 6 | +3 | 5 | 3 | 7 | 2 | 3º | Característica de Subclasse |
+| 7 | +3 | 6 | 3 | 8 | 2 | 4º | - |
+| 8 | +3 | 6 | 3 | 9 | 2 | 4º | Aumento no Valor de Atributo |
+| 9 | +4 | 7 | 3 | 10 | 2 | 5º | Contatar Patrono |
+| 10 | +4 | 7 | 4 | 10 | 2 | 5º | Característica de Subclasse |
+| 11 | +4 | 7 | 4 | 11 | 3 | 5º | Arcana Mística (6º círculo) |
+| 12 | +4 | 8 | 4 | 11 | 3 | 5º | Aumento no Valor de Atributo |
+| 13 | +5 | 8 | 4 | 12 | 3 | 5º | Arcana Mística (7º círculo) |
+| 14 | +5 | 8 | 4 | 12 | 3 | 5º | Característica de Subclasse |
+| 15 | +5 | 9 | 4 | 13 | 3 | 5º | Arcana Mística (8º círculo) |
+| 16 | +5 | 9 | 4 | 13 | 3 | 5º | Aumento no Valor de Atributo |
+| 17 | +6 | 9 | 4 | 14 | 4 | 5º | Arcana Mística (9º círculo) |
+| 18 | +6 | 10 | 4 | 14 | 4 | 5º | - |
+| 19 | +6 | 10 | 4 | 15 | 4 | 5º | Dádiva Épica |
+| 20 | +6 | 10 | 4 | 15 | 4 | 5º | Mestre Místico |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Invocações Místicas: Adquire habilidades conforme a coluna Invocações (deve cumprir pré-requisitos). Ao subir de nível de Bruxo, pode substituir 1 invocação por outra elegível (não pode substituir uma que seja pré-requisito de outra que possui). Não pode escolher a mesma invocação mais de uma vez, salvo indicação "Repetível".
+* Nível 1 - Magia de Pacto:
+  - Atributo: Carisma. Foco: Foco Arcano.
+  - Truques: Conforme tabela; pode substituir 1 truque ao subir de nível de Bruxo.
+  - Espaços de Magia: Todos os espaços são do mesmo círculo (1º ao 5º, conforme tabela). Restaura todos os espaços gastos em Descanso Curto ou Longo.
+  - Magias Preparadas: Conforme tabela (de círculo igual ou inferior ao Círculo do Espaço). Pode substituir 1 magia preparada ao subir de nível de Bruxo. Magias sempre preparadas de outras características não contam no limite.
+* Nível 2 - Astúcia Mágica: Rito de 1 minuto recupera espaços de Magia de Pacto gastos igual à metade do máximo (arred. cima). Usos: 1x/Descanso Longo.
+* Nível 3 - Subclasse de Bruxo: Escolhe um Patrono.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 9 - Contatar Patrono: Sempre tem Contato Extraplanar preparada. Pode conjurá-la sem espaço de magia para contatar seu patrono e é bem-sucedido automaticamente na salvaguarda da magia. Usos: 1x/Descanso Longo.
+* Nível 11, 13, 15, 17 - Arcana Mística: Escolhe 1 magia de Bruxo de 6º círculo (Nv 11), 7º círculo (Nv 13), 8º círculo (Nv 15) e 9º círculo (Nv 17). Conjura cada uma 1x sem espaço de magia; restaura todos os usos em Descanso Longo. Ao subir de nível de Bruxo, pode substituir 1 magia de arcanum por outra de Bruxo do mesmo círculo.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Mestre Místico: Ao usar Astúcia Mágica, restaura TODOS os espaços gastos de Magia de Pacto.
+
+## OPÇÕES DE INVOCAÇÕES MÍSTICAS
+* Armadura de Sombras: Conjura Armadura Arcana em si sem espaço de magia.
+* Explosão Agonizante (Prér.: Nv 2+, truque de Bruxo de dano; Repetível): Escolhe 1 truque de Bruxo de dano conhecido; soma Mod. Carisma às jogadas de dano dele.
+* Explosão Repulsiva (Prér.: Nv 2+, truque de Bruxo de dano com ataque; Repetível): Ao atingir criatura Grande ou menor com o truque escolhido, empurra até 3m para longe.
+* Investimento do Mestre da Corrente (Prér.: Nv 5+, Pacto da Corrente): Familiar de Convocar Familiar ganha:
+  - Deslocamento de Voo ou Natação de 12m (à escolha).
+  - Ação Bônus: ordena o familiar a usar ação Atacar.
+  - SG forçada pelo familiar usa sua CD de magia.
+  - Pode mudar dano Contundente/Cortante/Perfurante do familiar para Necrótico ou Radiante.
+  - Reação quando familiar sofre dano: concede Resistência a esse dano.
+* Lamento das Sepulturas (Prér.: Nv 7+): Conjura Falar com Mortos sem espaço de magia.
+* Lâmina Devoradora (Prér.: Nv 12+, Lâmina Sedenta): Ataque Extra de Lâmina Sedenta concede 2 ataques extras (total de 3 ataques) com a arma de pacto.
+* Lâmina Sedenta (Prér.: Nv 5+, Pacto da Lâmina): Ganha Ataque Extra (2 ataques) apenas para sua arma de pacto.
+* Lança Mística (Prér.: Nv 2+, truque de Bruxo de dano; Repetível): Escolhe 1 truque de Bruxo de dano com alcance >= 3m; alcance aumenta em (9 x nível de Bruxo) metros.
+* Lições dos Grandes Antigos (Prér.: Nv 2+; Repetível): Recebe 1 Talento de Origem à escolha.
+* Máscara das Muitas Faces (Prér.: Nv 2+): Conjura Disfarçar-se sem espaço de magia.
+* Mente Mística: Vantagem em SG de Constituição para manter Concentração.
+* Mestre das Infindáveis Formas (Prér.: Nv 5+): Conjura Alterar-se sem espaço de magia.
+* Olhar de Duas Mentes (Prér.: Nv 5+): Ação Bônus toca criatura voluntária e percebe pelos sentidos dela até o fim do próximo turno (pode manter com Ação Bônus nos turnos seguintes no mesmo plano). Usa sentidos especiais dela e pode conjurar magias como se estivesse no espaço dela (se a até 18m um do outro).
+* Pacto da Corrente: Aprende Convocar Familiar e conjura como ação Usar Magia sem espaço. Formas especiais liberadas: Cobra Peçonhenta, Diabrete, Esfinge Maravilhosa, Esqueleto, Pseudodragão, Quasit, Slaad Girino, Sprite. Na ação Atacar, pode abdicar de 1 ataque seu para o familiar realizar 1 ataque usando a Reação dele.
+* Pacto da Lâmina: Ação Bônus conjura arma Corpo a Corpo Simples ou Marcial (ou vincula arma mágica tocada não sintonizada/vinculada a outro). Tem proficiência com ela e usa como Foco de Conjuração. Pode usar Carisma para ataque e dano, e causar dano Necrótico, Psíquico, Radiante ou o normal da arma. Encerra se usar novamente, ficar a >1,5m por 1 min, ou morrer.
+* Pacto do Tomo: Ao fim de Descanso Curto ou Longo, conjura Livro das Sombras (Foco de Conjuração). Escolhe 3 truques e 2 magias de 1º círculo com marcador Ritual de qualquer lista de classe (que ainda não prepara); ficam preparadas e contam como magias de Bruxo enquanto tiver o livro.
+* Passo Ascendente (Prér.: Nv 5+): Conjura Levitação em si sem espaço de magia.
+* Presente das Profundezas (Prér.: Nv 5+): Respira debaixo d'água e ganha Deslocamento de Natação = Deslocamento. Conjura Respirar na Água 1x/Descanso Longo sem espaço.
+* Presente dos Protetores (Prér.: Nv 9+, Pacto do Tomo): Criaturas (até Mod. Carisma, mín. 1) escrevem o nome na página do Livro (1 Ação). Quando uma criatura listada cai a 0 PV sem morrer instantaneamente, fica com 1 PV (1x/Descanso Longo para todos). Ação Usar Magia apaga 1 nome.
+* Punição Mística (Prér.: Nv 5+, Pacto da Lâmina): 1x/turno ao acertar com arma de pacto, gasta espaço de Magia de Pacto para causar +1d8 Energético + 1d8 por círculo do espaço, e pode impor Caído se o alvo for Enorme ou menor.
+* Salto Sobrenatural (Prér.: Nv 2+): Conjura Salto em si sem espaço de magia.
+* Sorvedouro de Vida (Prér.: Nv 9+, Pacto da Lâmina): 1x/turno ao acertar com arma de pacto, causa +1d6 Necrótico, Psíquico ou Radiante e pode gastar 1 Dado de Vida para curar (rolagem + Mod. Constituição, mín. 1 PV).
+* Uno com as Sombras (Prér.: Nv 5+): Em Meia-luz ou Escuridão, conjura Invisibilidade em si sem espaço de magia.
+* Vigor Ínfero (Prér.: Nv 2+): Conjura Vitalidade Vazia em si sem espaço de magia e recebe automaticamente o valor máximo no dado de PVT.
+* Visão da Bruxa (Prér.: Nv 15+): Visão Verdadeira 9m.
+* Visão Diabólica (Prér.: Nv 2+): Enxerga normalmente em Meia-luz e Escuridão (mágica e não mágica) até 36m.
+* Visões de Reinos Distantes (Prér.: Nv 9+): Conjura Olho Arcano sem espaço de magia.
+* Visões Nebulosas (Prér.: Nv 2+): Conjura Imagem Silenciosa sem espaço de magia.
+
+## LISTA DE MAGIAS DE BRUXO (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Amigos (C), Badalar Fúnebre, Golpe Certeiro (M), Ilusão Menor, Mãos Mágicas, Prestidigitação Arcana, Proteção Contra Lâminas (C), Raio Místico, Rajada de Veneno, Talho Mental, Toque Necrótico, Trovão.
+* 1º Círculo: Armadura de Agathys, Braços de Hadar, Compreender Idiomas (R), Danação (C), Detectar Magia (C, R), Enfeitiçar Pessoa, Escrita Ilusória (R, M), Falar com Animais (R), Gargalhada Nefasta de Tasha (C), Perdição (C), Proteção Contra o Bem e o Mal (C, M), Raio de Bruxa (C), Repreensão Diabólica, Retirada Acelerada (C), Servo Invisível (R).
+* 2º Círculo: Cativar (C), Coroa da Loucura (C), Escalada de Aranha (C), Escuridão (C), Espinho Mental (C), Invisibilidade (C, M), Nuvem de Adagas (C), Paralisar Pessoa (C), Passo Nebuloso, Raio do Enfraquecimento (C), Reflexos, Sugestão (C).
+* 3º Círculo: Círculo Mágico (M), Contramagia, Convocar Feérico (C, M), Dissipar Magia, Fome de Hadar (C), Forma Gasosa (C), Imagem Maior (C), Invocar Morto-vivo (C, M), Línguas, Medo (C), Padrão Hipnótico (C), Remover Maldição, Toque Vampírico (C), Voo (C).
+* 4º Círculo: Banimento (C), Enfeitiçar Monstro, Invocar Aberração (C, M), Malogro, Porta Dimensional, Terreno Alucinatório.
+* 5º Círculo: Âncora Planar (M), Círculo de Teleporte (M), Contato Extraplanar (R), Despistar (C), Estática Sináptica, Paralisar Monstro (C), Sonho, Tempestade Radiante de Jallarzi (C), Vidência (C, M).
+* 6º Círculo: Caldeirão Borbulhante de Tasha (M), Círculo da Morte (M), Criar Mortos-Vivos (M), Invocar Ínfero (C, M), Mau Olhado (C), Portais Arcanos (C), Visão da Verdade (M).
+* 7º Círculo: Cárcere de Energia (C, M), Dedo da Morte, Forma Etérea, Transição Planar (M).
+* 8º Círculo: Dominar Monstro (C), Loquacidade, Palavra de Poder: Atordoar, Semiplano, Suplício.
+* 9º Círculo: Aprisionamento (M), Encarnação Fantasmagórica (C), Palavra de Poder: Matar, Polimorfia Total (C), Portal (C, M), Projeção Astral (M), Sexto Sentido.
+
+## SUBCLASSES DE BRUXO
+
+### PATRONO ARQUIFADA
+* Nível 3 - Magias de Pacto da Arquifada (sempre preparadas):
+  - Nv 3: Acalmar Emoções, Fogo das Fadas, Força Espectral, Passo Nebuloso, Sono
+  - Nv 5: Crescimento de Plantas, Piscar
+  - Nv 7: Dominar Fera, Invisibilidade Maior
+  - Nv 9: Dominar Pessoa, Similaridade
+* Nível 3 - Passos Feéricos: Conjura Passo Nebuloso sem espaço de magia um número de vezes = Mod. Carisma (mín. 1); restaura em Descanso Longo. Ao conjurar Passo Nebuloso, escolhe 1 efeito adicional:
+  - Passo Provocante: Criaturas a até 1,5m do espaço de origem fazem SG Sabedoria (sua CD) ou têm Desvantagem em ataques contra outros que não você até o início do seu próximo turno.
+  - Passo Revigorante: Você ou 1 criatura visível a até 3m do destino ganha 1d10 PVT.
+* Nível 6 - Fuga em Névoa: Pode conjurar Passo Nebuloso como Reação ao sofrer dano. Adiciona 2 opções a Passos Feéricos:
+  - Passo Desvanecedor: Fica Invisível até o início do seu próximo turno ou até atacar, causar dano ou conjurar magia.
+  - Passo Terrível: Criaturas a até 1,5m do espaço de origem ou destino (à escolha) fazem SG Sabedoria (sua CD) ou sofrem 2d10 dano Psíquico.
+* Nível 10 - Defesas Sedutoras: Imunidade à condição Enfeitiçado. Reação após criatura visível acertá-lo com ataque: reduz dano pela metade (arred. baixo) e força atacante a fazer SG Sabedoria (sua CD); se falhar, atacante sofre dano Psíquico igual ao dano que você sofreu. Usos: 1x/Descanso Longo ou gastando 1 espaço de Magia de Pacto (sem ação).
+* Nível 14 - Magia Sedutora: Imediatamente após conjurar magia de Encantamento ou Ilusão usando Ação e espaço de magia, pode conjurar Passo Nebuloso como parte da mesma ação e sem gastar espaço.
+
+### PATRONO CELESTIAL
+* Nível 3 - Magias de Pacto do Celestial (sempre preparadas):
+  - Nv 3: Auxílio, Chama Sagrada, Curar Ferimentos, Luz, Raio Guia, Restauração Menor
+  - Nv 5: Luz do Dia, Revivificar
+  - Nv 7: Defensor da Fé, Muralha de Fogo
+  - Nv 9: Convocar Celestial, Restauração Maior
+* Nível 3 - Luz Medicinal: Reserva de d6s = 1 + nível de Bruxo (restaura em Descanso Longo). Ação Bônus: cura a si ou criatura visível a até 18m gastando até Mod. Carisma (mín. 1) dados da reserva e rolando-os.
+* Nível 6 - Alma Radiante: Resistência a dano Radiante. 1x/turno ao conjurar magia que causa dano Ígneo ou Radiante, soma Mod. Carisma ao dano contra 1 alvo.
+* Nível 10 - Resiliência Celestial: Ao usar Astúcia Mágica ou completar Descanso Curto/Longo, ganha PVT = nível de Bruxo + Mod. Carisma. Até 5 criaturas visíveis escolhidas ganham PVT = metade do nível de Bruxo + Mod. Carisma.
+* Nível 14 - Vingança Calcinante: Quando você ou aliado a até 18m for fazer Salvaguarda contra Morte, a criatura recupera PV = metade dos PV máximos e pode encerrar condição Caído. Criaturas à escolha a até 9m dela sofrem 2d8 + Mod. Carisma de dano Radiante e ficam Cegas até o fim do turno atual. Usos: 1x/Descanso Longo.
+
+### PATRONO O GRANDE ANTIGO
+* Nível 3 - Magias de Pacto do Grande Antigo (sempre preparadas):
+  - Nv 3: Detectar Pensamentos, Força Espectral, Gargalhada Nefasta de Tasha, Sussurros Dissonantes
+  - Nv 5: Clarividência, Fome de Hadar
+  - Nv 7: Confusão, Invocar Aberração
+  - Nv 9: Modificar Memória, Telecinese
+* Nível 3 - Magias Psíquicas: Ao conjurar magia de Bruxo de dano, pode mudar o tipo de dano para Psíquico. Pode conjurar magias de Bruxo de Encantamento ou Ilusão sem componentes Verbais ou Somáticos.
+* Nível 3 - Mente Desperta: Ação Bônus escolhe criatura visível a até 9m; comunicação telepática (idioma comum) até (1,5 km x Mod. Carisma, mín. 1,5 km). Duração: minutos = nível de Bruxo (encerra se conectar com outra).
+* Nível 6 - Combatente Clarividente: Ao usar Mente Desperta, força o alvo a fazer SG Sabedoria (sua CD). Falha: alvo tem Desvantagem em ataques contra você e você tem Vantagem em ataques contra ele pela duração da ligação. Usos: 1x/Descanso Curto ou Longo, ou gastando espaço de Magia de Pacto (sem ação).
+* Nível 10 - Danação Mística: Sempre tem Danação preparada. Alvo de Danação também tem Desvantagem nas salvaguardas do atributo escolhido.
+* Nível 10 - Escudo Mental: Pensamentos não podem ser lidos sem permissão. Resistência a dano Psíquico; sempre que uma criatura causar dano Psíquico a você, ela sofre a mesma quantidade de dano.
+* Nível 14 - Criar Servo: Pode conjurar Invocar Aberração sem exigir Concentração (duração vira 1 min; Aberração ganha PVT = nível de Bruxo + Mod. Carisma). Na 1ª vez por turno que a Aberração acerta criatura sob sua Danação, causa dano Psíquico adicional igual ao dano bônus de Danação.
+
+### PATRONO ÍNFERO
+* Nível 3 - Magias de Pacto do Ínfero (sempre preparadas):
+  - Nv 3: Comando, Mãos Flamejantes, Raio Ardente, Sugestão
+  - Nv 5: Bola de Fogo, Nuvem Fétida
+  - Nv 7: Escudo Ardente, Muralha de Fogo
+  - Nv 9: Missão, Praga de Insetos
+* Nível 3 - Bênção do Tenebroso: Ao reduzir inimigo a 0 PV (ou outra criatura reduzir inimigo a até 3m de você a 0 PV), ganha PVT = Mod. Carisma + nível de Bruxo (mín. 1).
+* Nível 6 - A Sorte do Próprio Tenebroso: Adiciona 1d10 a um teste de atributo ou SG (após ver a jogada, antes do efeito). Usos = Mod. Carisma (mín. 1), máx. 1x por jogada; restaura em Descanso Longo.
+* Nível 10 - Resistência Ínfera: Ao fim de Descanso Curto ou Longo, escolhe 1 tipo de dano (exceto Energético) e ganha Resistência a ele até trocar.
+* Nível 14 - Lançar no Inferno: 1x/turno ao acertar criatura com ataque: SG Carisma (sua CD). Falha: alvo desaparece, sofre 8d10 dano Psíquico (se não for Ínfero) e fica Incapacitado até o fim do seu próximo turno, retornando ao espaço anterior (ou desocupado mais próximo). Usos: 1x/Descanso Longo ou gastando espaço de Magia de Pacto (sem ação).

@@ -1,0 +1,189 @@
+# BLOCO 8: APÊNDICE C - GLOSSÁRIO DE REGRAS
+
+## AÇÕES DE COMBATE E EXPLORAÇÃO
+
+### AJUDAR (AÇÃO)
+* Escolha 1 opção:
+  - Auxiliar Teste de Atributo: Escolhe 1 perícia ou ferramenta na qual tenha proficiência e 1 aliado a até 1,5m que possa vê-lo ou ouvi-lo. Concede Vantagem ao próximo teste desse aliado usando essa perícia/ferramenta antes do início do seu próximo turno.
+  - Auxiliar Jogada de Ataque: Distrai 1 inimigo a até 1,5m de você, concedendo Vantagem à próxima jogada de ataque feita por um aliado contra esse inimigo antes do início do seu próximo turno.
+
+### ANALISAR (AÇÃO)
+* Realiza um teste de Inteligência (Arcanismo, História, Investigação, Natureza ou Religião) para recordar conhecimento importante sobre uma criatura, objeto, local ou fenômeno mágico.
+
+### ATACAR (AÇÃO)
+* Realiza 1 ataque com arma ou Ataque Desarmado (ou mais ataques se possuir características como Ataque Extra).
+* Trocar Armas: Pode sacar ou guardar 1 arma antes ou depois de cada ataque realizado como parte desta ação.
+* Mover-se entre Ataques: Pode usar seu Deslocamento antes, entre ou depois dos ataques.
+
+### ATAQUE DE OPORTUNIDADE (REAÇÃO)
+* Gatilho: Uma criatura hostil visível sai voluntariamente do seu alcance (não ocorre se teleportar ou for movida sem gastar próprio deslocamento/ação/reação).
+* Efeito: Realiza 1 ataque corpo a corpo com arma ou Ataque Desarmado contra a criatura provocadora imediatamente antes de ela sair do seu alcance.
+
+### ATAQUE DESARMADO
+* Um ataque corpo a corpo usando o corpo (soco, chute, cabeçada) em vez de uma arma. Ao acertar uma criatura a até 1,5m, escolhe 1 opção:
+  - Dano: Jogada de ataque (Força + BP) -> acerto causa 1 + Mod. Força de dano Contundente.
+  - Imobilizar: Alvo (no máximo 1 tamanho maior que você) faz SG Força ou Destreza (CD 8 + Mod. Força + BP) ou fica Imobilizado. Requer 1 mão livre.
+  - Empurrar: Alvo (no máximo 1 tamanho maior que você) faz SG Força ou Destreza (CD 8 + Mod. Força + BP) -> falha: você empurra o alvo 1,5m para longe OU impõe a condição Caído.
+
+### CORRER (AÇÃO)
+* Ganha movimento extra no turno atual igual ao seu Deslocamento (após aplicar modificadores).
+
+### DESENGAJAR (AÇÃO)
+* Seu movimento não provoca Ataques de Oportunidade pelo resto do turno atual.
+
+### ESCONDER (AÇÃO)
+* Faz teste de Destreza (Furtividade) CD 15 enquanto estiver Totalmente Obscurecido, atrás de Cobertura de Três Quartos ou Cobertura Total, e fora da linha de visão direta de inimigos. Sucesso: ganha a condição Invisível (o resultado do teste torna-se a CD para outros o encontrarem com Sabedoria [Percepção]). Encerra se fizer barulho alto, atacar, conjurar magia com componente Verbal ou for encontrado.
+
+### ESQUIVAR (AÇÃO)
+* Até o início do seu próximo turno (inativo se Incapacitado ou Deslocamento = 0): qualquer jogada de ataque feita contra você tem Desvantagem se você puder ver o atacante, e você tem Vantagem em salvaguardas de Destreza.
+
+### INFLUENCIAR (AÇÃO)
+* Faz teste de Carisma (Enganação, Intimidação, Atuação ou Persuasão) ou Sabedoria (Lidar com Animais) para alterar a atitude ou convencer uma criatura (CD 15 ou Inteligência do alvo, o que for maior):
+  - Amigável: Vantagem no teste.
+  - Indiferente: Teste normal.
+  - Hostil: Desvantagem no teste (não ajuda em pedidos perigosos).
+
+### MAGIA (AÇÃO)
+* Conjura uma magia com tempo de conjuração de 1 Ação, usa uma característica mágica que exija esta ação ou ativa um item mágico que exija esta ação.
+
+### PREPARAR (AÇÃO)
+* Define um gatilho perceptível e escolhe 1 ação ou mover-se até seu Deslocamento em resposta. Quando o gatilho ocorre, usa sua Reação para executar o que preparou (ou ignora). Se preparar uma magia (tempo de conjuração 1 Ação), gasta o espaço de magia imediatamente e mantém Concentração até dispará-la (se não disparar até o início do seu próximo turno, a magia é perdida).
+
+### PROCURAR (AÇÃO)
+* Realiza teste de Sabedoria (Intuição, Medicina, Percepção ou Sobrevivência) para discernir algo oculto, pistas, ferimentos ou criaturas escondidas.
+
+### UTILIZAR (AÇÃO)
+* Interage com um segundo objeto no turno ou utiliza um objeto que exija uma ação para operar (ex: abrir porta trancada, beber poção se não for Ação Bônus, usar kit de curandeiro, aramar armadilha).
+
+## CONDIÇÕES
+
+### AGARRADO / IMOBILIZADO
+* Deslocamento: Torna-se 0 e não pode aumentar.
+* Ataques Afetados: Tem Desvantagem em jogadas de ataque contra qualquer alvo que não seja o imobilizador.
+* Movimentado: O imobilizador pode arrastar ou carregar você ao se mover, mas cada 1,5m custa 3m de deslocamento (a menos que você seja Miúdo ou pelo menos 2 tamanhos menor que ele).
+* Escapar: Como 1 Ação, faz teste de Força (Atletismo) ou Destreza (Acrobacia) vs a CD de escape (ou se o imobilizador ficar Incapacitado/fora de alcance).
+
+### AMEDRONTADO
+* Testes e Ataques Afetados: Tem Desvantagem em testes de atributo e jogadas de ataque enquanto a fonte do medo estiver na sua linha de visão.
+* Movimento Restrito: Não pode se mover voluntariamente para mais perto da fonte do medo.
+
+### ATORDOADO
+* Incapacitado: Sofre todos os efeitos da condição Incapacitado.
+* Salvaguardas Afetadas: Falha automaticamente em salvaguardas de Força e Destreza.
+* Ataques Afetados: Jogadas de ataque contra você têm Vantagem.
+
+### CAÍDO
+* Movimento Restrito: Suas únicas opções de movimento são rastejar (cada 1,5m custa 3m) ou gastar movimento igual à metade do seu Deslocamento para levantar-se e encerrar a condição (não pode levantar se Deslocamento = 0).
+* Ataques Afetados: Você tem Desvantagem em jogadas de ataque. Jogadas de ataque contra você têm Vantagem se o atacante estiver a até 1,5m de você; caso contrário, têm Desvantagem.
+
+### CEGO
+* Não Vê: Não pode ver e falha automaticamente em qualquer teste de atributo que exija visão.
+* Ataques Afetados: Jogadas de ataque contra você têm Vantagem, e suas jogadas de ataque têm Desvantagem.
+
+### CONTIDO
+* Deslocamento: Torna-se 0 e não pode aumentar.
+* Ataques Afetados: Jogadas de ataque contra você têm Vantagem, e suas jogadas de ataque têm Desvantagem.
+* Salvaguardas Afetadas: Tem Desvantagem em salvaguardas de Destreza.
+
+### ENFEITIÇADO
+* Não Pode Ferir o Encantador: Não pode atacar o encantador nem alvejá-lo com habilidades ou efeitos mágicos prejudiciais.
+* Vantagem Social: O encantador tem Vantagem em qualquer teste de atributo para interagir socialmente com você.
+
+### ENVENENADO
+* Testes e Ataques Afetados: Tem Desvantagem em jogadas de ataque e testes de atributo.
+
+### EXAUSTÃO
+* Cumulativa: Cada vez que recebe esta condição, ganha 1 nível de Exaustão (morre instantaneamente ao atingir o nível 6).
+* Penalidade de Testes: Subtrai (2 x seu nível de Exaustão) de todos os Testes de D20 (jogadas de ataque, testes de atributo e salvaguardas).
+* Penalidade de Deslocamento: Seu Deslocamento é reduzido em (1,5m x seu nível de Exaustão).
+* Remoção: Completar um Descanso Longo reduz seu nível de Exaustão em 1.
+
+### INCAPACITADO
+* Inativo: Não pode executar nenhuma Ação, Ação Bônus ou Reação.
+* Concentração Quebrada: Perde imediatamente a Concentração.
+* Sem Fala: Não pode falar.
+* Surpresa: Se estiver Incapacitado ao jogar Iniciativa, tem Desvantagem na jogada de Iniciativa.
+
+### INCONSCIENTE
+* Inerte: Sofre os efeitos de Incapacitado e Caído, larga tudo o que estiver segurando e não tem consciência do entorno.
+* Deslocamento: Torna-se 0 e não pode aumentar.
+* Ataques Afetados: Jogadas de ataque contra você têm Vantagem.
+* Salvaguardas Afetadas: Falha automaticamente em salvaguardas de Força e Destreza.
+* Acertos Críticos Automáticos: Qualquer jogada de ataque que atingir você é um Acerto Crítico se o atacante estiver a até 1,5m de você.
+
+### INVISÍVEL
+* Surpresa: Se estiver Invisível ao jogar Iniciativa, tem Vantagem na jogada de Iniciativa.
+* Oculto: Não pode ser visto (a menos que o observador tenha sentido especial como Visão Verdadeira ou Visão às Cegas), mas sua localização ainda pode ser detectada por ruídos ou rastros.
+* Ataques Afetados: Jogadas de ataque contra você têm Desvantagem, e suas jogadas de ataque têm Vantagem (ineficaz se o oponente puder vê-lo).
+
+### PARALISADO
+* Incapacitado: Sofre todos os efeitos da condição Incapacitado.
+* Deslocamento: Torna-se 0 e não pode aumentar.
+* Ataques Afetados: Jogadas de ataque contra você têm Vantagem.
+* Salvaguardas Afetadas: Falha automaticamente em salvaguardas de Força e Destreza.
+* Acertos Críticos Automáticos: Qualquer jogada de ataque que atingir você é um Acerto Crítico se o atacante estiver a até 1,5m de você.
+
+### PETRIFICADO
+* Transformado: Você e tudo não mágico que veste/carrega tornam-se substância sólida inanimada (geralmente pedra); peso multiplicado por 10 e para de envelhecer.
+* Incapacitado: Sofre todos os efeitos de Incapacitado; Deslocamento torna-se 0 e não tem consciência do entorno.
+* Ataques e Salvaguardas: Jogadas de ataque contra você têm Vantagem; falha automaticamente em SG de Força e Destreza.
+* Resistência e Imunidade: Resistência a todos os tipos de dano; Imunidade à condição Envenenado.
+
+### SURDO
+* Não Ouve: Não pode ouvir e falha automaticamente em qualquer teste de atributo que exija audição.
+
+## TERMOS MECÂNICOS, AMBIENTE E COMBATE
+
+### ACERTO CRÍTICO
+* Ocorre ao tirar 20 natural no d20 de uma jogada de ataque (acerta independentemente de modificadores ou CA). Joga todos os dados de dano do ataque duas vezes e soma os modificadores normalmente.
+
+### COBERTURA
+* Cobertura Parcial (pelo menos metade do corpo bloqueado): +2 na CA e em salvaguardas de Destreza.
+* Cobertura de Três Quartos (pelo menos três quartos bloqueados): +5 na CA e em salvaguardas de Destreza.
+* Cobertura Total (completamente oculto): Não pode ser alvejado diretamente por ataques ou magias (embora algumas magias de área possam contornar).
+
+### DANO E CURA
+* Resistência: Dano daquele tipo é reduzido pela metade (arredondado para baixo) após aplicar outros modificadores. Não acumula.
+* Vulnerabilidade: Dano daquele tipo é dobrado após aplicar outros modificadores. Não acumula.
+* Imunidade: Não sofre nenhum dano daquele tipo (ou não é afetado pela condição).
+* Dano Maciço (Morte Instantânea): Se o dano restante após reduzir você a 0 PV for igual ou superior aos seus PV máximos, você morre instantaneamente.
+* Salvaguarda contra Morte: Ao iniciar turno com 0 PV, joga 1d20 puro -> 10+: 1 sucesso; 9-: 1 falha; 1 natural: 2 falhas; 20 natural: recupera 1 PV. 3 sucessos = Estável; 3 falhas = Morte. Sofrer dano a 0 PV causa 1 falha (2 falhas se Acerto Crítico).
+* Pontos de Vida Temporários (PVT): Não são cura e não se acumulam (ao ganhar novos PVT, escolhe manter os atuais ou substituir pelos novos). Absorvem dano antes dos PV reais; encerram ao completar um Descanso Longo.
+
+### DESCANSOS
+* Descanso Curto (1 hora): Período de repouso leve. Pode gastar um ou mais Dados de Vida disponíveis, jogando cada um e somando Mod. Constituição (mín. 1 PV por dado) para recuperar PV.
+* Descanso Longo (8 horas): Dormir pelo menos 6 horas e realizar até 2 horas de atividade leve (vigília). Ao completar, recupera todos os PV perdidos, todos os Dados de Vida gastos, espaços de magia, usos de habilidades e reduz 1 nível de Exaustão. Limite: 1 Descanso Longo a cada 24 horas (interrompido se houver >= 1 hora de combate, caminhada ou conjuração).
+
+### ILUMINAÇÃO E OBSCURECIMENTO
+* Luz Plena: Visão normal.
+* Meia-luz (cria área Levemente Obscurecida): Desvantagem em testes de Sabedoria (Percepção) baseados na visão.
+* Escuridão (cria área Totalmente Obscurecida): Criaturas sofrem os efeitos da condição Cego ao tentar ver algo dentro da área.
+
+### PERIGOS AMBIENTAIS E QUEDA
+* Asfixia / Prender a Respiração: Pode prender a respiração por (1 + Mod. Constituição) minutos (mín. 30 segundos). Ao ficar sem ar, ganha 1 nível de Exaustão no fim de cada turno (não pode ser removido até respirar novamente).
+* Combustão: Sofre 1d4 de dano Ígneo no início de cada turno até gastar 1 Ação para apagar as chamas (caindo Caído e rolando).
+* Queda: Sofre 1d6 de dano Contundente a cada 3m de queda (máximo 20d6) e cai Caído ao aterrissar (a menos que evite o dano).
+
+### SENTIDOS ESPECIAIS
+* Sismiconsciência: Detecta a localização exata de criaturas e objetos em movimento dentro do alcance especificado, desde que ambos estejam em contato com a mesma superfície ou líquido. Não conta como visão.
+* Visão às Cegas: Percebe o entorno sem depender da visão dentro do alcance especificado (enxerga através de Escuridão, invisibilidade e cegueira).
+* Visão no Escuro: Enxerga em Meia-luz como se fosse Luz Plena e em Escuridão como se fosse Meia-luz (apenas em tons de cinza) dentro do alcance especificado.
+* Visão Verdadeira: Enxerga em Escuridão (normal e mágica), vê criaturas/objetos Invisíveis, detecta ilusões visuais (passando automaticamente em testes contra elas), percebe a forma original de metamorfos/criaturas transformadas e enxerga no Plano Etéreo dentro do alcance especificado.
+
+### TAMANHO E ESPAÇO EM COMBATE
+| Tamanho | Espaço Controlado | Capacidade de Carga (Força x) |
+|---|---|---|
+| Miúdo | 0,75 x 0,75 m | 3,75 kg x Força |
+| Pequeno | 1,5 x 1,5 m | 7,5 kg x Força |
+| Médio | 1,5 x 1,5 m | 7,5 kg x Força |
+| Grande | 3 x 3 m | 15 kg x Força |
+| Enorme | 4,5 x 4,5 m | 30 kg x Força |
+| Imenso | 6 x 6 m ou maior | 60 kg x Força |
+
+### TERRENO DIFÍCIL
+* Cada 1,5m de movimento em Terreno Difícil custa 3m de deslocamento (não acumula se múltiplas fontes criarem terreno difícil no mesmo espaço).
+
+### TESTE DE D20 E VANTAGEM / DESVANTAGEM
+* Teste de D20: Termo coletivo que engloba Jogadas de Ataque, Testes de Atributo e Salvaguardas.
+* Vantagem / Desvantagem: Joga 2d20 e usa o maior (Vantagem) ou o menor (Desvantagem). Se tiver qualquer número de fontes de Vantagem e Desvantagem simultaneamente, elas se cancelam mutuamente (joga apenas 1d20 normal).
+* Inspiração Heroica: Permite jogar novamente qualquer dado que você acabou de rolar (deve usar o novo resultado). Se ganhar Inspiração Heroica enquanto já a possui, pode passá-la a outro personagem do grupo que não a tenha.

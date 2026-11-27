@@ -1,0 +1,113 @@
+# BLOCO 9: ESQUEMA OPERACIONAL DA FICHA DE PERSONAGEM (D&D 2024)
+
+## VISÃO GERAL E ARQUITETURA DE INTERFACE (MOBILE / TABLET)
+Este documento define o **Schema de Estado (State)**, a **Interface Responsiva** (baseada no layout oficial D&D 2024 para celular e tablet) e o **Sistema de Rolagem Interativa** do aplicativo no Google AI Studio.
+
+* Convenções de Cálculo Base:
+  - `Mod(Atributo)` = `floor((Valor - 10) / 2)`
+  - `BP` (Bônus de Proficiência) = Nv 1-4 (`+2`), Nv 5-8 (`+3`), Nv 9-12 (`+4`), Nv 13-16 (`+5`), Nv 17-20 (`+6`).
+  - `Mult_Prof` (Multiplicador de Proficiência) = `0` (Sem proficiência), `1` (Proficiente), `2` (Especialização).
+  - `Penalidade_Exaustao` = `-(2 * nivel_exaustao)` aplicada automaticamente a todos os Testes de D20.
+
+---
+
+## MECÂNICA DE INTERAÇÃO E UI DINÂMICA
+
+### 1. SUB-BLOCOS CONDICIONAIS E BOTÕES INDICATIVOS
+Para manter a tela limpa em celulares e tablets, sub-blocos específicos possuem **botões indicativos de exibição** (`visivel: true/false`) controlados automaticamente pelas escolhas iniciais do personagem (Classe, Subclasse, Espécie, Antecedente, Talentos e Equipamento), podendo também ser alternados manualmente pelo jogador:
+* `bloco_conjuracao` (Atributo, CD, Ataque Mágico, Espaços de Magia e Lista): Ativo automaticamente se o personagem possuir característica de Conjuração, Magia de Pacto ou magias inatas/de talento. Caso contrário, exibe apenas um botão discreto `+ Habilitar Conjuração`.
+* `bloco_recursos_classe` (Fúria, Pontos de Foco, Canalizar Divindade, Inspiração Bárdica, etc.): Exibe apenas os contadores pertencentes à Classe/Subclasse atual.
+* `bloco_escudo` e `bloco_armadura_equipada`: Ajustam dinamicamente o cálculo de `CA` e exibem alertas de penalidade caso o usuário marque itens sem treinamento.
+* `bloco_sintonizacao`: Exibe slots ativos conforme itens mágicos sintonizados (máx. 3).
+* `bloco_companheiro_familiar`: Exibido apenas se o personagem possuir familiar, montaria invocada ou companheiro animal (puxando ficha do Bloco 8.1).
+
+### 2. SISTEMA DE BOTÕES `[mini-d20]` E MODAL DE ROLAGEM
+Todo campo mecânico que envolva rolagem de dados possui um botão acoplado `[mini-d20]` ao lado do valor/nome:
+* **Passo 1 (Gatilho):** O usuário toca no `[mini-d20]` ao lado do atributo, perícia, salvaguarda, iniciativa, arma, magia, dado de vida ou salvaguarda contra morte.
+* **Passo 2 (Janela Modal de Condição):** Abre-se imediatamente uma janela compacta perguntando o modo do teste:
+  - `[ Normal ]` (1d20 + Modificadores)
+  - `[ Vantagem ]` (2d20, mantém maior + Modificadores)
+  - `[ Desvantagem ]` (2d20, mantém menor + Modificadores)
+  - *(Nota: Se houver condição ativa na ficha impondo Vantagem ou Desvantagem naquele teste — ex.: Envenenado, Amedrontado, Invisível, Esquivar — o modal já destaca visualmente a condição sugerida).*
+* **Passo 3 (Cálculo Descritivo & Animação):** O sistema executa a animação do dado e exibe o resultado final acompanhado da memória de cálculo transparente (ex.: `Rolagem: [14] + 3 (Des) + 2 (BP) = 19` ou `Vantagem: [18, 7] -> 18 + 5 = 23`), destacando automaticamente **Acerto Crítico (20 natural)** ou **Falha Crítica (1 natural)**.
+
+---
+
+## ESTRUTURA DOS BLOCOS DA FICHA (ESPELHO OFICIAL 2024)
+
+### BLOCO A: CABEÇALHO E IDENTIDADE
+| Campo UI | Chave de Dados | Tipo / Interação | Referência no Banco |
+|---|---|---|---|
+| Nome do Personagem | `nome` | Texto editável | Input do Usuário |
+| Classe / Subclasse | `classe`, `subclasse` | Seleção (dispara sub-blocos) | Blocos 1 a 3 |
+| Nível / XP | `nivel` (1-20), `xp` | Número (recalcula `BP` e recursos) | Tabela de XP (Bloco 1) |
+| Espécie / Tamanho | `especie`, `tamanho` | Seleção (define `deslocamento` e traços) | Bloco 4 |
+| Antecedente | `antecedente` | Seleção (define perícias e talento origem) | Bloco 4 |
+
+### BLOCO B: COMBATE, DEFESA E STATUS VITAIS
+| Campo UI | Chave de Dados | Fórmula / Regra | Botão `[mini-d20]`? |
+|---|---|---|---|
+| Classe de Armadura (CA) | `ca` | Base (Armadura/Defesa sem Armadura) + Des (c/ limite) + Escudo (`+2`) + Bônus | Não (Valor Passivo) |
+| Escudo | `escudo_equipado` | Toggle `[x]` (`+2` CA se marcado) | Não |
+| Bônus de Proficiência | `bp` | `+2` a `+6` conforme `nivel` | Não |
+| Iniciativa | `iniciativa` | `Mod(Destreza)` + Bônus (ex: Alerta soma `BP`) | **Sim** (`1d20 + iniciativa`) |
+| Deslocamento | `deslocamento` | Base Espécie + Bônus (reduzido por Exaustão/Força insuf.) | Não |
+| Percepção Passiva | `percepcao_passiva` | `10 + Mod(Sabedoria) + (BP * Mult_Prof_Percepcao)` | Não |
+| Inspiração Heroica | `inspiracao_heroica` | Toggle `[x]` (permite rerrolar dado no modal de resultado) | Não (Ação de Rerrolagem) |
+| Pontos de Vida (Atual / Máx / Temp) | `pv_atual`, `pv_max`, `pv_temp` | Botões rápidos `-1`, `+1`, `Dano`, `Cura` (`pv_temp` absorve primeiro) | Não |
+| Dado de Vida (Gasto / Máx) | `dv_gasto`, `dv_max` | Ex: `0 / 5d10` (botão gastar em Descanso Curto) | **Sim** (`1dX + Mod(Con)`) |
+| Salvaguarda contra Morte | `morte_sucessos` (0-3), `morte_falhas` (0-3) | Ativo automaticamente quando `pv_atual == 0` | **Sim** (`1d20` puro vs CD 10) |
+
+### BLOCO C: ATRIBUTOS, SALVAGUARDAS E PERÍCIAS
+* Cada Atributo exibe `Valor`, `Modificador` e um botão `[mini-d20]` próprio para **Teste de Atributo puro** (`1d20 + Mod(Atributo) + Penalidade_Exaustao`).
+* Cada Salvaguarda e cada Perícia possui marcador de proficiência (`[ ]` `0x`, `[x]` `1x`, `[E]` `2x`), valor calculado e seu próprio botão `[mini-d20]`.
+
+| Atributo | Salvaguarda (`[mini-d20]`) | Perícias Vinculadas (`[mini-d20]` individual em cada linha) |
+|---|---|---|
+| **FORÇA** (`forca`) `[mini-d20]` | `sg_forca` | `atletismo` (Atletismo) |
+| **DESTREZA** (`destreza`) `[mini-d20]` | `sg_destreza` | `acrobacia` (Acrobacia), `furtividade` (Furtividade), `prestidigitacao` (Prestidigitação) |
+| **CONSTITUIÇÃO** (`constituicao`) `[mini-d20]` | `sg_constituicao` | *(Nenhuma perícia vinculada)* |
+| **INTELIGÊNCIA** (`inteligencia`) `[mini-d20]` | `sg_inteligencia` | `arcanismo` (Arcanismo), `historia` (História), `investigacao` (Investigação), `natureza` (Natureza), `religiao` (Religião) |
+| **SABEDORIA** (`sabedoria`) `[mini-d20]` | `sg_sabedoria` | `intuicao` (Intuição), `lidar_com_animais` (Lidar com Animais), `medicina` (Medicina), `percepcao` (Percepção), `sobrevivencia` (Sobrevivência) |
+| **CARISMA** (`carisma`) `[mini-d20]` | `sg_carisma` | `atuacao` (Atuação), `enganacao` (Enganação), `intimidacao` (Intimidação), `persuasao` (Persuasão) |
+
+### BLOCO D: ARMAS E TRUQUES DE DANO (AÇÕES DE ATAQUE)
+Cada linha de ataque possui botões rápidos integrados:
+| Coluna UI | Chave de Dados | Interação e Botões |
+|---|---|---|
+| Nome | `ataques[].nome` | Tocar expande descrição completa e propriedade de Maestria |
+| Bônus Atq / CD | `ataques[].acerto_ou_cd` | Botão **`[mini-d20]`** para Jogada de Ataque (ou exibe `CD XX` se for SG) |
+| Dano e Tipo | `ataques[].dano_tipo` | Botão **`[rolar dano]`** (dobra dados automaticamente se o ataque anterior foi Crítico) |
+| Notas | `ataques[].notas` | Tags rápidas: `Alcance`, `Propriedades`, `Maestria em Arma` |
+
+### BLOCO E: CARACTERÍSTICAS, TRAÇOS, TALENTOS E PROFICIÊNCIAS
+* **Características de Classe (`caracteristicas_classe`):** Cards expansíveis com contadores de uso (ex: `Fúria [x][x][ ]`) e botão `[mini-d20]` embutido caso a habilidade exija rolagem (ex: *Ataque Furtivo*, *Mãos Curandeiras*, *Inspiração Bárdica*).
+* **Traços de Espécies (`tracos_especie`):** Cards expansíveis com contadores/botões de rolagem quando aplicável (ex: *Ataque de Sopro*).
+* **Talentos (`talentos`):** Cards expansíveis categorizados (Origem, Geral, Estilo de Luta, Dádiva Épica).
+* **Treinamento em Equipamentos e Proficiências:**
+  - `armaduras_treinamento`: `[ ] Leve` `[ ] Média` `[ ] Pesada` `[ ] Escudos`
+  - `armas_proficiencia`: Texto/Tags
+  - `ferramentas_proficiencia`: Tags com botão **`[mini-d20]`** (permite rolar teste de ferramenta escolhendo atributo e aplicando Vantagem automática se houver sinergia com perícia proficiente).
+
+### BLOCO F: CONJURAÇÃO E MAGIAS (SUB-BLOCO CONDICIONAL)
+* **Cabeçalho de Conjuração:**
+  - `atributo` | `mod` (`[mini-d20]` para testes de conjuração como *Dissipar Magia* / *Contramagia*) | `cd` (`8 + BP + Mod`) | `ataque` (`[mini-d20]` para ataques mágicos)
+* **Rastreador de Espaços de Magia (1º ao 9º Círculo + Pacto):**
+  - Checkboxes interativos `Total` vs `Gastos` por círculo.
+* **Lista de Truques e Magias Preparadas:**
+  - Agrupada por círculo com filtros rápidos (`Todas`, `Preparadas`, `Concentração`, `Ritual`).
+  - Cada magia exibe: `Círculo`, `Nome`, `Tempo`, `Alcance`, flags `[C] [R] [M]`, botão **`[Conjurar]`** (gasta espaço do círculo escolhido e ativa Concentração se `[C]`) e botão **`[mini-d20]`** (para ataque mágico ou rolagem de dano/cura da magia).
+
+### BLOCO G: INVENTÁRIO, MOEDAS E IDENTIDADE
+* **Equipamentos (`equipamentos`):** Lista com peso total calculado vs `Capacidade de Carga (Força * 7,5 kg)`.
+* **Itens Mágicos Sintonizados (`sintonizacao`):** 3 slots com toggle `[x]`.
+* **Moedas (`moedas`):** Campos numéricos editáveis `PC`, `PP`, `PE`, `PO`, `PL` + conversor automático de patrimônio total em `PO`.
+* **Identidade e Lore:** `Alinhamento`, `Idiomas`, `Aparência` e `História/Personalidade`.
+
+---
+
+## REGRAS DE SINCRONIZAÇÃO DE ESTADO (GOOGLE AI STUDIO)
+1. **Fluxo de Rolagem Unificado:** Nenhuma rolagem deve ocorrer sem passar pelo modal `[ Normal | Vantagem | Desvantagem ]`, garantindo que bônus situacionais (como *Bênção*, *Perdição*, *Orientação* ou *Exaustão*) sejam somados ou subtraídos no cálculo final.
+2. **Controle de Descansos:**
+   - **Descanso Curto:** Abre painel para gastar `Dados de Vida` (usando `[mini-d20]` para cada dado) e restaura recursos de descanso curto.
+   - **Descanso Longo:** Restaura `pv_atual = pv_max`, `pv_temp = 0`, `dv_gasto = 0`, zera `espacos_magia.gastos`, restaura recursos de descanso longo e reduz `nivel_exaustao` em 1.

@@ -1,0 +1,116 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 11 (MONGE)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Destreza e Sabedoria
+* Dado de Ponto de Vida: d8 por nível de Monge
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Força e Destreza
+* Proficiência em Perícias: Escolha 2 entre Acrobacia, Atletismo, Furtividade, História, Intuição ou Religião
+* Proficiência com Armas: Armas Simples e Armas Marciais com a propriedade Leve
+* Proficiência com Ferramentas: Escolha 1 tipo de Ferramentas de Artesão ou Instrumento Musical
+* Treinamento com Armadura: Nenhuma
+* Equipamento Inicial: (A) Lança, 5 Adagas, Ferramentas de Artesão ou Instrumento Musical escolhido acima, Kit de Aventureiro e 11 PO; ou (B) 50 PO
+* Multiclasse (Ganhos): Dado de Vida (d8)
+
+## TABELA DE PROGRESSÃO (MONGE)
+| Nv | BP | Artes Marciais | Pontos de Foco | Mov. sem Armadura | Características |
+|---|---|---|---|---|---|
+| 1 | +2 | 1d6 | - | - | Artes Marciais, Defesa sem Armadura |
+| 2 | +2 | 1d6 | 2 | +3 m | Foco do Monge, Metabolismo Incomum, Movimento sem Armadura |
+| 3 | +2 | 1d6 | 3 | +3 m | Defletir Ataques, Subclasse de Monge |
+| 4 | +2 | 1d6 | 4 | +3 m | Aumento no Valor de Atributo, Queda Lenta |
+| 5 | +3 | 1d8 | 5 | +3 m | Ataque Extra, Golpe Atordoante |
+| 6 | +3 | 1d8 | 6 | +4,5 m | Golpes Potencializados, Característica de Subclasse |
+| 7 | +3 | 1d8 | 7 | +4,5 m | Evasão |
+| 8 | +3 | 1d8 | 8 | +4,5 m | Aumento no Valor de Atributo |
+| 9 | +4 | 1d8 | 9 | +4,5 m | Movimento Acrobático |
+| 10 | +4 | 1d8 | 10 | +6 m | Foco Aprimorado, Restauro Pessoal |
+| 11 | +4 | 1d10 | 11 | +6 m | Característica de Subclasse |
+| 12 | +4 | 1d10 | 12 | +6 m | Aumento no Valor de Atributo |
+| 13 | +5 | 1d10 | 13 | +6 m | Defletir Energia |
+| 14 | +5 | 1d10 | 14 | +7,5 m | Sobrevivente Disciplinado |
+| 15 | +5 | 1d10 | 15 | +7,5 m | Foco Perfeito |
+| 16 | +5 | 1d10 | 16 | +7,5 m | Aumento no Valor de Atributo |
+| 17 | +6 | 1d12 | 17 | +7,5 m | Característica de Subclasse |
+| 18 | +6 | 1d12 | 18 | +9 m | Defesa Superior |
+| 19 | +6 | 1d12 | 19 | +9 m | Dádiva Épica |
+| 20 | +6 | 1d12 | 20 | +9 m | Corpo e Mente |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Artes Marciais: Armas de Monge = Armas Simples Corpo a Corpo e Armas Marciais Corpo a Corpo com a propriedade Leve. Enquanto estiver desarmado ou empunhando apenas armas de Monge, e sem vestir armadura nem empunhar Escudo:
+  - Ataque Desarmado Adicional: Realiza 1 Ataque Desarmado como Ação Bônus.
+  - Dado de Artes Marciais: Pode usar o dado da coluna Artes Marciais (1d6 a 1d12) no lugar do dano normal do Ataque Desarmado ou de armas de Monge.
+  - Ataques com Destreza: Pode usar Mod. Destreza em vez de Mod. Força para jogadas de ataque e dano de Ataques Desarmados e armas de Monge, e também para a CD das opções Empurrar ou Imobilizar do Ataque Desarmado.
+* Nível 1 - Defesa sem Armadura: Sem armadura e sem Escudo, CA base = 10 + Mod. Destreza + Mod. Sabedoria.
+* Nível 2 - Foco do Monge: Reserva de Pontos de Foco = seu nível de Monge (restaura todos em Descanso Curto ou Longo). CD para salvaguardas = 8 + Mod. Sabedoria + BP. Opções base:
+  - Defesa Paciente: Executa ação Desengajar como Ação Bônus (0 pts); OU gasta 1 Ponto de Foco para executar Desengajar e Esquivar como Ação Bônus.
+  - Passo do Vento: Executa ação Correr como Ação Bônus (0 pts); OU gasta 1 Ponto de Foco para executar Desengajar e Correr como Ação Bônus e dobrar sua distância de salto no turno.
+  - Torrente de Golpes: Gasta 1 Ponto de Foco para realizar 2 Ataques Desarmados como Ação Bônus.
+* Nível 2 - Metabolismo Incomum: Ao jogar Iniciativa, pode restaurar todos os Pontos de Foco gastos; ao fazer isso, joga seu dado de Artes Marciais e recupera PV = seu nível de Monge + resultado. Usos: 1x/Descanso Longo.
+* Nível 2 - Movimento sem Armadura: Sem armadura e sem Escudo, Deslocamento aumenta conforme tabela (+3m Nv 2, +4,5m Nv 6, +6m Nv 10, +7,5m Nv 14, +9m Nv 18).
+* Nível 3 - Defletir Ataques: Reação ao ser atingido por jogada de ataque que inclua dano Contundente, Cortante ou Perfurante -> reduz o dano total em 1d10 + Mod. Destreza + nível de Monge. Se reduzir o dano a 0, pode gastar 1 Ponto de Foco para redirecionar: escolhe criatura visível a até 1,5m (se ataque corpo a corpo) ou até 18m sem Cobertura Total (se ataque à distância); alvo faz SG Destreza ou sofre dano = 2 jogadas do dado de Artes Marciais + Mod. Destreza (mesmo tipo do ataque).
+* Nível 3 - Subclasse de Monge: Escolhe uma tradição marcial.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 4 - Queda Lenta: Reação ao estar em queda -> reduz o dano de queda em 5 x seu nível de Monge.
+* Nível 5 - Ataque Extra: 2 ataques ao executar a ação Atacar no seu turno.
+* Nível 5 - Golpe Atordoante: 1x/turno ao acertar criatura com arma de Monge ou Ataque Desarmado -> gasta 1 Ponto de Foco. Alvo faz SG Constituição. Falha: condição Atordoado até o início do seu próximo turno. Sucesso: Deslocamento do alvo reduzido pela metade até o início do seu próximo turno, e a próxima jogada de ataque contra ele antes disso tem Vantagem.
+* Nível 6 - Golpes Potencializados: Ao causar dano com Ataque Desarmado, escolhe causar dano Energético ou seu tipo de dano normal.
+* Nível 7 - Evasão: Em efeito que permita SG de Destreza para sofrer metade do dano, sofre 0 em caso de sucesso e metade em caso de falha (inativo se Incapacitado).
+* Nível 9 - Movimento Acrobático: Sem armadura e sem Escudo, pode mover-se no seu turno por superfícies verticais e líquidos sem cair durante o movimento.
+* Nível 10 - Foco Aprimorado:
+  - Defesa Paciente: Ao gastar 1 Ponto de Foco, ganha PVT = 2 jogadas do dado de Artes Marciais.
+  - Passo do Vento: Ao gastar 1 Ponto de Foco, pode escolher 1 criatura voluntária Grande ou menor a até 1,5m e movê-la com você até o fim do turno (o movimento dela não provoca Ataques de Oportunidade).
+  - Torrente de Golpes: Ao gastar 1 Ponto de Foco, realiza 3 Ataques Desarmados (em vez de 2).
+* Nível 10 - Restauro Pessoal: No final de cada um dos seus turnos, pode remover de si 1 condição entre: Amedrontado, Enfeitiçado ou Envenenado. Além disso, não sofre níveis de Exaustão por falta de alimentação ou hidratação.
+* Nível 13 - Defletir Energia: Pode usar Defletir Ataques contra ataques que causem qualquer tipo de dano (não apenas Contundente, Cortante ou Perfurante).
+* Nível 14 - Sobrevivente Disciplinado: Proficiência em todas as salvaguardas. Ao falhar em uma salvaguarda, pode gastar 1 Ponto de Foco para jogá-la novamente (deve usar o novo resultado).
+* Nível 15 - Foco Perfeito: Ao jogar Iniciativa sem usar Metabolismo Incomum, se tiver 3 ou menos Pontos de Foco, recupera pontos gastos até ficar com 4.
+* Nível 18 - Defesa Superior: No início do seu turno, pode gastar 3 Pontos de Foco para ganhar Resistência a todos os tipos de dano, exceto Energético, por 1 minuto ou até ficar Incapacitado.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Corpo e Mente: Destreza e Sabedoria +4 (máximo 25).
+
+## SUBCLASSES DE MONGE
+
+### COMBATENTE DA MÃO ESPALMADA
+* Nível 3 - Técnica da Mão Espalmada: Ao atingir uma criatura com ataque concedido por Torrente de Golpes, escolhe 1 efeito:
+  - Derrubar: Alvo faz SG Destreza ou fica Caído.
+  - Desorientar: Alvo não pode realizar Ataques de Oportunidade até o início do próximo turno dele.
+  - Empurrar: Alvo faz SG Força ou é empurrado até 4,5m para longe de você.
+* Nível 6 - Integridade Corporal: Ação Bônus joga dado de Artes Marciais e recupera PV = resultado + Mod. Sabedoria (mín. 1). Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+* Nível 11 - Passo Veloz: Ao executar qualquer Ação Bônus diferente de Passo do Vento, pode usar Passo do Vento imediatamente após essa Ação Bônus.
+* Nível 17 - Palma Vibrante: Ao acertar criatura com Ataque Desarmado, gasta 4 Pontos de Foco para iniciar vibrações (duram dias = nível de Monge; máx. 1 criatura afetada por vez). Como 1 Ação (ou renunciando a 1 ataque da ação Atacar) estando no mesmo plano, encerra as vibrações: alvo faz SG Constituição -> falha: 10d12 dano Energético; sucesso: metade. Pode encerrar inofensivamente sem ação.
+
+### COMBATENTE DA MISERICÓRDIA
+* Nível 3 - Implementos de Misericórdia: Proficiência nas perícias Intuição e Medicina, e com Kit de Herbalismo.
+* Nível 3 - Mão de Cura: Ação Usar Magia + 1 Ponto de Foco -> toca 1 criatura e restaura PV = 1 jogada do dado de Artes Marciais + Mod. Sabedoria. Ao usar Torrente de Golpes, pode substituir 1 dos Ataques Desarmados por Mão de Cura sem gastar Ponto de Foco adicional.
+* Nível 3 - Mão de Dolo: 1x/turno ao atingir e causar dano a uma criatura com Ataque Desarmado -> gasta 1 Ponto de Foco para causar dano Necrótico adicional = 1 jogada do dado de Artes Marciais + Mod. Sabedoria.
+* Nível 6 - Toque de Médico:
+  - Mão de Cura: Também pode encerrar 1 condição no alvo curado entre: Atordoado, Cego, Envenenado, Paralisado ou Surdo.
+  - Mão de Dolo: Também pode impor a condição Envenenado ao alvo até o final do seu próximo turno.
+* Nível 11 - Torrente de Cura e Dolo: Ao usar Torrente de Golpes, pode substituir cada Ataque Desarmado por Mão de Cura sem gastar Pontos de Foco para a cura; e ao causar dano com Ataque Desarmado da Torrente, pode aplicar Mão de Dolo sem gastar Ponto de Foco adicional (ainda máx. 1x/turno). Usos totais desses benefícios = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+* Nível 17 - Mão da Misericórdia Final: Ação Usar Magia + 5 Pontos de Foco -> toca cadáver de criatura morta nas últimas 24 horas. Ela retorna à vida com PV = 4d10 + Mod. Sabedoria e tem removidas as condições Atordoado, Cego, Envenenado, Paralisado e Surdo. Usos: 1x/Descanso Longo.
+
+### COMBATENTE DAS SOMBRAS
+* Nível 3 - Artes das Sombras:
+  - Escuridão: Gasta 1 Ponto de Foco para conjurar Escuridão sem componentes. Você enxerga dentro da área desta conjuração e, no início de cada turno enquanto ela durar, pode mover a área para um espaço a até 18m de você.
+  - Ilusão Sombria: Conhece o truque Ilusão Menor (atributo Sabedoria).
+  - Visão no Escuro: Visão no Escuro 18m (ou +18m se já tiver).
+* Nível 6 - Passo da Sombra: Enquanto estiver inteiramente em Meia-luz ou Escuridão, Ação Bônus teleporta até 18m para espaço desocupado visível também em Meia-luz ou Escuridão. Ganha Vantagem no próximo ataque corpo a corpo antes do fim do turno atual.
+* Nível 11 - Passo da Sombra Aprimorado: Ao usar Passo da Sombra, pode gastar 1 Ponto de Foco para remover o requisito de Meia-luz/Escuridão (na origem e destino) e pode realizar 1 Ataque Desarmado imediatamente após teleportar como parte da mesma Ação Bônus.
+* Nível 17 - Manto da Sombra: Ação Usar Magia + 3 Pontos de Foco enquanto inteiramente em Meia-luz ou Escuridão (dura 1 min, até ficar Incapacitado ou encerrar turno em Luz Plena):
+  - Invisibilidade: Tem a condição Invisível.
+  - Parcialmente Incorpóreo: Move-se através de espaços ocupados como Terreno Difícil (se encerrar turno em espaço ocupado, é deslocado ao último espaço desocupado onde esteve).
+  - Torrente de Sombras: Usa Torrente de Golpes sem gastar Pontos de Foco.
+
+### COMBATENTE DOS ELEMENTOS
+* Nível 3 - Manipular Elementos: Conhece o truque Elementalismo (atributo Sabedoria).
+* Nível 3 - Sintonia Elemental: No início do seu turno, gasta 1 Ponto de Foco (dura 10 min ou até Incapacitado). Enquanto ativa:
+  - Ataques Elementais: Ao acertar Ataque Desarmado, pode causar dano Ácido, Elétrico, Gélido, Ígneo ou Trovejante (em vez do tipo normal). Ao causar um desses tipos, pode forçar o alvo a fazer SG Força; se falhar, move o alvo até 3m em sua direção ou para longe de você.
+  - Extensão: Alcance do Ataque Desarmado aumenta em +3m.
+* Nível 6 - Explosão Elemental: Ação Usar Magia + 2 Pontos de Foco. Ponto a até 36m gera Esfera de 6m de raio; escolhe dano Ácido, Elétrico, Gélido, Ígneo ou Trovejante. Criaturas na Esfera fazem SG Destreza -> falha: dano = 3 jogadas do dado de Artes Marciais; sucesso: metade.
+* Nível 11 - Passo dos Elementos: Enquanto Sintonia Elemental estiver ativa, ganha Deslocamento de Natação e Deslocamento de Voo iguais ao seu Deslocamento.
+* Nível 17 - Ápice Elemental: Enquanto Sintonia Elemental estiver ativa:
+  - Golpes Potencializados: 1x/turno ao atingir com Ataque Desarmado, causa dano adicional = 1 jogada do dado de Artes Marciais (mesmo tipo do ataque).
+  - Passo Destrutivo: Ao usar Passo do Vento, Deslocamento aumenta em +6m até o fim do turno; qualquer criatura à escolha sofre dano = 1 jogada do dado de Artes Marciais (Ácido, Elétrico, Gélido, Ígneo ou Trovejante) quando você entra em espaço a até 1,5m dela (máx. 1x/turno por criatura).
+  - Resistência a Dano: Escolhe Resistência a Ácido, Elétrico, Gélido, Ígneo ou Trovejante (pode alterar a escolha no início de cada turno).

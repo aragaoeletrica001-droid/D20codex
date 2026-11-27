@@ -1,0 +1,221 @@
+# BLOCO 4: ORIGENS - ANTECEDENTES E ESPÉCIES (D&D 2024)
+
+## REGRAS DE CRIAÇÃO DE ORIGEM
+* **Antecedente:** Concede aumento nos Valores de Atributo (+2 em um e +1 em outro, ou +1 nos três atributos listados; máximo 20), 1 Talento de Origem fixo, 2 Proficiências em Perícias, 1 Proficiência em Ferramenta e Equipamento inicial (Opção A com itens + ouro, ou Opção B com 50 PO).
+* **Espécie:** Define Tipo de Criatura (Humanoide), Tamanho, Deslocamento base e Traços especiais.
+* **Idiomas:** Todo personagem começa conhecendo Comum e mais 2 idiomas à escolha da tabela de idiomas padrão.
+
+---
+
+## PARTE 1: ANTECEDENTES (16 OPÇÕES)
+
+### ACÓLITO
+* **Atributos:** Inteligência, Sabedoria, Carisma
+* **Talento:** Iniciado em Magia (Clérigo)
+* **Perícias:** Intuição, Religião
+* **Ferramenta:** Suprimentos de Caligrafia
+* **Equipamento:** (A) Suprimentos de Caligrafia, Livro (orações), Símbolo Sagrado, Pergaminho (10 folhas), Robe, 8 PO; ou (B) 50 PO.
+
+### ARTESÃO
+* **Atributos:** Força, Destreza, Inteligência
+* **Talento:** Artífice
+* **Perícias:** Investigação, Persuasão
+* **Ferramenta:** 1 Ferramenta de Artesão à escolha
+* **Equipamento:** (A) Ferramenta de Artesão (a mesma escolhida), 2 Bolsas, Roupas de Viajante, 32 PO; ou (B) 50 PO.
+
+### ARTISTA
+* **Atributos:** Força, Destreza, Carisma
+* **Talento:** Músico
+* **Perícias:** Acrobacia, Atuação
+* **Ferramenta:** 1 Instrumento Musical à escolha
+* **Equipamento:** (A) Instrumento Musical (o mesmo escolhido), 2 Trajes, Espelho, Perfume, Roupas de Viajante, 11 PO; ou (B) 50 PO.
+
+### CAMponês / FAZENDEIRO
+* **Atributos:** Força, Constituição, Sabedoria
+* **Talento:** Vigoroso
+* **Perícias:** Lidar com Animais, Natureza
+* **Ferramenta:** Ferramentas de Carpinteiro
+* **Equipamento:** (A) Foice Curta, Ferramentas de Carpinteiro, Kit de Curandeiro, Panela de Ferro, Pá, Roupas de Viajante, 30 PO; ou (B) 50 PO.
+
+### CHARLATÃO
+* **Atributos:** Destreza, Constituição, Carisma
+* **Talento:** Habilidoso
+* **Perícias:** Enganação, Prestidigitação
+* **Ferramenta:** Kit de Falsificação
+* **Equipamento:** (A) Kit de Falsificação, Traje, Roupas Finas, 15 PO; ou (B) 50 PO.
+
+### COMERCIANTE / MERCADOR
+* **Atributos:** Constituição, Inteligência, Carisma
+* **Talento:** Sortudo
+* **Perícias:** Lidar com Animais, Persuasão
+* **Ferramenta:** Ferramentas de Navegador
+* **Equipamento:** (A) Ferramentas de Navegador, 2 Bolsas, Roupas de Viajante, 22 PO; ou (B) 50 PO.
+
+### CRIMINOSO
+* **Atributos:** Destreza, Constituição, Inteligência
+* **Talento:** Alerta
+* **Perícias:** Furtividade, Prestidigitação
+* **Ferramenta:** Ferramentas de Ladrão
+* **Equipamento:** (A) 2 Adagas, Ferramentas de Ladrão, Pé de Cabra, 2 Bolsas, Roupas de Viajante, 16 PO; ou (B) 50 PO.
+
+### ERMITÃO
+* **Atributos:** Constituição, Sabedoria, Carisma
+* **Talento:** Curandeiro
+* **Perícias:** Medicina, Religião
+* **Ferramenta:** Kit de Herbalismo
+* **Equipamento:** (A) Bordão, Kit de Herbalismo, Saco de Dormir, Livro (filosofia), Lamparina, Óleo (3 frascos), Roupas de Viajante, 16 PO; ou (B) 50 PO.
+
+### ESCRIBA
+* **Atributos:** Destreza, Inteligência, Sabedoria
+* **Talento:** Habilidoso
+* **Perícias:** Investigação, Percepção
+* **Ferramenta:** Suprimentos de Caligrafia
+* **Equipamento:** (A) Suprimentos de Caligrafia, Roupas Finas, Lamparina, Óleo (3 frascos), Pergaminho (12 folhas), 23 PO; ou (B) 50 PO.
+
+### GUARDA
+* **Atributos:** Força, Inteligência, Sabedoria
+* **Talento:** Alerta
+* **Perícias:** Atletismo, Percepção
+* **Ferramenta:** 1 Conjunto de Jogo à escolha
+* **Equipamento:** (A) Lança, Besta Leve, 20 Virotes, Conjunto de Jogo (o mesmo escolhido), Lanterna Furta-fogo, Algemas, Aljava, Roupas de Viajante, 12 PO; ou (B) 50 PO.
+
+### GUIA
+* **Atributos:** Destreza, Constituição, Sabedoria
+* **Talento:** Iniciado em Magia (Druida)
+* **Perícias:** Furtividade, Sobrevivência
+* **Ferramenta:** Ferramentas de Cartógrafo
+* **Equipamento:** (A) Arco Curto, 20 Flechas, Ferramentas de Cartógrafo, Saco de Dormir, Aljava, Tenda, Roupas de Viajante, 3 PO; ou (B) 50 PO.
+
+### MARINHEIRO
+* **Atributos:** Força, Destreza, Sabedoria
+* **Talento:** Brigão de Taverna
+* **Perícias:** Acrobacia, Percepção
+* **Ferramenta:** Ferramentas de Navegador
+* **Equipamento:** (A) Adaga, Ferramentas de Navegador, Corda, Roupas de Viajante, 20 PO; ou (B) 50 PO.
+
+### NOBRE
+* **Atributos:** Força, Inteligência, Carisma
+* **Talento:** Habilidoso
+* **Perícias:** História, Persuasão
+* **Ferramenta:** 1 Conjunto de Jogo à escolha
+* **Equipamento:** (A) Conjunto de Jogo (o mesmo escolhido), Roupas Finas, Perfume, 29 PO; ou (B) 50 PO.
+
+### SÁBIO
+* **Atributos:** Constituição, Inteligência, Sabedoria
+* **Talento:** Iniciado em Magia (Mago)
+* **Perícias:** Arcanismo, História
+* **Ferramenta:** Suprimentos de Caligrafia
+* **Equipamento:** (A) Bordão, Suprimentos de Caligrafia, Livro (história), Pergaminho (8 folhas), Robe, 8 PO; ou (B) 50 PO.
+
+### SOLDADO
+* **Atributos:** Força, Destreza, Constituição
+* **Talento:** Atacante Selvagem
+* **Perícias:** Atletismo, Intimidação
+* **Ferramenta:** 1 Conjunto de Jogo à escolha
+* **Equipamento:** (A) Lança, Arco Curto, 20 Flechas, Conjunto de Jogo (o mesmo escolhido), Kit de Curandeiro, Aljava, Roupas de Viajante, 14 PO; ou (B) 50 PO.
+
+### VIAJANTE / ANDARILHO (WAYFARER)
+* **Atributos:** Destreza, Sabedoria, Carisma
+* **Talento:** Sortudo
+* **Perícias:** Furtividade, Intuição
+* **Ferramenta:** Ferramentas de Ladrão
+* **Equipamento:** (A) 2 Adagas, Ferramentas de Ladrão, 1 Conjunto de Jogo à escolha, Saco de Dormir, 2 Bolsas, Roupas de Viajante, 16 PO; ou (B) 50 PO.
+
+---
+
+## PARTE 2: ESPÉCIES (10 OPÇÕES)
+
+### AASIMAR
+* **Tamanho:** Médio (1,20–2,10 m) ou Pequeno (0,60–1,20 m), à escolha | **Deslocamento:** 9 m
+* **Traços:**
+  - **Resistência Celestial:** Resistência a dano Necrótico e Radiante.
+  - **Visão no Escuro:** Alcance de 18 metros.
+  - **Mãos Curandeiras:** Como Ação, toca 1 criatura e rola um número de d4s igual ao seu BP; o alvo recupera PV iguais ao total rolado (1x/Descanso Longo).
+  - **Portador da Luz:** Conhece o truque *Luz* (Carisma é seu atributo de conjuração para ele).
+  - **Revelação Celestial (Nível 3+):** Como Ação Bônus, transforma-se por 1 minuto (1x/Descanso Longo). 1x em cada um dos seus turnos, quando causar dano a um alvo com ataque ou magia, causa dano adicional igual ao seu BP (Necrótico ou Radiante conforme a forma). Escolhe 1 forma ao ativar:
+    1. *Asas Celestiais:* Ganha Deslocamento de Voo igual ao seu Deslocamento; dano extra é Radiante.
+    2. *Radiância Interior:* Emite Luz Plena em raio de 3m (Meia-luz +3m); no fim de cada turno seu, cada criatura a até 3m sofre dano Radiante igual ao seu BP; dano extra é Radiante.
+    3. *Mortalha Necrótica:* Criaturas diferentes de você a até 3m ao ativar fazem SG Carisma (CD 8 + Mod. Car + BP) ou ficam Amedrontadas até o fim do seu próximo turno; dano extra é Necrótico.
+
+### DRACONATO
+* **Tamanho:** Médio (1,50–2,10 m) | **Deslocamento:** 9 m
+* **Ancestralidade Dracônica:** Escolhe 1 tipo de dragão: Azul (Elétrico), Branco (Gélido), Bronze (Elétrico), Cobre (Ácido), Latão (Ígneo), Negro (Ácido), Ouro (Ígneo), Prata (Gélido), Verde (Venenoso) ou Vermelho (Ígneo).
+* **Traços:**
+  - **Arma de Sopro:** Quando executa a ação Atacar no seu turno, pode substituir um dos ataques por uma exalação mágica em Cone de 4,5m ou Linha de 9m x 1,5m (à escolha). Cada criatura na área faz SG Destreza (CD 8 + Mod. Con + BP) -> falha: 1d10 de dano do tipo da sua Ancestralidade; sucesso: metade. Dano aumenta para 2d10 (Nv 5), 3d10 (Nv 11) e 4d10 (Nv 17). Usos = BP por Descanso Longo.
+  - **Resistência a Dano:** Resistência ao tipo de dano associado à sua Ancestralidade Dracônica.
+  - **Visão no Escuro:** Alcance de 18 metros.
+  - **Voo Dracônico (Nível 5+):** Como Ação Bônus, manifesta asas espectrais por 10 minutos, ganhando Deslocamento de Voo igual ao seu Deslocamento (1x/Descanso Longo).
+
+### ANÃO
+* **Tamanho:** Médio (1,20–1,50 m) | **Deslocamento:** 9 m
+* **Traços:**
+  - **Visão no Escuro:** Alcance de 36 metros.
+  - **Resiliência Anã:** Resistência a dano Venenoso e Vantagem em salvaguardas para evitar ou encerrar a condição Envenenado.
+  - **Tenacidade Anã:** Seus Pontos de Vida máximos aumentam em +1, e aumentam em +1 adicional cada vez que você ganha um nível.
+  - **Sentido das Pedras:** Como Ação Bônus, ganha Sismiconsciência com alcance de 18m por 10 minutos enquanto estiver tocando uma superfície de pedra (natural ou trabalhada). Usos = BP por Descanso Longo.
+
+### ELFO
+* **Tamanho:** Médio (1,50–1,80 m) | **Deslocamento:** 9 m (9 m ou 10,5 m para Elfo da Floresta)
+* **Traços:**
+  - **Visão no Escuro:** Alcance de 18 metros (36m para Drow).
+  - **Linhagem Élfica:** Escolhe 1 linhagem (concede truque e magias nos níveis 3 e 5; usa Int, Sab ou Car à escolha):
+    1. *Drow:* Visão no Escuro 36m, *Globos de Luz* (Nv 1), *Fogo das Fadas* (Nv 3), *Escuridão* (Nv 5).
+    2. *Alto Elfo:* *Prestidigitação Arcana* (pode trocar por outro truque de Mago ao fim de Descanso Longo), *Detectar Magia* (Nv 3), *Passo Nebuloso* (Nv 5).
+    3. *Elfo da Floresta:* Deslocamento torna-se 10,5m, *Arte Druídica* (Nv 1), *Passos Largos* (Nv 3), *Passo sem Rastro* (Nv 5).
+  - **Ancestralidade Feérica:** Vantagem em salvaguardas para evitar ou encerrar a condição Enfeitiçado.
+  - **Sentidos Aguçados:** Proficiência em Intuição, Percepção ou Sobrevivência (à escolha).
+  - **Transe:** Não precisa dormir e magia não pode colocá-lo para dormir; completa um Descanso Longo em 4 horas de meditação consciente.
+
+### GNOMO
+* **Tamanho:** Pequeno (0,90–1,20 m) | **Deslocamento:** 9 m
+* **Traços:**
+  - **Visão no Escuro:** Alcance de 18 metros.
+  - **Astúcia Gnômica:** Vantagem em salvaguardas de Inteligência, Sabedoria e Carisma.
+  - **Linhagem Gnômica:** Escolhe 1 linhagem (usa Int, Sab ou Car à escolha):
+    1. *Gnomo da Floresta:* Conhece *Ilusão Menor* e tem *Falar com Animais* sempre preparada (pode conjurá-la sem gastar espaço de magia um número de vezes = BP por Descanso Longo).
+    2. *Gnomo das Rochas:* Conhece *Consertar* e *Prestidigitação Arcana*. Pode gastar 10 minutos e 10 PO para criar um mecanismo Minúsculo (CA 5, 1 PV) que replica um efeito de *Prestidigitação Arcana* quando ativado (máx. 3 ativos por vez; duram 8 horas).
+
+### GOLIAS
+* **Tamanho:** Médio (2,10–2,40 m) | **Deslocamento:** 10,5 m
+* **Traços:**
+  - **Ancestralidade Gigante:** Escolhe 1 bênção sobrenatural (usos = BP por Descanso Longo):
+    1. *Salto das Nuvens (Gigante das Nuvens):* Como Ação Bônus, teleporta magicamente até 9m para um espaço desocupado visível.
+    2. *Queimadura Ígnea (Gigante do Fogo):* Quando acerta um alvo com jogada de ataque e causa dano, causa +1d10 de dano Ígneo adicional.
+    3. *Calafrio Gélido (Gigante do Gelo):* Quando acerta um alvo com jogada de ataque e causa dano, causa +1d6 de dano Gélido adicional e reduz o Deslocamento do alvo em 3m até o início do seu próximo turno.
+    4. *Tombo da Colina (Gigante da Colina):* Quando acerta uma criatura Grande ou menor com jogada de ataque e causa dano, impõe a condição Caído no alvo.
+    5. *Resiliência da Pedra (Gigante da Pedra):* Como Reação ao sofrer dano, rola 1d12 + Mod. Constituição e reduz o dano sofrido por esse total.
+    6. *Trovão da Tempestade (Gigante da Tempestade):* Como Reação ao sofrer dano de uma criatura a até 18m, causa 1d8 de dano Trovejante ao atacante.
+  - **Forma Grande (Nível 5+):** Como Ação Bônus, muda seu tamanho para Grande por 10 minutos (se houver espaço; 1x/Descanso Longo). Enquanto Grande, tem Vantagem em testes de Força e seu Deslocamento aumenta em +3m.
+  - **Constituição Poderosa:** Vantagem em qualquer teste de atributo feito para encerrar a condição Imobilizado; conta como 1 tamanho maior para determinar Capacidade de Carga.
+
+### PEQUENINO (HALFLING)
+* **Tamanho:** Pequeno (0,60–0,90 m) | **Deslocamento:** 9 m
+* **Traços:**
+  - **Corajoso:** Vantagem em salvaguardas para evitar ou encerrar a condição Amedrontado.
+  - **Agilidade Pequenina:** Pode mover-se através do espaço de qualquer criatura de tamanho maior que o seu.
+  - **Sortudo:** Quando rolar um 1 natural no d20 de um Teste de D20, pode jogar o dado novamente e deve usar o novo resultado.
+  - **Furtividade Natural:** Pode executar a ação Esconder mesmo quando estiver obscurecido apenas por uma criatura que seja pelo menos um tamanho maior que você.
+
+### HUMANO
+* **Tamanho:** Médio (1,20–2,10 m) ou Pequeno (0,60–1,20 m), à escolha | **Deslocamento:** 9 m
+* **Traços:**
+  - **Inventivo:** Ganha Inspiração Heroica sempre que completa um Descanso Longo.
+  - **Perito:** Ganha proficiência em 1 perícia à sua escolha.
+  - **Versátil:** Ganha 1 Talento de Origem à sua escolha.
+
+### ORC
+* **Tamanho:** Médio (1,80–2,10 m) | **Deslocamento:** 9 m
+* **Traços:**
+  - **Pico de Adrenalina:** Pode executar a ação Correr como Ação Bônus. Ao fazer isso, ganha Pontos de Vida Temporários iguais ao seu BP. Usos = BP por Descanso Curto ou Longo.
+  - **Visão no Escuro:** Alcance de 36 metros.
+  - **Resistência Implacável:** Quando for reduzido a 0 Pontos de Vida mas não morto instantaneamente, pode cair para 1 Ponto de Vida em vez disso (1x/Descanso Longo).
+
+### TIFERINO (TIEFLING)
+* **Tamanho:** Médio (1,20–2,10 m) ou Pequeno (0,60–1,20 m), à escolha | **Deslocamento:** 9 m
+* **Traços:**
+  - **Visão no Escuro:** Alcance de 18 metros.
+  - **Legado Infernal:** Escolhe 1 legado (concede resistência, truque e magias nos níveis 3 e 5; usa Int, Sab ou Car à escolha):
+    1. *Abissal:* Resistência a dano Venenoso; *Rajada de Veneno* (Nv 1), *Raio Nauseante* (Nv 3), *Imobilizar Pessoa / Paralisar Pessoa* (Nv 5).
+    2. *Ctônico:* Resistência a dano Necrótico; *Toque Necrótico* (Nv 1), *Vitalidade Vazia* (Nv 3), *Raio do Enfraquecimento* (Nv 5).
+    3. *Infernal:* Resistência a dano Ígneo; *Raio de Fogo* (Nv 1), *Repreensão Diabólica* (Nv 3), *Escuridão* (Nv 5).
+  - **Presença Sobrenatural:** Conhece o truque *Taumaturgia* (usa o mesmo atributo de conjuração do seu Legado).

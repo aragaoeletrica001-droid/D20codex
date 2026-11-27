@@ -1,0 +1,149 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 8 (GUERREIRO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Força ou Destreza
+* Dado de Ponto de Vida: d10 por nível de Guerreiro
+* PV no Nível 1: 10 + Mod. Constituição
+* PV em Níveis Seguintes: 1d10 (ou 6) + Mod. Constituição
+* Proficiência em Salvaguardas: Força e Constituição
+* Proficiência em Perícias: Escolha 2 entre Acrobacia, Atletismo, História, Intimidação, Intuição, Lidar com Animais, Percepção, Persuasão ou Sobrevivência
+* Proficiência com Armas: Armas Simples e Marciais
+* Treinamento com Armadura: Armaduras Leves, Médias, Pesadas e Escudos
+* Equipamento Inicial: (A) Cota de Malha, Espada Grande, Mangual, 8 Azagaias, Kit de Explorador de Masmorras e 4 PO; (B) Armadura de Couro Batido, Cimitarra, Espada Curta, Arco Longo, 20 Flechas, Aljava, Kit de Explorador de Masmorras e 11 PO; ou (C) 155 PO
+* Multiclasse (Ganhos): Dado de Vida (d10), Armas Marciais, Armaduras Leves, Médias e Escudos
+
+## TABELA DE PROGRESSÃO (GUERREIRO)
+| Nv | BP | Recuperar Fôlego | Maestria em Arma | Características |
+|---|---|---|---|---|
+| 1 | +2 | 2 | 3 | Estilo de Luta, Maestria em Arma, Recuperar Fôlego |
+| 2 | +2 | 2 | 3 | Mente Tática, Surto de Ação |
+| 3 | +2 | 2 | 3 | Subclasse de Guerreiro |
+| 4 | +2 | 3 | 4 | Aumento no Valor de Atributo |
+| 5 | +3 | 3 | 4 | Ajuste Tático, Ataque Extra |
+| 6 | +3 | 3 | 4 | Aumento no Valor de Atributo |
+| 7 | +3 | 3 | 4 | Característica de Subclasse |
+| 8 | +3 | 3 | 4 | Aumento no Valor de Atributo |
+| 9 | +4 | 3 | 4 | Indomável, Mestre Tático |
+| 10 | +4 | 4 | 5 | Característica de Subclasse |
+| 11 | +4 | 4 | 5 | Dois Ataques Extras |
+| 12 | +4 | 4 | 5 | Aumento no Valor de Atributo |
+| 13 | +5 | 4 | 5 | Ataques Estudados, Indomável (2 usos) |
+| 14 | +5 | 4 | 5 | Aumento no Valor de Atributo |
+| 15 | +5 | 4 | 5 | Característica de Subclasse |
+| 16 | +5 | 4 | 6 | Aumento no Valor de Atributo |
+| 17 | +6 | 4 | 6 | Indomável (3 usos), Surto de Ação (2 usos) |
+| 18 | +6 | 4 | 6 | Característica de Subclasse |
+| 19 | +6 | 4 | 6 | Dádiva Épica |
+| 20 | +6 | 4 | 6 | Três Ataques Extras |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Estilo de Luta: Adquire 1 Talento de Estilo de Luta à escolha. Pode substituir esse talento por outro de Estilo de Luta sempre que subir de nível de Guerreiro.
+* Nível 1 - Maestria em Arma: Usa propriedades de maestria de 3 tipos de armas Simples ou Marciais à escolha (sobe para 4 Nv 4, 5 Nv 10, 6 Nv 16). Pode alterar 1 escolha ao completar um Descanso Longo.
+* Nível 1 - Recuperar Fôlego: Ação Bônus recupera PV = 1d10 + nível de Guerreiro. Usos conforme tabela (2 Nv 1, 3 Nv 4, 4 Nv 10); recupera 1 uso em Descanso Curto e todos em Descanso Longo.
+* Nível 2 - Mente Tática: Ao falhar em um teste de atributo, pode gastar 1 uso de Recuperar Fôlego (sem curar) para jogar 1d10 e somar ao teste. Se ainda assim falhar, o uso não é gasto.
+* Nível 2 - Surto de Ação: No seu turno, executa 1 ação adicional, exceto a ação Usar Magia. Usos: 1x/Descanso Curto ou Longo (2x no Nível 17, máx. 1x por turno).
+* Nível 3 - Subclasse de Guerreiro: Escolhe uma especialização.
+* Nível 4, 6, 8, 12, 14, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Ajuste Tático: Sempre que usar Ação Bônus para Recuperar Fôlego, pode mover-se até metade do seu Deslocamento sem provocar Ataques de Oportunidade.
+* Nível 5 - Ataque Extra: 2 ataques ao executar a ação Atacar no seu turno.
+* Nível 9 - Indomável: Ao falhar em uma salvaguarda, joga-a novamente somando bônus = seu nível de Guerreiro (obrigatório usar o novo resultado). Usos: 1x/Descanso Longo (2x no Nível 13; 3x no Nível 17).
+* Nível 9 - Mestre Tático: Ao atacar com arma cuja propriedade de maestria possa usar, pode substituir essa propriedade por Empurrar, Drenar ou Lentidão para esse ataque.
+* Nível 11 - Dois Ataques Extras: 3 ataques ao executar a ação Atacar no seu turno.
+* Nível 13 - Ataques Estudados: Se errar uma jogada de ataque contra uma criatura, tem Vantagem na próxima jogada de ataque contra ela antes do final do seu próximo turno.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Três Ataques Extras: 4 ataques ao executar a ação Atacar no seu turno.
+
+## SUBCLASSES DE GUERREIRO
+
+### CAMPEÃO
+* Nível 3 - Atleta Extraordinário: Vantagem em jogadas de Iniciativa e testes de Força (Atletismo). Imediatamente após obter um Acerto Crítico, pode mover-se até metade do seu Deslocamento sem provocar Ataques de Oportunidade.
+* Nível 3 - Crítico Aprimorado: Jogadas de ataque com armas e Ataques Desarmados obtêm Acerto Crítico com 19 ou 20 no d20.
+* Nível 7 - Estilo de Luta Adicional: Adquire outro talento de Estilo de Luta à escolha.
+* Nível 10 - Combatente Heroico: Durante combate, pode conceder a si Inspiração Heroica sempre que iniciar seu turno sem ela.
+* Nível 15 - Crítico Superior: Jogadas de ataque com armas e Ataques Desarmados obtêm Acerto Crítico com 18, 19 ou 20 no d20.
+* Nível 18 - Sobrevivente:
+  - Desafie a Morte: Vantagem em Salvaguardas contra Morte. Resultado 18-20 conta como 20 natural.
+  - Regeneração Heroica: No início de cada turno, se estiver Sangrando e com >= 1 PV, recupera PV = 5 + Mod. Constituição.
+
+### CAVALEIRO MÍSTICO
+* Nível 3 - Conjuração:
+  - Lista: Mago. Atributo: Inteligência. Foco: Foco Arcano.
+  - Truques: Conhece 2 truques de Mago (+1 no Nível 10). Pode substituir 1 truque ao subir de nível de Guerreiro.
+  - Magias Preparadas: Conforme tabela abaixo (pode substituir 1 magia preparada ao subir de nível de Guerreiro). Restaura espaços em Descanso Longo.
+
+#### TABELA: CONJURAÇÃO DE CAVALEIRO MÍSTICO
+| Nv Guerreiro | Magias Prep. | 1º | 2º | 3º | 4º |
+|---|---|---|---|---|---|
+| 3 | 3 | 2 | - | - | - |
+| 4-6 | 4 | 3 | - | - | - |
+| 7 | 5 | 4 | 2 | - | - |
+| 8-9 | 6 | 4 | 2 | - | - |
+| 10 | 7 | 4 | 3 | - | - |
+| 11-12 | 8 | 4 | 3 | - | - |
+| 13 | 9 | 4 | 3 | 2 | - |
+| 14-15 | 10 | 4 | 3 | 2 | - |
+| 16-18 | 11 | 4 | 3 | 3 | - |
+| 19 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 13 | 4 | 3 | 3 | 1 |
+
+* Nível 3 - Vínculo com Arma: Ritual de 1h (pode ser durante Descanso Curto) vincula 1 arma (máx. 2 vínculos; falha se ligada a outro Guerreiro ou mágico sintonizado por outro). Não pode ser desarmada (salvo se Incapacitado). Ação Bônus invoca 1 arma vinculada no mesmo plano diretamente para sua mão.
+* Nível 7 - Magia de Guerra: Ao executar ação Atacar no seu turno, pode substituir 1 dos ataques pela conjuração de 1 truque de Mago (tempo de conjuração: 1 Ação).
+* Nível 10 - Golpe Místico: Ao atingir criatura com ataque de arma, ela tem Desvantagem na próxima salvaguarda contra uma magia que você conjurar antes do final do seu próximo turno.
+* Nível 15 - Investida Mística: Ao usar Surto de Ação, pode teleportar até 9m para espaço desocupado visível (antes ou depois da ação adicional).
+* Nível 18 - Magia de Guerra Aprimorada: Ao executar ação Atacar no seu turno, pode substituir 2 ataques pela conjuração de 1 magia de Mago de 1º ou 2º círculo (tempo de conjuração: 1 Ação).
+
+### COMBATENTE PSÍQUICO
+* Nível 3 - Poder Psiônico: Reserva de Dados de Energia Psiônica (recupera 1 dado em Descanso Curto e todos em Descanso Longo).
+
+#### TABELA: DADOS DE ENERGIA DO COMBATENTE PSÍQUICO
+| Nv Guerreiro | Tipo de Dado | Quantidade |
+|---|---|---|
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
+
+  - Golpe Psiônico: 1x/turno após acertar e causar dano com arma a alvo a até 9m -> gasta 1 Dado Psiônico e causa dano Energético adicional = rolagem + Mod. Inteligência.
+  - Movimento Telecinético: Ação Usar Magia move objeto solto (Grande ou menor) ou outra criatura voluntária visível a até 9m -> transporta até 9m para espaço desocupado visível (ou objeto Minúsculo de/para sua mão). Usos: 1x/Descanso Curto ou Longo, ou gastando 1 Dado Psiônico (sem ação).
+  - Vínculo Protetivo: Reação quando você ou outra criatura visível a até 9m sofre dano -> gasta 1 Dado Psiônico e reduz o dano em (rolagem + Mod. Inteligência, mín. 1).
+* Nível 7 - Adepto Telecinético:
+  - Estocada Telecinética: Ao causar dano com Golpe Psiônico, força SG Força (CD 8 + Mod. Inteligência + BP). Falha: impõe Caído ou move o alvo horizontalmente até 3m.
+  - Salto com Impulsão Psíquica: Ação Bônus concede Deslocamento de Voo = 2x Deslocamento até o fim do turno. Usos: 1x/Descanso Curto ou Longo, ou gastando 1 Dado Psiônico (sem ação).
+* Nível 10 - Resguardo Mental: Resistência a dano Psíquico. Ao iniciar seu turno com condição Amedrontado ou Enfeitiçado, pode gastar 1 Dado Psiônico (sem ação) para encerrar todos os efeitos que impõem essas condições em você.
+* Nível 15 - Baluarte de Energia: Ação Bônus escolhe até Mod. Inteligência (mín. 1) criaturas a até 9m (incluindo você) -> ganham Cobertura Parcial por 1 min ou até você ficar Incapacitado. Usos: 1x/Descanso Longo, ou gastando 1 Dado Psiônico (sem ação).
+* Nível 18 - Mestre Telecinético: Sempre tem Telecinese preparada (atributo Inteligência). Conjura sem espaço ou componentes (1x/Descanso Longo, ou gastando 1 Dado Psiônico sem ação). Em cada turno mantendo Concentração nela (incluindo o turno da conjuração), pode fazer 1 ataque com arma como Ação Bônus.
+
+### MESTRE DA BATALHA
+* Nível 3 - Estudioso da Guerra: Proficiência em 1 tipo de Ferramentas de Artesão à escolha e em 1 perícia à escolha da lista de Guerreiro.
+* Nível 3 - Superioridade em Combate:
+  - Manobras: Aprende 3 manobras (+2 nos Níveis 7, 10 e 15; pode trocar 1 conhecida sempre que aprender novas). Máx. 1 manobra por ataque.
+  - Dados de Superioridade: 4d8 (sobe para 5 dados no Nv 7 e 6 dados no Nv 15). Restaura todos em Descanso Curto ou Longo.
+  - CD das Manobras: 8 + Mod. Força ou Destreza (à escolha) + BP.
+* Nível 7 - Conheça Seu Inimigo: Ação Bônus examina criatura visível a até 9m -> descobre se possui Imunidades, Resistências ou Vulnerabilidades, e quais são. Usos: 1x/Descanso Longo, ou gastando 1 Dado de Superioridade (sem ação).
+* Nível 10 - Superioridade em Combate Aprimorada: Dado de Superioridade vira d10.
+* Nível 15 - Implacável: 1x/turno ao usar uma manobra, pode jogar 1d8 e usar esse resultado em vez de gastar um Dado de Superioridade.
+* Nível 18 - Superioridade em Combate Suprema: Dado de Superioridade vira d12.
+
+#### OPÇÕES DE MANOBRAS (CUSTO: 1 DADO DE SUPERIORIDADE)
+* Aparar: Reação ao sofrer dano de ataque corpo a corpo -> reduz dano em (rolagem + Mod. Força ou Destreza).
+* Ataque Ameaçador: Ao acertar ataque -> soma rolagem ao dano; alvo faz SG Sabedoria ou fica Amedrontado até o fim do seu próximo turno.
+* Ataque de Varredura: Ao acertar ataque corpo a corpo -> escolhe outra criatura a até 1,5m do alvo original dentro do alcance; se a jogada original atingir a CA dela, ela sofre dano = rolagem (mesmo tipo).
+* Ataque Estendido: Ação Bônus executa ação Correr; se mover >= 1,5m em linha reta antes de ataque corpo a corpo na ação Atacar deste turno, soma rolagem ao dano.
+* Ataque para Distrair: Ao acertar ataque -> soma rolagem ao dano; próxima jogada de ataque de outro atacante contra o alvo antes do início do seu próximo turno tem Vantagem.
+* Ataque Preciso: Ao errar jogada de ataque -> soma rolagem à jogada de ataque.
+* Ataque Provocante: Ao acertar ataque -> soma rolagem ao dano; alvo faz SG Sabedoria ou tem Desvantagem em ataques contra alvos diferentes de você até o fim do seu próximo turno.
+* Avaliação Tática: Soma rolagem a teste de Inteligência (História ou Investigação) ou Sabedoria (Intuição).
+* Contra-ataque: Reação quando criatura erra ataque corpo a corpo contra você -> realiza ataque corpo a corpo contra ela; se acertar, soma rolagem ao dano.
+* Desarme: Ao acertar ataque -> soma rolagem ao dano; alvo faz SG Força ou solta 1 objeto à escolha que esteja segurando (cai no espaço dele).
+* Emboscada: Soma rolagem a teste de Destreza (Furtividade) ou Iniciativa (exceto se Incapacitado).
+* Encontrão: Ao acertar ataque -> soma rolagem ao dano; se Grande ou menor, alvo faz SG Força ou é empurrado até 4,5m para longe.
+* Finta: Ação Bônus escolhe criatura a até 1,5m -> Vantagem no próximo ataque contra ela neste turno; se acertar, soma rolagem ao dano.
+* Gato Por Lebre: No seu turno a até 1,5m de criatura voluntária (não Incapacitada) -> gasta >= 1,5m de movimento para trocar de lugar com ela (sem provocar Ataques de Oportunidade); você ou ela (à escolha) soma rolagem à CA até o início do seu próximo turno.
+* Golpe do Comandante: Substitui 1 ataque da ação Atacar -> criatura voluntária que o veja/ouça usa Reação para realizar 1 ataque (arma ou desarmado), somando rolagem ao dano se acertar.
+* Manobrar: Ao acertar ataque -> soma rolagem ao dano; 1 criatura voluntária que o veja/ouça usa Reação para mover até metade do Deslocamento sem provocar Ataques de Oportunidade do alvo do seu ataque.
+* Movimentação Evasiva: Ação Bônus executa ação Desengajar e soma rolagem à sua CA até o início do seu próximo turno.
+* Presença de Autoridade: Soma rolagem a teste de Carisma (Atuação, Intimidação ou Persuasão).
+* Prostrar: Ao acertar ataque -> soma rolagem ao dano; se Grande ou menor, alvo faz SG Força ou fica Caído.
+* Recuperar Energia: Ação Bônus escolhe aliado a até 9m que o veja/ouça -> aliado ganha PVT = rolagem + metade do nível de Guerreiro (arred. baixo).

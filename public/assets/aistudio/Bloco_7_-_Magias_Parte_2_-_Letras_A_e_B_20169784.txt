@@ -1,0 +1,256 @@
+# BLOCO 7: MAGIAS - PARTE 2 (LETRAS A E B)
+
+## LETRA A
+
+### ACALMAR EMOÇÕES
+* Círculo/Escola: 2º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Esfera de 6m de raio em ponto visível. Cada Humanoide na área faz SG Carisma (pode optar por falhar). Em falha, escolhe 1 efeito pela duração:
+  - Suprime as condições Amedrontado e Enfeitiçado no alvo (retomam se ainda ativas ao fim da magia).
+  - Torna o alvo Indiferente a criaturas à escolha com as quais seja Hostil (encerra se o alvo sofrer dano, atacar ou forçar uma salvaguarda).
+
+### ACUDIR OS MORIBUNDOS
+* Círculo/Escola: Truque, Necromancia
+* Conjuração: 1 Ação | Alcance: 4,5 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Escolhe 1 criatura no alcance com 0 PV que não esteja morta; ela torna-se Estável.
+* Aprimoramento de Truque: Alcance dobra nos níveis 5 (9 m), 11 (18 m) e 17 (36 m).
+
+### ALARME
+* Círculo/Escola: 1º Círculo, Abjuração (Ritual)
+* Conjuração: 1 minuto | Alcance: 9 m | Componentes: V, S, M (sino e fio de prata) | Duração: 8 horas
+* Efeito: Protege porta, janela ou Cubo de até 6m. Designa criaturas que não disparam o alarme. Quando criatura Minúscula ou maior não designada toca ou entra na área, dispara:
+  - Mental: Alerta telepático a até 1,5 km (acorda você se estiver dormindo).
+  - Audível: Som de sino audível a até 18m por 10 segundos.
+
+### ALIADO EXTRAPLANAR
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 10 minutos | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Invoca 1 Celestial, Elemental ou Ínfero (controlado pelo Mestre) enviado por uma entidade extraplanar em espaço desocupado no alcance. A criatura não é obrigada a servir sem pagamento negociado (referência: 100 PO/minuto, 1.000 PO/hora ou 10.000 PO/dia; metade se alinhado ao patrono).
+
+### ALJAVA VELOZ
+* Círculo/Escola: 5º Círculo, Transmutação
+* Conjuração: 1 Ação Bônus | Alcance: Pessoal | Componentes: V, S, M (aljava com >= 1 peça de munição) | Duração: Concentração, até 1 minuto
+* Efeito: A aljava produz munição não mágica ilimitada (desaparece após acertar ou errar). Ao conjurar a magia e como Ação Bônus nos turnos seguintes, realiza 2 ataques com arma usando munição desta aljava.
+
+### ALTERAR-SE
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: Escolhe 1 opção (pode trocar para outra opção usando a ação Usar Magia):
+  - Adaptação Aquática: Respira debaixo d'água e ganha Deslocamento de Natação = seu Deslocamento.
+  - Armas Naturais: Seus Ataques Desarmados causam 1d6 de dano Contundente, Cortante ou Perfurante (à escolha) e usam seu atributo de conjuração para ataque e dano no lugar de Força.
+  - Mudar Aparência: Altera aparência física (mantém estatísticas básicas, tamanho e estrutura básica de membros). Pode alterar novamente com a ação Usar Magia.
+
+### AMIGOS
+* Círculo/Escola: Truque, Encantamento
+* Conjuração: 1 Ação | Alcance: 3 m | Componentes: S, M (maquiagem) | Duração: Concentração, até 1 minuto
+* Efeito: 1 Humanoide visível faz SG Sabedoria (passa automaticamente se não for Humanoide, se você estiver lutando com ele ou se você já tiver conjurado esta magia nele nas últimas 24h). Falha: condição Enfeitiçado por você pela duração (encerra se você atacar, causar dano ou forçar SG; ao terminar, alvo sabe que foi enfeitiçado).
+
+### AMIZADE ANIMAL
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (pedaço de comida) | Duração: 24 horas
+* Efeito: 1 Fera visível faz SG Sabedoria ou fica Enfeitiçada por você pela duração (encerra se você ou seus aliados causarem dano a ela).
+* Círculo Superior: Alveja +1 Fera adicional por círculo acima do 1º.
+
+### ÂNCORA PLANAR
+* Círculo/Escola: 5º Círculo, Abjuração
+* Conjuração: 1 hora | Alcance: 18 m | Componentes: V, S, M (joia de 1.000+ PO, consumida) | Duração: 24 horas
+* Efeito: 1 Celestial, Elemental, Feérico ou Ínfero no alcance (deve permanecer no alcance por toda a conjuração) faz SG Carisma ou deve servi-lo pela duração (se invocada por outra magia, a duração daquela magia estende-se para igualar esta).
+* Círculo Superior: Duração aumenta para 10 dias (6º), 30 dias (7º), 180 dias (8º) ou 366 dias (9º).
+
+### ANIMAR MORTOS
+* Círculo/Escola: 3º Círculo, Necromancia
+* Conjuração: 1 minuto | Alcance: 3 m | Componentes: V, S, M (gota de sangue, pedaço de carne e pitada de pó de osso) | Duração: Instantânea
+* Efeito: Transforma pilha de ossos ou cadáver de Humanoide Médio/Pequeno em Esqueleto ou Zumbi sob seu controle por 24 horas. Ação Bônus comanda uma ou todas as criaturas a até 18m. Reconjurá-la antes de 24h renova o controle de até 4 criaturas já animadas (em vez de animar novas).
+* Círculo Superior: Anima ou renova o controle de +2 criaturas adicionais por círculo acima do 3º.
+
+### ANIMAR OBJETOS
+* Círculo/Escola: 5º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Anima objetos não mágicos não vestidos/carregados até quantidade = Mod. Atributo de Conjuração (mín. 1). Médio ou menor = 1 objeto; Grande = 2 objetos; Enorme = 3 objetos. Cada um vira Constructo (CA 15; PV 10 Médio/menor, 20 Grande, 40 Enorme; Desl. 9m; For 16, Des 10, Con 10, Int 3, Sab 3, Car 1; Imune a Venenoso/Psíquico e condições). Age logo após seu turno; Ação Bônus comanda a até 150m.
+  - Ataque (Pancada): Seu bônus de ataque mágico, alcance 1,5m. Dano Energético: 1d4+3 (Médio/menor), 2d6+3+Mod. Conjuração (Grande) ou 2d12+3+Mod. Conjuração (Enorme).
+* Círculo Superior: Dano aumenta em +1d4 (Médio/menor), +1d6 (Grande) ou +1d12 (Enorme) por círculo acima do 5º.
+
+### ANTIPATIA/SIMPATIA
+* Círculo/Escola: 8º Círculo, Encantamento
+* Conjuração: 1 hora | Alcance: 18 m | Componentes: V, S, M (alúmen em vinagre ou gota de mel) | Duração: 10 dias
+* Efeito: Encanta 1 objeto (Enorme ou menor) ou área (Cubo máx. 60m) para afetar 1 tipo de criatura escolhido (exceto Constructos, Limos e Mortos-Vivos) a até 36m que veja o alvo:
+  - Antipatia: SG Sabedoria ou fica Amedrontado (tenta se afastar). Se passar, imune por 24h.
+  - Simpatia: SG Sabedoria ou fica Enfeitiçado (tenta se aproximar). Se passar, imune por 24h.
+
+### APRIMORAR ATRIBUTO
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pelo ou pena de uma fera) | Duração: Concentração, até 1 hora
+* Efeito: Escolhe 1 atributo (Força, Destreza, Constituição, Inteligência, Sabedoria ou Carisma). O alvo tem Vantagem em todos os testes desse atributo pela duração.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 2º (a até 9m umas das outras).
+
+### APRISIONAMENTO
+* Círculo/Escola: 9º Círculo, Abjuração
+* Conjuração: 1 minuto | Alcance: 9 m | Componentes: V, S, M (representação do alvo + componente específico de 500+ PO por Dado de Vida do alvo) | Duração: Até ser dissipada
+* Efeito: Criatura visível faz SG Sabedoria (se passar, imune a novas conjurações suas por 24h). Em falha, fica presa sem envelhecer nem precisar comer/dormir em 1 formato: Soterramento, Acorrentamento, Prisão Protegida, Cárcere Mínimo ou Sono Eterno. Deve definir condição específica de liberação; Dissipar Magia (9º círculo) também encerra.
+
+### ARCA SECRETA DE LEOMUND
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (baú 0,9x0,6x0,6m de 5.000+ PO e réplica Minúscula de 50+ PO) | Duração: Instantânea
+* Efeito: Envia o baú (e até 0,3 m³ de matéria não viva dentro) ao Plano Etéreo. Ação Usar Magia tocando a réplica convoca o baú a até 1,5m (ou envia de volta). Após 60 dias, 5% de chance cumulativa/dia de a magia encerrar e o baú se perder.
+
+### ARMA ELEMENTAL
+* Círculo/Escola: 3º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: 1 arma não mágica torna-se mágica: +1 nas jogadas de ataque e +1d4 de dano adicional (escolhe Ácido, Elétrico, Gélido, Ígneo ou Trovejante).
+* Círculo Superior: 5º-6º círculo (+2 ataque, +2d4 dano); 7º círculo+ (+3 ataque, +3d4 dano).
+
+### ARMA ESPIRITUAL
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação Bônus | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Cria arma espectral flutuante. Ao conjurar, faz ataque mágico corpo a corpo contra criatura a até 1,5m da arma: acerto = 1d8 + Mod. Atributo de Conjuração de dano Energético. Como Ação Bônus nos turnos seguintes, move a arma até 6m e repete o ataque.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 2º.
+
+### ARMA MÁGICA
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação Bônus | Alcance: Toque | Componentes: V, S | Duração: 1 hora
+* Efeito: 1 arma não mágica torna-se mágica com bônus de +1 nas jogadas de ataque e dano.
+* Círculo Superior: Bônus aumenta para +2 (3º-5º círculo) ou +3 (6º círculo+).
+
+### ARMADURA ARCANA
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pedaço de couro curado) | Duração: 8 horas
+* Efeito: Criatura voluntária que não esteja vestindo armadura passa a ter CA base = 13 + Mod. Destreza. Encerra antecipadamente se o alvo vestir armadura.
+
+### ARMADURA DE AGATHYS
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Ação Bônus | Alcance: Pessoal | Componentes: V, S, M (pedaço de vidro azul) | Duração: 1 hora
+* Efeito: Ganha 5 Pontos de Vida Temporários. Se uma criatura atingir você com ataque corpo a corpo a até 1,5m enquanto você tiver PVT, ela sofre 5 de dano Gélido. A magia encerra antecipadamente se você ficar sem PVT.
+* Círculo Superior: +5 PVT e +5 de dano Gélido por círculo acima do 1º.
+
+### ARROMBAR
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: Destranca 1 fechadura, barra ou corrente em objeto visível (ou suprime Tranca Arcana por 10 min). Produz som audível a até 90m.
+
+### ARTE DRUÍDICA
+* Círculo/Escola: Truque, Transmutação
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Escolhe 1 efeito: prevê clima local pelas próximas 24h; faz flor/semente/broto desabrochar; cria efeito sensorial natural inofensivo em Cubo de 1,5m; acende ou apaga vela, tocha ou fogueira pequena.
+
+### ASSASSINO FANTASMAGÓRICO
+* Círculo/Escola: 4º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Criatura visível faz SG Sabedoria -> falha: sofre 4d10 de dano Psíquico e tem Desvantagem em testes de atributo e jogadas de ataque pela duração; sucesso: metade do dano e a magia encerra. No fim de cada turno dela, repete a SG: falha = 4d10 de dano Psíquico; sucesso = magia encerra.
+* Círculo Superior: Dano aumenta em +1d10 por círculo acima do 4º.
+
+### AUGÚRIO
+* Círculo/Escola: 2º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 minuto | Alcance: Pessoal | Componentes: V, S, M (varetas, ossos ou fichas marcadas de 25+ PO) | Duração: Instantânea
+* Efeito: Recebe presságio sobre o resultado de um plano de ação nos próximos 30 minutos: Bem-aventurança (bom), Desgraça (ruim), Bem-aventurança e Desgraça (ambos) ou Indiferença (nenhum). 25% de chance cumulativa de resposta aleatória a cada conjuração adicional antes de um Descanso Longo.
+
+### AUMENTAR/REDUZIR
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (pitada de ferro em pó) | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura ou objeto não vestido/carregado (alvo involuntário faz SG Constituição). Escolhe:
+  - Aumentar: Tamanho +1 categoria (peso x8); Vantagem em testes e SG de Força; ataques com arma/desarmados causam +1d4 de dano adicional.
+  - Reduzir: Tamanho -1 categoria (peso 1/8); Desvantagem em testes e SG de Força; ataques com arma/desarmados causam -1d4 de dano (mín. 1).
+
+### AURA DE PUREZA
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V | Duração: Concentração, até 10 minutos
+* Efeito: Você e aliados na Emanação ganham Resistência a dano Venenoso e Vantagem em salvaguardas contra efeitos que imponham Amedrontado, Atordoado, Cego, Enfeitiçado, Envenenado, Paralisado ou Surdo.
+
+### AURA DE VIDA
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V | Duração: Concentração, até 10 minutos
+* Efeito: Você e aliados na Emanação ganham Resistência a dano Necrótico, seus PV máximos não podem ser reduzidos e qualquer criatura viva na Emanação que inicie o turno com 0 PV recupera 1 PV.
+
+### AURA DE VITALIDADE
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: Como Ação Bônus no seu turno (incluindo o turno da conjuração), faz 1 criatura na Emanação (pode incluir você) recuperar 2d6 PV.
+
+### AURA MÁGICA DE NYSTUL
+* Círculo/Escola: 2º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (quadrado pequeno de seda) | Duração: 24 horas
+* Efeito: Coloca ilusão em criatura voluntária ou objeto não vestido/carregado (permanente até dissipada se conjurada 30 dias seguidos no mesmo alvo):
+  - Falsa Aura: Altera como o alvo aparece para magias de detecção mágica (mágico, não mágico ou escola falsa).
+  - Máscara: Altera como o tipo de criatura do alvo é percebido por magias e efeitos mágicos (ex: parecer Morto-Vivo ou ignorar gatilhos por tipo).
+
+### AURA SAGRADA
+* Círculo/Escola: 8º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V, S, M (relicário de 1.000+ PO) | Duração: Concentração, até 1 minuto
+* Efeito: Criaturas à escolha na Emanação têm Vantagem em todas as salvaguardas e jogadas de ataque contra elas têm Desvantagem. Quando um Ínfero ou Morto-Vivo acerta uma criatura protegida com ataque corpo a corpo, faz SG Constituição ou fica Cego até o fim do próximo turno dele.
+
+### AUXÍLIO
+* Círculo/Escola: 2º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (tira de pano branco) | Duração: 8 horas
+* Efeito: Até 3 criaturas escolhidas no alcance têm seus PV máximos e PV atuais aumentados em +5 pela duração.
+* Círculo Superior: +5 PV máximos e atuais adicionais por círculo acima do 2º.
+
+## LETRA B
+
+### BADALAR FÚNEBRE
+* Círculo/Escola: Truque, Necromancia
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: 1 criatura visível faz SG Sabedoria ou sofre 1d8 de dano Necrótico (ou 1d12 de dano Necrótico se estiver abaixo de seus PV máximos).
+* Aprimoramento de Truque: Dano aumenta para 2d8/2d12 (Nv 5), 3d8/3d12 (Nv 11) e 4d8/4d12 (Nv 17).
+
+### BANIMENTO
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (pentagrama) | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível faz SG Carisma ou é banida:
+  - Nativa do plano atual: Vai para semiplano inofensivo e fica Incapacitada; retorna quando a magia acaba.
+  - Extraplanar (Aberração, Celestial, Elemental, Feérico ou Ínfero): Retorna ao seu plano natal. Se a Concentração durar 1 minuto completo, não retorna.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 4º.
+
+### BANQUETE DE HERÓIS
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 10 minutos | Alcance: 9 m | Componentes: V, S, M (tigela com gemas de 1.000+ PO, consumida) | Duração: Instantânea
+* Efeito: Cria banquete para até 12 criaturas (leva 1 hora para consumir). Quem participa ganha por 24 horas: Resistência a dano Venenoso, Imunidade às condições Amedrontado e Envenenado, e PV máximos e atuais aumentados em +2d10.
+
+### BARREIRA DE LÂMINAS
+* Círculo/Escola: 6º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Cria parede de lâminas reta (até 30m comp x 6m alt x 1,5m esp) ou anel (até 18m diâmetro x 6m alt x 1,5m esp). Concede Cobertura de Três Quartos e conta como Terreno Difícil. Criatura que esteja na área ao aparecer, entre nela ou encerre seu turno nela (máx. 1x/turno) faz SG Destreza -> falha: 6d10 de dano Cortante; sucesso: metade.
+
+### BÊNÇÃO
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (Símbolo Sagrado de 5+ PO) | Duração: Concentração, até 1 minuto
+* Efeito: Até 3 criaturas escolhidas no alcance somam 1d4 a qualquer jogada de ataque ou salvaguarda que realizarem pela duração.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 1º.
+
+### BOCA ENCANTADA
+* Círculo/Escola: 2º Círculo, Ilusão (Ritual)
+* Conjuração: 1 minuto | Alcance: 9 m | Componentes: V, S, M (pó de jade de 10+ PO, consumido) | Duração: Até ser dissipada
+* Efeito: Implanta mensagem de até 25 palavras em 1 objeto não vestido/carregado no alcance, disparada por gatilho visual ou auditivo a até 9m do objeto (pode ser definida para disparar 1 vez ou repetir sempre que o gatilho ocorrer).
+
+### BOLA DE FOGO
+* Círculo/Escola: 3º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S, M (bola de guano de morcego e enxofre) | Duração: Instantânea
+* Efeito: Esfera de 6m de raio em ponto visível. Cada criatura na área faz SG Destreza -> falha: 8d6 de dano Ígneo; sucesso: metade. Objetos inflamáveis na área que não estejam vestidos/carregados entram em combustão.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 3º.
+
+### BOLA DE FOGO ADIÁVEL
+* Círculo/Escola: 7º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S, M (bola de guano de morcego e enxofre) | Duração: Concentração, até 1 minuto
+* Efeito: Cria conta luminosa em ponto visível. Ao fim da magia, explode em Esfera de 6m de raio: SG Destreza -> falha: 12d6 de dano Ígneo (+1d6 por turno completo em que você manteve a magia antes da explosão); sucesso: metade. Criatura pode tentar pegar a conta (SG Destreza) para arremessá-la até 12m (se falhar na SG, explode). Incendeia inflamáveis não vestidos/carregados.
+* Círculo Superior: Dano base aumenta em +1d6 por círculo acima do 7º.
+
+### BOLHA ÁCIDA
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Esfera de 1,5m de raio em ponto visível no alcance. Cada criatura na área faz SG Destreza ou sofre 1d6 de dano Ácido.
+* Aprimoramento de Truque: Dano aumenta para 2d6 (Nv 5), 3d6 (Nv 11) e 4d6 (Nv 17).
+
+### BOM FRUTO
+* Círculo/Escola: 1º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (ramo de visco) | Duração: Instantânea
+* Efeito: Cria 10 frutos mágicos na sua mão (perdem a potência após 24 horas). Como Ação Bônus, uma criatura come 1 fruto, recupera 1 PV e recebe nutrição equivalente a 1 dia inteiro.
+
+### BORDÃO MÍSTICO
+* Círculo/Escola: Truque, Transmutação
+* Conjuração: 1 Ação Bônus | Alcance: Pessoal | Componentes: V, S, M (visco) | Duração: 1 minuto
+* Efeito: Imbui 1 Clava ou Cajado que esteja segurando: usa seu atributo de conjuração para jogadas de ataque e dano com a arma; o dado de dano muda para 1d8 e pode causar dano Energético ou Contundente (à escolha). Encerra se conjurar novamente ou soltar a arma.
+* Aprimoramento de Truque: Dado de dano aumenta para 1d10 (Nv 5), 1d12 (Nv 11) e 2d6 (Nv 17).
+
+### BRAÇOS DE HADAR
+* Círculo/Escola: 1º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 3 m) | Componentes: V, S | Duração: Instantânea
+* Efeito: Cada criatura na Emanação faz SG Força -> falha: sofre 2d6 de dano Necrótico e não pode usar Reações até o próximo turno dela; sucesso: metade do dano (mantém Reações).
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 1º.

@@ -1,0 +1,170 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 6 (FEITICEIRO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Carisma
+* Dado de Ponto de Vida: d6 por nível de Feiticeiro
+* PV no Nível 1: 6 + Mod. Constituição
+* PV em Níveis Seguintes: 1d6 (ou 4) + Mod. Constituição
+* Proficiência em Salvaguardas: Constituição e Carisma
+* Proficiência em Perícias: Escolha 2 entre Arcanismo, Enganação, Intimidação, Intuição, Persuasão ou Religião
+* Proficiência com Armas: Armas Simples
+* Treinamento com Armadura: Nenhuma
+* Equipamento Inicial: (A) Lança, 2 Adagas, Foco Arcano (cristal), Kit de Explorador de Masmorras e 28 PO; ou (B) 50 PO
+* Multiclasse (Ganhos): Dado de Vida (d6)
+
+## TABELA DE PROGRESSÃO (FEITICEIRO)
+| Nv | BP | Pts Feitiçaria | Truques | Prep. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | Características |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | - | 4 | 2 | 2 | - | - | - | - | - | - | - | - | Conjuração, Feitiçaria Inata |
+| 2 | +2 | 2 | 4 | 4 | 3 | - | - | - | - | - | - | - | - | Fonte de Magia, Metamagia (2 opções) |
+| 3 | +2 | 3 | 4 | 6 | 4 | 2 | - | - | - | - | - | - | - | Subclasse de Feiticeiro |
+| 4 | +2 | 4 | 5 | 7 | 4 | 3 | - | - | - | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 5 | 5 | 9 | 4 | 3 | 2 | - | - | - | - | - | - | Restauração Feiticeira |
+| 6 | +3 | 6 | 5 | 10 | 4 | 3 | 3 | - | - | - | - | - | - | Característica de Subclasse |
+| 7 | +3 | 7 | 5 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - | Feitiçaria Encarnada |
+| 8 | +3 | 8 | 5 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | - |
+| 10 | +4 | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | Metamagia (+2 opções) |
+| 11 | +4 | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 12 | +4 | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
+| 14 | +5 | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Característica de Subclasse |
+| 15 | +5 | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | - |
+| 16 | +5 | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | Metamagia (+2 opções) |
+| 18 | +6 | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | Característica de Subclasse |
+| 19 | +6 | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | Dádiva Épica |
+| 20 | +6 | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | Apoteose Arcana |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Conjuração:
+  - Atributo: Carisma. Foco: Foco Arcano.
+  - Truques: Conforme tabela; pode substituir 1 truque ao subir de nível de Feiticeiro.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode substituir 1 magia preparada ao subir de nível de Feiticeiro. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Feitiçaria Inata: Ação Bônus (dura 1 min). Benefícios:
+  - CD para evitar suas magias de Feiticeiro aumenta em +1.
+  - Vantagem nas jogadas de ataque das magias de Feiticeiro que conjurar.
+  - Usos: 2x/Descanso Longo.
+* Nível 2 - Fonte de Magia:
+  - Pontos de Feitiçaria: Quantidade máxima igual ao nível (conforme tabela). Restaura todos em Descanso Longo.
+  - Convertendo Espaços em Pontos: Gasta 1 espaço de magia (sem ação) para ganhar Pontos de Feitiçaria iguais ao círculo do espaço.
+  - Criando Espaços de Magia: Ação Bônus para transformar Pontos de Feitiçaria em 1 espaço de magia (máximo 5º círculo). Espaços criados desaparecem ao completar Descanso Longo.
+
+### TABELA: CRIANDO ESPAÇOS DE MAGIA
+| Círculo do Espaço | Custo (Pts Feitiçaria) | Nível Mín. Feiticeiro |
+|---|---|---|
+| 1º | 2 | 2 |
+| 2º | 3 | 3 |
+| 3º | 5 | 5 |
+| 4º | 6 | 7 |
+| 5º | 7 | 9 |
+
+* Nível 2 - Metamagia: Aprende 2 opções (ganha +2 no Nv 10 e +2 no Nv 17). Pode substituir 1 opção ao subir de nível de Feiticeiro. Limite: 1 opção de Metamagia por magia (salvo exceção na descrição da opção ou Feitiçaria Encarnada).
+* Nível 3 - Subclasse de Feiticeiro: Escolhe uma origem de Feitiçaria.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Restauração Feiticeira: Ao completar Descanso Curto, recupera Pontos de Feitiçaria gastos até metade do nível de Feiticeiro (arred. baixo). Usos: 1x/Descanso Longo.
+* Nível 7 - Feitiçaria Encarnada: Se estiver sem usos de Feitiçaria Inata, pode gastar 2 Pontos de Feitiçaria ao executar a Ação Bônus para ativá-la. Enquanto Feitiçaria Inata estiver ativa, pode aplicar até 2 opções de Metamagia em cada magia conjurada.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Apoteose Arcana: Enquanto Feitiçaria Inata estiver ativa, pode usar 1 opção de Metamagia em cada um de seus turnos sem gastar Pontos de Feitiçaria com ela.
+
+## OPÇÕES DE METAMAGIA
+* Magia Acelerada (2 pts): Muda tempo de conjuração de 1 Ação para 1 Ação Bônus. Restrição: não pode usar se já conjurou magia de 1º círculo+ neste turno, nem pode conjurar magia de 1º círculo+ neste turno após modificá-la.
+* Magia Agravada (2 pts): Impõe Desvantagem a 1 alvo da magia nas salvaguardas contra ela.
+* Magia Buscadora (1 pt): Ao errar jogada de ataque mágico, joga novamente o d20 (deve usar o novo resultado). Pode ser usada mesmo já tendo aplicado outra Metamagia na magia.
+* Magia Cautelosa (1 pt): Escolhe até Mod. Carisma (mín. 1) criaturas afetadas por magia com salvaguarda; elas passam automaticamente na SG e sofrem 0 de dano se normalmente sofreriam metade em caso de sucesso.
+* Magia Distante (1 pt): Dobra o alcance de magia com alcance >= 1,5m; ou muda alcance de Toque para 9m.
+* Magia Duplicada (1 pt): Em magia que pode ser conjurada em círculo superior para atingir uma criatura adicional (ex: Enfeitiçar Pessoa), aumenta o círculo efetivo da magia em +1.
+* Magia Persistente (1 pt): Dobra a duração de magia com duração >= 1 min (máx. 24h). Se exigir Concentração, ganha Vantagem nas salvaguardas para manter essa Concentração.
+* Magia Potencializada (1 pt): Ao jogar dano de uma magia, joga novamente até Mod. Carisma (mín. 1) dados de dano (deve usar os novos resultados). Pode ser usada mesmo já tendo aplicado outra Metamagia na magia.
+* Magia Sutil (1 pt): Conjura magia sem componentes Verbais, Somáticos ou Materiais (exceto Materiais consumidos ou com custo especificado).
+* Magia Transmutada (1 pt): Altera o tipo de dano da magia entre: Ácido, Elétrico, Gélido, Ígneo, Trovejante ou Venenoso.
+
+## LISTA DE MAGIAS DE FEITICEIRO (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Amigos (C), Bolha Ácida, Elementalismo, Explosão Elemental, Golpe Certeiro (M), Ilusão Menor, Luz, Luzes Dançantes (C), Mãos Mágicas, Mensagem, Prestidigitação Arcana, Proteção Contra Lâminas (C), Raio de Fogo, Raio de Gelo, Rajada de Veneno, Reparar, Talho Mental, Toque Chocante, Toque Necrótico, Trovão.
+* 1º Círculo: Armadura Arcana, Compreender Idiomas (R), Detectar Magia (C, R), Disfarçar-se, Enfeitiçar Pessoa, Escudo Arcano, Faca de Gelo, Graxa, Imagem Silenciosa (C), Leque Cromático, Mãos Flamejantes, Mísseis Mágicos, Névoa Obscurecente (C), Onda Trovejante, Orbe Cromático (M), Queda Suave, Raio de Bruxa (C), Raio Nauseante, Retirada Acelerada (C), Salto, Sono (C), Vitalidade Vazia.
+* 2º Círculo: Alterar-se (C), Aprimorar Atributo (C), Arma Mágica, Arrombar, Aumentar/Reduzir (C), Cegueira/Surdez, Coroa da Loucura (C), Despedaçar, Detectar Pensamentos (C), Escalada de Aranha (C), Escuridão (C), Esfera Flamejante (C), Espinho Mental (C), Força Espectral (C), Invisibilidade (C, M), Lâmina Flamejante (C), Levitação (C), Lufada de Vento (C), Nuvem de Adagas (C), Paralisar Pessoa (C), Passo Nebuloso, Raio Ardente, Reflexos, Sopro de Dragão (C), Sugestão (C), Teia (C), Turvar (C), Ver o Invisível, Vigor Arcano, Visão no Escuro.
+* 3º Círculo: Bola de Fogo, Caminhar Sobre as Águas (R), Celeridade (C), Clarividência (C, M), Contramagia, Dissipar Magia, Forma Gasosa (C), Imagem Maior (C), Lentidão (C), Línguas, Luz do Dia, Medo (C), Nevasca (C), Nuvem Fétida (C), Padrão Hipnótico (C), Piscar, Proteção contra Energia (C), Relâmpago, Respirar na Água (R), Toque Vampírico (C), Voo (C).
+* 4º Círculo: Banimento (C), Confusão (C), Dominar Fera (C), Enfeitiçar Monstro, Escudo Ardente, Esfera Vitriólica, Invisibilidade Maior (C), Malogro, Muralha de Fogo (C), Pele-Rocha (C, M), Polimorfia (C), Porta Dimensional, Tempestade Glacial.
+* 5º Círculo: Animar Objetos (C), Círculo de Teleporte (M), Cone de Frio, Criação (C), Dominar Pessoa (C), Estática Sináptica, Mão de Bigby (C), Muralha de Pedra (C), Névoa Mortal (C), Paralisar Monstro (C), Praga de Insetos (C, M), Similaridade, Telecinese (C).
+* 6º Círculo: Círculo da Morte (M), Corrente de Relâmpagos, De Carne para Pedra (C), Desintegrar, Esfera Congelante de Otiluke, Globo de Invulnerabilidade (C), Mau Olhado (C), Mover Terra, Portais Arcanos (C), Raio Solar (C), Sugestão em Massa (C), Visão da Verdade (M).
+* 7º Círculo: Bola de Fogo Adiável (C), Dedo da Morte, Forma Etérea, Inverter a Gravidade (C), Rajada Prismática, Teleporte, Tempestade de Fogo, Transição Planar (M).
+* 8º Círculo: Dominar Monstro (C), Explosão Solar, Nuvem Incendiária (C), Palavra de Poder: Atordoar, Semiplano, Terremoto (C).
+* 9º Círculo: Chuva de Meteoros, Desejo, Palavra de Poder: Matar, Parar o Tempo, Portal (C, M).
+
+## SUBCLASSES DE FEITICEIRO
+
+### FEITIÇARIA ABERRANTE
+* Nível 3 - Fala Telepática: Ação Bônus escolhe criatura visível a até 9m. Comunicação telepática (requer idioma conhecido pelo outro) até (1,5 km x Mod. Carisma, mín. 1,5 km). Duração: minutos = nível de Feiticeiro (encerra se conectar com outra).
+* Nível 3 - Magias Psiônicas (sempre preparadas):
+  - Nv 3: Acalmar Emoções, Braços de Hadar, Detectar Pensamentos, Sussurros Dissonantes, Talho Mental
+  - Nv 5: Fome de Hadar, Remeter
+  - Nv 7: Invocar Aberração, Tentáculos Negros de Evard
+  - Nv 9: Ligação Telepática de Rary, Telecinese
+* Nível 6 - Defesas Psíquicas: Resistência a dano Psíquico; Vantagem em salvaguardas para evitar ou encerrar Amedrontado ou Enfeitiçado.
+* Nível 6 - Feitiçaria Psiônica: Pode conjurar qualquer magia de 1º círculo+ da característica Magias Psiônicas gastando Pontos de Feitiçaria iguais ao círculo da magia (em vez de espaço). Conjurada assim, não exige componentes Verbais, Somáticos nem Materiais (exceto Materiais consumidos ou com custo especificado).
+* Nível 14 - Revelação em Carne: Ação Bônus gasta 1 ou mais Pontos de Feitiçaria (dura 10 min). Para cada ponto gasto, escolhe 1 benefício:
+  - Adaptação Aquática: Deslocamento de Natação = 2x Deslocamento + respira debaixo d'água.
+  - Movimento Vermiforme: Move-se por espaços de até 2,5cm (com equipamento); gasta 1,5m de movimento para escapar de restrições não mágicas ou condição Imobilizado.
+  - Ver o Invisível: Vê criaturas Invisíveis a até 18m (sem Cobertura Total).
+  - Voo Reluzente: Deslocamento de Voo = Deslocamento e pode pairar.
+* Nível 18 - Implosão de Distorção: Ação Usar Magia: teleporta até 36m para espaço desocupado visível. Cada criatura a até 9m do espaço abandonado faz SG Força (sua CD): falha = 3d10 dano Energético e é puxada para o espaço abandonado (ou desocupado mais próximo); sucesso = metade do dano (não puxada). Usos: 1x/Descanso Longo ou gastando 5 Pontos de Feitiçaria (sem ação).
+
+### FEITIÇARIA DRACÔNICA
+* Nível 3 - Magias Dracônicas (sempre preparadas):
+  - Nv 3: Alterar-se, Comando, Orbe Cromático, Sopro de Dragão
+  - Nv 5: Medo, Voo
+  - Nv 7: Enfeitiçar Monstro, Olho Arcano
+  - Nv 9: Invocar Dragão, Lendas e Histórias
+* Nível 3 - Resiliência Dracônica: PV máximos aumentam em +3 no Nv 3 e +1 a cada nível adicional de Feiticeiro. Sem armadura, CA base = 10 + Mod. Destreza + Mod. Carisma.
+* Nível 6 - Afinidade Elemental: Escolhe 1 tipo de dano: Ácido, Elétrico, Gélido, Ígneo ou Venenoso. Ganha Resistência a esse tipo e, ao conjurar magia que cause dano desse tipo, adiciona Mod. Carisma a uma jogada de dano da magia.
+* Nível 14 - Asas de Dragão: Ação Bônus (dura 1h ou encerra sem ação). Deslocamento de Voo = 18m. Usos: 1x/Descanso Longo ou gastando 3 Pontos de Feitiçaria (sem ação).
+* Nível 18 - Companheiro Dracônico: Conjura Invocar Dragão sem componente Material. Pode conjurá-la 1x/Descanso Longo sem espaço de magia. Ao começar a conjurar, pode modificá-la para não exigir Concentração (duração vira 1 min).
+
+### FEITIÇARIA MECÂNICA
+* Nível 3 - Magias Mecânicas (sempre preparadas):
+  - Nv 3: Alarme, Auxílio, Proteção Contra o Bem e o Mal, Restauração Menor
+  - Nv 5: Dissipar Magia, Proteção contra Energia
+  - Nv 7: Invocar Constructo, Movimentação Livre
+  - Nv 9: Muralha de Energia, Restauração Maior
+* Nível 3 - Restaurar Equilíbrio: Reação quando criatura visível a até 18m for jogar d20 com Vantagem ou Desvantagem -> impede que o teste seja afetado por Vantagem e Desvantagem. Usos = Mod. Carisma (mín. 1); restaura em Descanso Longo.
+* Nível 6 - Bastião da Lei: Ação Usar Magia + gasta de 1 a 5 Pontos de Feitiçaria. Protege a si ou outra criatura visível a até 9m com reserva de d8s igual aos pontos gastos (dura até Descanso Longo ou novo uso). Quando o protegido sofre dano, pode gastar quantos dados quiser, rolar e reduzir o dano pelo total.
+* Nível 14 - Transe da Ordem: Ação Bônus (dura 1 min). Ataques contra você não se beneficiam de Vantagem; em qualquer Teste de D20 seu, resultado <= 9 no d20 conta como 10. Usos: 1x/Descanso Longo ou gastando 5 Pontos de Feitiçaria (sem ação).
+* Nível 18 - Cavalgada Mecânica: Ação Usar Magia. Cubo de 9m originado em você causa todos os efeitos abaixo:
+  - Cura: Restaura até 100 PV divididos à escolha entre criaturas no Cubo.
+  - Dissipar: Encerra todas as magias de 6º círculo ou inferior em criaturas e objetos à escolha no Cubo.
+  - Reparar: Repara instantaneamente objetos danificados inteiramente no Cubo.
+  - Usos: 1x/Descanso Longo ou gastando 7 Pontos de Feitiçaria (sem ação).
+
+### FEITIÇARIA SELVAGEM
+* Nível 3 - Marés do Caos: Ganha Vantagem em 1 Teste de D20 (antes de jogar). Recarrega ao completar Descanso Longo OU automaticamente ao conjurar magia de Feiticeiro com espaço de magia (o que dispara automaticamente um Surto de Magia Selvagem).
+* Nível 3 - Surto de Magia Selvagem: 1x/turno, imediatamente após conjurar magia de Feiticeiro com espaço de magia, pode jogar 1d20; em um 20, joga na tabela Surto de Magia Selvagem (1d100). Se o efeito for uma magia, não pode ser afetada por Metamagia.
+* Nível 6 - Distorcer a Sorte: Reação imediatamente após outra criatura visível jogar o d20 para um Teste de D20 -> gasta 1 Ponto de Feitiçaria, joga 1d4 e aplica como bônus ou penalidade (à escolha) no teste.
+* Nível 14 - Caos Controlado: Ao jogar na tabela Surto de Magia Selvagem, joga 2 vezes e escolhe qual resultado usar.
+* Nível 18 - Surto Controlado: Imediatamente após conjurar magia de Feiticeiro com espaço de magia, escolhe qualquer efeito da tabela Surto de Magia Selvagem (exceto a linha 97-00) em vez de rolar. Usos: 1x/Descanso Longo.
+
+### TABELA: SURTO DE MAGIA SELVAGEM (1d100)
+* 01-04: Jogue nesta tabela no início de cada um dos seus turnos por 1 min (ignore este resultado nas jogadas seguintes).
+* 05-08: Criatura Amigável (controlada pelo Mestre) aparece em espaço desocupado aleatório a até 18m por 1 min. Jogue 1d4: 1=Modron Duodrone; 2=Flunf; 3=Modron Monodrone; 4=Unicórnio.
+* 09-12: Por 1 min, recupera 5 PV no início de cada um dos seus turnos.
+* 13-16: Criaturas têm Desvantagem em salvaguardas contra a próxima magia com salvaguarda que você conjurar em 1 min.
+* 17-20: Efeito por 1 min (salvo indicação). Jogue 1d8: 1=música etérea a 1,5m; 2=tamanho aumenta 1 categoria; 3=barba de plumas até espirrar; 4=deve gritar ao falar; 5=borboletas ilusórias a 3m; 6=olho na testa dá Vantagem em Sabedoria (Percepção); 7=bolhas rosas ao falar; 8=pele azul por 24h ou até Remover Maldição.
+* 21-24: Por 1 min, suas magias com tempo de conjuração de 1 Ação passam a ter tempo de conjuração de 1 Ação Bônus.
+* 25-28: Transportado ao Plano Astral até o fim do seu próximo turno; retorna ao espaço anterior (ou desocupado mais próximo).
+* 29-32: Próxima magia de dano que conjurar em 1 min causa automaticamente o valor máximo em todos os dados de dano.
+* 33-36: Resistência a todos os tipos de dano por 1 min.
+* 37-40: Transforma-se em vaso de plantas até o início do próximo turno (Incapacitado + Vulnerabilidade a todos os danos; se cair a 0 PV, vaso quebra e reverte).
+* 41-44: Por 1 min, pode teleportar até 6m como Ação Bônus em cada turno.
+* 45-48: Você e até 3 criaturas à escolha a até 9m ficam Invisíveis por 1 min (encerra na criatura se atacar, causar dano ou conjurar magia).
+* 49-52: Escudo espectral por 1 min: +2 CA e imunidade a Mísseis Mágicos.
+* 53-56: Executa 1 ação adicional neste turno.
+* 57-60: Conjura magia aleatória (sem exigir Concentração; dura o tempo total). Jogue 1d10: 1=Confusão; 2=Bola de Fogo; 3=Névoa Obscurecente; 4=Voo (alvo aleatório a 18m); 5=Graxa; 6=Levitação (em si); 7=Mísseis Mágicos (5º círculo); 8=Reflexos; 9=Polimorfia (em si; se falhar SG vira Cabra); 10=Ver o Invisível.
+* 61-64: Por 1 min, objeto inflamável não mágico que tocar (não usado/carregado) sofre 1d4 dano Ígneo e entra em combustão.
+* 65-68: Se morrer na próxima 1 hora, revive imediatamente como pela magia Reencarnar.
+* 69-72: Fica Amedrontado até o fim do seu próximo turno (Mestre define fonte).
+* 73-76: Teleporta até 18m para espaço desocupado visível.
+* 77-80: Criatura aleatória a até 18m fica Envenenada por 1d4 horas.
+* 81-84: Irradia Luz Plena 9m por 1 min; qualquer criatura que termine o turno a até 1,5m de você fica Cega até o fim do próximo turno dela.
+* 85-88: Até 3 criaturas visíveis à escolha a até 9m sofrem 1d10 dano Necrótico; você recupera PV igual à soma do dano causado.
+* 89-92: Até 3 criaturas visíveis à escolha a até 9m sofrem 4d10 dano Elétrico.
+* 93-96: Você e todas as criaturas a até 9m têm Vulnerabilidade a dano Perfurante por 1 min.
+* 97-00: Jogue 1d6: 1=você recupera 2d10 PV; 2=1 aliado a até 90m recupera 2d10 PV; 3=você recupera seu espaço de magia gasto de menor círculo; 4=1 aliado a até 90m recupera o espaço gasto de menor círculo; 5=restaura todos os seus Pontos de Feitiçaria gastos; 6=todos os efeitos da linha 17-20 afetam você simultaneamente.

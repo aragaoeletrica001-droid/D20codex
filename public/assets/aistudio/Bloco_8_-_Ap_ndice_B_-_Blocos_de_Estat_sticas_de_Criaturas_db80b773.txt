@@ -1,0 +1,511 @@
+# BLOCO 8: APÊNDICE B - BLOCOS DE ESTATÍSTICAS DE CRIATURAS
+
+## REGRAS DE LEITURA DE BLOCOS DE ESTATÍSTICAS
+* Modificadores e Salvaguardas: Atributos listados como Valor (Modificador / Salvaguarda).
+* Ações e Reações: Ataques listam Bônus de Acerto, Alcance e Dano médio (expressão de dados).
+
+## CRIATURAS (ORDEM ALFABÉTICA)
+
+### ÁGUIA
+* Tipo/Tamanho: Fera Pequena, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 4 (1d6 + 1) | Deslocamento: 3 m, Voo 18 m
+* Atributos: For 6 (-2/-2), Des 15 (+2/+2), Con 12 (+1/+1), Int 2 (-4/-4), Sab 14 (+2/+2), Car 7 (-2/-2)
+* Perícias: Percepção +6
+* Sentidos: Percepção Passiva 16 | Idiomas: —
+* Traços:
+  - Visão Aguçada: Vantagem em testes de Sabedoria (Percepção) baseados na visão.
+* Ações:
+  - Garras: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Cortante.
+
+### ARANHA
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 1 (1d4 - 1) | Deslocamento: 6 m, Escalada 6 m
+* Atributos: For 2 (-4/-4), Des 14 (+2/+2), Con 8 (-1/-1), Int 1 (-5/-5), Sab 10 (+0/+0), Car 2 (-4/-4)
+* Perícias: Furtividade +4
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 10 | Idiomas: —
+* Traços:
+  - Escalada de Aranha: Escala superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer teste de atributo.
+  - Sentido na Teia: Enquanto em contato com uma teia, sabe a localização exata de qualquer outra criatura em contato com a mesma teia.
+  - Andar na Teia: Ignora restrições de movimento causadas por teias (mágicas ou não).
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 1 de dano Perfurante + 2 (1d4) de dano Venenoso.
+
+### ARANHA GIGANTE
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1 (200 XP) | BP: +2
+* CA: 14 | PV: 26 (4d10 + 4) | Deslocamento: 9 m, Escalada 9 m
+* Atributos: For 14 (+2/+2), Des 16 (+3/+3), Con 12 (+1/+1), Int 2 (-4/-4), Sab 11 (+0/+0), Car 4 (-3/-3)
+* Perícias: Furtividade +7, Percepção +4
+* Sentidos: Visão às Cegas 3m, Visão no Escuro 18m, Percepção Passiva 14 | Idiomas: —
+* Traços:
+  - Escalada de Aranha: Escala superfícies difíceis, inclusive tetos, sem teste de atributo.
+  - Sentido na Teia: Sabe a localização exata de criaturas na mesma teia.
+  - Andar na Teia: Ignora restrições de movimento causadas por teias.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 7 (1d8 + 3) de dano Perfurante + 7 (2d6) de dano Venenoso.
+  - Teia (Recarga 5-6): Ataque à Distância +5, alcance 9/18m. Acerto: Alvo fica Contido por teia; como Ação, alvo faz teste de Força (Atletismo) CD 12 para arrebentar (CA 10, 5 PV, Vulnerável a Ígneo, Imune a Contundente/Psíquico/Venenoso).
+
+### ARANHA-LOBO GIGANTE
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 13 | PV: 11 (2d8 + 2) | Deslocamento: 12 m, Escalada 12 m
+* Atributos: For 12 (+1/+1), Des 16 (+3/+3), Con 13 (+1/+1), Int 3 (-4/-4), Sab 12 (+1/+1), Car 4 (-3/-3)
+* Perícias: Furtividade +7, Percepção +3
+* Sentidos: Visão às Cegas 3m, Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Traços:
+  - Escalada de Aranha: Escala superfícies difíceis, inclusive tetos, sem teste de atributo.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 5 (1d4 + 3) de dano Perfurante + 5 (2d4) de dano Venenoso.
+
+### CAMELO
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 10 | PV: 17 (2d10 + 6) | Deslocamento: 15 m
+* Atributos: For 15 (+2/+2), Des 8 (-1/-1), Con 17 (+3/+3), Int 2 (-4/-4), Sab 11 (+0/+0), Car 5 (-3/-3)
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Contundente.
+
+### CARANGUEJO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 11 | PV: 3 (1d4 + 1) | Deslocamento: 6 m, Natação 6 m
+* Atributos: For 6 (-2/-2), Des 11 (+0/+0), Con 12 (+1/+1), Int 1 (-5/-5), Sab 8 (-1/-1), Car 2 (-4/-4)
+* Perícias: Furtividade +2
+* Sentidos: Visão às Cegas 9m, Percepção Passiva 9 | Idiomas: —
+* Traços:
+  - Anfíbio: Respira ar e água.
+* Ações:
+  - Garra: Ataque Corpo a Corpo +2, alcance 1,5m. Acerto: 1 de dano Contundente.
+
+### CARANGUEJO GIGANTE
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 15 | PV: 13 (3d8) | Deslocamento: 9 m, Natação 9 m
+* Atributos: For 13 (+1/+1), Des 13 (+1/+1), Con 11 (+0/+0), Int 1 (-5/-5), Sab 9 (-1/-1), Car 3 (-4/-4)
+* Perícias: Furtividade +3
+* Sentidos: Visão às Cegas 9m, Percepção Passiva 9 | Idiomas: —
+* Traços:
+  - Anfíbio: Respira ar e água.
+* Ações:
+  - Garra: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 4 (1d6 + 1) de dano Contundente e, se o alvo for Médio ou menor, fica Imobilizado (CD 11 para escapar; máx. 2 alvos).
+
+### CAVALO DE GUERRA
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/2 (100 XP) | BP: +2
+* CA: 11 | PV: 19 (3d10 + 3) | Deslocamento: 18 m
+* Atributos: For 18 (+4/+4), Des 12 (+1/+1), Con 13 (+1/+1), Int 2 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Salvaguardas: Sab +3
+* Sentidos: Percepção Passiva 11 | Idiomas: —
+* Ações:
+  - Cascos: Ataque Corpo a Corpo +6, alcance 1,5m. Acerto: 9 (2d4 + 4) de dano Contundente. Se o cavalo moveu-se >= 6m em linha reta até o alvo imediatamente antes, alvo Enorme ou menor faz SG Força CD 14 ou cai Caído.
+
+### CAVALO DE MONTARIA
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 11 | PV: 13 (2d10 + 2) | Deslocamento: 18 m
+* Atributos: For 16 (+3/+3), Des 13 (+1/+1), Con 12 (+1/+1), Int 2 (-4/-4), Sab 11 (+0/+0), Car 7 (-2/-2)
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Cascos: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 7 (1d8 + 3) de dano Contundente.
+
+### CAVALO DE TRAÇÃO
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 10 | PV: 15 (2d10 + 4) | Deslocamento: 12 m
+* Atributos: For 18 (+4/+4), Des 10 (+0/+0), Con 15 (+2/+2), Int 2 (-4/-4), Sab 11 (+0/+0), Car 7 (-2/-2)
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Cascos: Ataque Corpo a Corpo +6, alcance 1,5m. Acerto: 6 (1d4 + 4) de dano Contundente.
+
+### CAVALO-MARINHO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (0 XP) | BP: +2
+* CA: 12 | PV: 1 (1d4 - 1) | Deslocamento: 1,5 m, Natação 6 m
+* Atributos: For 1 (-5/-5), Des 12 (+1/+1), Con 8 (-1/-1), Int 1 (-5/-5), Sab 10 (+0/+0), Car 2 (-4/-4)
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Traços:
+  - Respirar na Água: Respira apenas debaixo d'água.
+* Ações:
+  - Bolha (1/Dia): Alvo visível a até 1,5m ganha 5 Pontos de Vida Temporários.
+
+### COBRA CONSTRITORA
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 13 | PV: 13 (2d10 + 2) | Deslocamento: 9 m, Natação 9 m
+* Atributos: For 15 (+2/+2), Des 14 (+2/+2), Con 12 (+1/+1), Int 1 (-5/-5), Sab 10 (+0/+0), Car 3 (-4/-4)
+* Perícias: Percepção +2, Furtividade +4
+* Sentidos: Visão às Cegas 3m, Percepção Passiva 12 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 6 (1d8 + 2) de dano Perfurante.
+  - Constrição: SG Força CD 12 (1 criatura Média ou menor a até 1,5m) -> falha: 7 (3d4) de dano Contundente e fica Imobilizada (CD 12 para escapar; máx. 1 alvo).
+
+### COBRA PEÇONHENTA
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 12 | PV: 5 (2d4) | Deslocamento: 9 m, Natação 9 m
+* Atributos: For 2 (-4/-4), Des 15 (+2/+2), Con 11 (+0/+0), Int 1 (-5/-5), Sab 10 (+0/+0), Car 3 (-4/-4)
+* Sentidos: Visão às Cegas 3m, Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Perfurante + 3 (1d6) de dano Venenoso.
+
+### CORUJA
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 11 | PV: 1 (1d4 - 1) | Deslocamento: 1,5 m, Voo 18 m
+* Atributos: For 3 (-4/-4), Des 13 (+1/+1), Con 8 (-1/-1), Int 2 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Perícias: Furtividade +5, Percepção +5
+* Sentidos: Visão no Escuro 36m, Percepção Passiva 15 | Idiomas: —
+* Traços:
+  - Sobrevoo: Não provoca Ataques de Oportunidade ao voar para fora do alcance de um inimigo.
+  - Visão e Audição Aguçadas: Vantagem em testes de Sabedoria (Percepção) baseados em visão ou audição.
+* Ações:
+  - Garras: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 1 de dano Cortante.
+
+### CORVO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 2 (1d4) | Deslocamento: 3 m, Voo 15 m
+* Atributos: For 2 (-4/-4), Des 14 (+2/+2), Con 10 (+0/+0), Int 5 (-3/-3), Sab 13 (+1/+1), Car 6 (-2/-2)
+* Perícias: Percepção +3
+* Sentidos: Percepção Passiva 13 | Idiomas: —
+* Traços:
+  - Mimetismo: Pode imitar sons simples que ouviu (sussurro, choro de bebê, grito de animal); Sabedoria (Intuição) CD 10 detecta a farsa.
+* Ações:
+  - Bico: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### CROCODILO
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1/2 (100 XP) | BP: +2
+* CA: 12 | PV: 13 (2d10 + 2) | Deslocamento: 6 m, Natação 9 m
+* Atributos: For 15 (+2/+2), Des 10 (+0/+0), Con 13 (+1/+1), Int 2 (-4/-4), Sab 10 (+0/+0), Car 5 (-3/-3)
+* Perícias: Furtividade +2
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Traços:
+  - Prender a Respiração: Pode prender a respiração por 1 hora.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 6 (1d8 + 2) de dano Perfurante e, se o alvo for Médio ou menor, fica Imobilizado (CD 12 para escapar; máx. 1 alvo).
+
+### DIABRETE
+* Tipo/Tamanho: Ínfero (Diabo) Miúdo, Leal e Mau | ND: 1 (200 XP) | BP: +2
+* CA: 13 | PV: 21 (6d4 + 6) | Deslocamento: 6 m, Voo 12 m
+* Atributos: For 6 (-2/-2), Des 17 (+3/+3), Con 13 (+1/+1), Int 11 (+0/+0), Sab 12 (+1/+1), Car 14 (+2/+2)
+* Perícias: Enganação +4, Furtividade +5, Intuição +3, Persuasão +4
+* Resistências: Gélido | Imunidades: Ígneo, Venenoso, Envenenado
+* Sentidos: Visão no Escuro 36m (vê através de Escuridão mágica), Percepção Passiva 11 | Idiomas: Comum, Infernal
+* Traços:
+  - Resistência Mágica: Vantagem em salvaguardas contra magias e outros efeitos mágicos.
+* Ações:
+  - Ferrão: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 6 (1d6 + 3) de dano Perfurante + 7 (2d6) de dano Venenoso.
+  - Invisibilidade: Fica Invisível até atacar, causar dano, conjurar magia ou perder Concentração.
+  - Metamorfose: Assume forma de Fera Miúda (Rato, Corvo ou Aranha) ou reverte (mantém estatísticas, exceto Deslocamentos).
+
+### DONINHA
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 13 | PV: 1 (1d4 - 1) | Deslocamento: 9 m
+* Atributos: For 3 (-4/-4), Des 16 (+3/+3), Con 8 (-1/-1), Int 2 (-4/-4), Sab 12 (+1/+1), Car 3 (-4/-4)
+* Perícias: Acrobacia +5, Furtividade +5, Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### ELEFANTE
+* Tipo/Tamanho: Fera Enorme, Sem Alinhamento | ND: 4 (1.100 XP) | BP: +2
+* CA: 12 | PV: 76 (8d12 + 24) | Deslocamento: 12 m
+* Atributos: For 22 (+6/+6), Des 9 (-1/-1), Con 17 (+3/+3), Int 3 (-4/-4), Sab 11 (+0/+0), Car 6 (-2/-2)
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Multiataque: Realiza 2 ataques de Presa.
+  - Presa: Ataque Corpo a Corpo +8, alcance 1,5m. Acerto: 15 (2d8 + 6) de dano Perfurante. Se moveu-se >= 6m em linha reta até o alvo imediatamente antes, alvo Enorme ou menor faz SG Força CD 16 ou cai Caído.
+* Ações Bônus:
+  - Pisotear: Ataque Corpo a Corpo +8, alcance 1,5m (contra 1 criatura Caída). Acerto: 17 (2d10 + 6) de dano Contundente.
+
+### ESFINGE MARAVILHOSA
+* Tipo/Tamanho: Celestial Miúdo, Leal e Neutro | ND: 1 (200 XP) | BP: +2
+* CA: 13 | PV: 10 (3d4 + 3) | Deslocamento: 6 m, Voo 12 m
+* Atributos: For 6 (-2/-2), Des 15 (+2/+2), Con 13 (+1/+1), Int 11 (+0/+0), Sab 12 (+1/+1), Car 11 (+0/+0)
+* Perícias: Arcanismo +4, História +4, Religião +4
+* Resistências: Necrótico, Psíquico, Radiante
+* Sentidos: Visão Verdadeira 9m, Percepção Passiva 11 | Idiomas: Celestial, Comum
+* Traços:
+  - Resistência Mágica: Vantagem em salvaguardas contra magias e outros efeitos mágicos.
+* Ações:
+  - Garra: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 5 (1d6 + 2) de dano Cortante + 7 (2d6) de dano Radiante.
+* Reações:
+  - Explosão de Sabedoria (2/Dia): Quando você ou aliado a até 9m faz Teste de D20, concede +2 na jogada.
+
+### ESQUELETO
+* Tipo/Tamanho: Morto-Vivo Médio, Leal e Mau | ND: 1/4 (50 XP) | BP: +2
+* CA: 14 | PV: 13 (2d8 + 4) | Deslocamento: 9 m
+* Atributos: For 10 (+0/+0), Des 16 (+3/+3), Con 15 (+2/+2), Int 6 (-2/-2), Sab 8 (-1/-1), Car 5 (-3/-3)
+* Vulnerabilidades: Contundente | Imunidades: Venenoso, Envenenado, Exaustão
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 9 | Idiomas: Entende os idiomas que conhecia em vida, mas não fala
+* Ações:
+  - Espada Curta: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 6 (1d6 + 3) de dano Perfurante.
+  - Arco Curto: Ataque à Distância +5, alcance 24/96m. Acerto: 6 (1d6 + 3) de dano Perfurante.
+
+### FALCÃO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 13 | PV: 1 (1d4 - 1) | Deslocamento: 3 m, Voo 18 m
+* Atributos: For 5 (-3/-3), Des 16 (+3/+3), Con 8 (-1/-1), Int 2 (-4/-4), Sab 14 (+2/+2), Car 6 (-2/-2)
+* Perícias: Percepção +6
+* Sentidos: Percepção Passiva 16 | Idiomas: —
+* Traços:
+  - Visão Aguçada: Vantagem em testes de Sabedoria (Percepção) baseados na visão.
+* Ações:
+  - Garras: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 1 de dano Cortante.
+
+### GATO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 2 (1d4) | Deslocamento: 12 m, Escalada 12 m
+* Atributos: For 3 (-4/-4), Des 15 (+2/+2), Con 10 (+0/+0), Int 3 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Salvaguardas: Des +4
+* Perícias: Furtividade +4, Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Traços:
+  - Salto: Salta até 3m usando apenas 1,5m de movimento.
+* Ações:
+  - Arranhão: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 1 de dano Cortante.
+
+### LAGARTO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 10 | PV: 2 (1d4) | Deslocamento: 6 m, Escalada 6 m
+* Atributos: For 2 (-4/-4), Des 11 (+0/+0), Con 10 (+0/+0), Int 1 (-5/-5), Sab 8 (-1/-1), Car 3 (-4/-4)
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 9 | Idiomas: —
+* Traços:
+  - Escalada de Aranha: Escala superfícies difíceis, inclusive tetos, sem teste de atributo.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +2, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### LEÃO
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1 (200 XP) | BP: +2
+* CA: 12 | PV: 22 (4d10) | Deslocamento: 15 m
+* Atributos: For 17 (+3/+3), Des 15 (+2/+2), Con 11 (+0/+0), Int 3 (-4/-4), Sab 12 (+1/+1), Car 8 (-1/-1)
+* Perícias: Furtividade +4, Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Traços:
+  - Táticas de Matilha: Vantagem em jogadas de ataque se pelo menos 1 aliado (não Incapacitado) estiver a até 1,5m do alvo.
+  - Salto em Corrida: Com corrida de 3m, salta até 7,5m em distância.
+* Ações:
+  - Multiataque: Realiza 2 ataques de Despedacar (pode substituir 1 por Rugido).
+  - Despedacar: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 7 (1d8 + 3) de dano Cortante.
+  - Rugido: 1 criatura a até 4,5m faz SG Sabedoria CD 11 ou fica Amedrontada até o início do próximo turno do leão.
+
+### LOBO
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 12 | PV: 11 (2d8 + 2) | Deslocamento: 12 m
+* Atributos: For 14 (+2/+2), Des 15 (+2/+2), Con 12 (+1/+1), Int 3 (-4/-4), Sab 12 (+1/+1), Car 6 (-2/-2)
+* Perícias: Furtividade +4, Percepção +5
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 15 | Idiomas: —
+* Traços:
+  - Táticas de Matilha: Vantagem em jogadas de ataque se pelo menos 1 aliado (não Incapacitado) estiver a até 1,5m do alvo.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 5 (1d6 + 2) de dano Perfurante e, se o alvo for Médio ou menor, cai Caído.
+
+### LOBO ATROZ
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1 (200 XP) | BP: +2
+* CA: 14 | PV: 22 (3d10 + 6) | Deslocamento: 15 m
+* Atributos: For 17 (+3/+3), Des 15 (+2/+2), Con 15 (+2/+2), Int 3 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Perícias: Furtividade +4, Percepção +5
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 15 | Idiomas: —
+* Traços:
+  - Táticas de Matilha: Vantagem em jogadas de ataque se pelo menos 1 aliado (não Incapacitado) estiver a até 1,5m do alvo.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 8 (1d10 + 3) de dano Perfurante e, se o alvo for Grande ou menor, cai Caído.
+
+### MASTIM
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 12 | PV: 5 (1d8 + 1) | Deslocamento: 12 m
+* Atributos: For 13 (+1/+1), Des 14 (+2/+2), Con 12 (+1/+1), Int 3 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Perícias: Percepção +5
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 15 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 4 (1d6 + 1) de dano Perfurante e, se o alvo for Médio ou menor, cai Caído.
+
+### MORCEGO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 1 (1d4 - 1) | Deslocamento: 1,5 m, Voo 9 m
+* Atributos: For 2 (-4/-4), Des 15 (+2/+2), Con 8 (-1/-1), Int 2 (-4/-4), Sab 12 (+1/+1), Car 4 (-3/-3)
+* Sentidos: Visão às Cegas 18m, Percepção Passiva 11 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### MULA
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 10 | PV: 11 (2d8 + 2) | Deslocamento: 12 m
+* Atributos: For 14 (+2/+2), Des 10 (+0/+0), Con 13 (+1/+1), Int 2 (-4/-4), Sab 10 (+0/+0), Car 5 (-3/-3)
+* Salvaguardas: For +4
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Traços:
+  - Besta de Carga: Conta como 1 tamanho maior para determinar Capacidade de Carga.
+* Ações:
+  - Cascos: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Contundente.
+
+### PANTERA
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 13 | PV: 13 (3d8) | Deslocamento: 15 m, Escalada 12 m
+* Atributos: For 14 (+2/+2), Des 16 (+3/+3), Con 10 (+0/+0), Int 3 (-4/-4), Sab 14 (+2/+2), Car 7 (-2/-2)
+* Perícias: Furtividade +7, Percepção +4
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 14 | Idiomas: —
+* Ações:
+  - Despedacar: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 6 (1d6 + 3) de dano Cortante.
+* Ações Bônus:
+  - Pulo Ágil: Executa ação Correr ou Desengajar.
+
+### PÔNEI
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/8 (25 XP) | BP: +2
+* CA: 10 | PV: 11 (2d8 + 2) | Deslocamento: 12 m
+* Atributos: For 15 (+2/+2), Des 10 (+0/+0), Con 13 (+1/+1), Int 2 (-4/-4), Sab 11 (+0/+0), Car 7 (-2/-2)
+* Salvaguardas: For +4
+* Sentidos: Percepção Passiva 10 | Idiomas: —
+* Ações:
+  - Cascos: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Contundente.
+
+### POLVO
+* Tipo/Tamanho: Fera Pequena, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 12 | PV: 3 (1d6) | Deslocamento: 1,5 m, Natação 9 m
+* Atributos: For 4 (-3/-3), Des 15 (+2/+2), Con 11 (+0/+0), Int 3 (-4/-4), Sab 10 (+0/+0), Car 4 (-3/-3)
+* Perícias: Furtividade +6, Percepção +2
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 12 | Idiomas: —
+* Traços:
+  - Prender a Respiração: Pode prender a respiração fora d'água por 30 minutos.
+  - Respirar na Água: Respira apenas debaixo d'água.
+* Ações:
+  - Tentáculos: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 1 de dano Contundente.
+* Reações:
+  - Nuvem de Tinta (1/Dia): Debaixo d'água ao sofrer dano -> cria Cubo de 1,5m de escuridão por 1 minuto e move-se até seu Deslocamento de Natação.
+
+### PSEUDODRAGÃO
+* Tipo/Tamanho: Dragão Miúdo, Neutro e Bom | ND: 1/4 (50 XP) | BP: +2
+* CA: 14 | PV: 10 (3d4 + 3) | Deslocamento: 4,5 m, Voo 18 m
+* Atributos: For 6 (-2/-2), Des 15 (+2/+2), Con 13 (+1/+1), Int 10 (+0/+0), Sab 12 (+1/+1), Car 10 (+0/+0)
+* Perícias: Furtividade +4, Percepção +5
+* Sentidos: Visão às Cegas 3m, Visão no Escuro 18m, Percepção Passiva 15 | Idiomas: Entende Comum e Dracônico, mas não fala
+* Traços:
+  - Resistência Mágica: Vantagem em salvaguardas contra magias e outros efeitos mágicos.
+* Ações:
+  - Multiataque: Realiza 2 ataques de Mordida.
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 4 (1d4 + 2) de dano Perfurante.
+  - Ferrão: SG Constituição CD 12 (1 criatura a até 1,5m) -> falha: 5 (2d4) de dano Venenoso e fica Envenenada por 1 hora (se falhar por 5 ou mais, fica Inconsciente até sofrer dano ou ser sacudida).
+
+### QUASIT
+* Tipo/Tamanho: Ínfero (Demônio) Miúdo, Caótico e Mau | ND: 1 (200 XP) | BP: +2
+* CA: 13 | PV: 25 (10d4) | Deslocamento: 12 m
+* Atributos: For 5 (-3/-3), Des 17 (+3/+3), Con 10 (+0/+0), Int 7 (-2/-2), Sab 10 (+0/+0), Car 10 (+0/+0)
+* Perícias: Furtividade +5
+* Resistências: Elétrico, Gélido, Ígneo | Imunidades: Venenoso, Envenenado
+* Sentidos: Visão no Escuro 36m, Percepção Passiva 10 | Idiomas: Abissal, Comum
+* Traços:
+  - Resistência Mágica: Vantagem em salvaguardas contra magias e outros efeitos mágicos.
+* Ações:
+  - Despedacar: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 5 (1d4 + 3) de dano Cortante e alvo faz SG Constituição CD 10 ou fica Envenenado por 1 minuto (repete SG no fim de cada turno).
+  - Invisibilidade: Fica Invisível até atacar, causar dano, conjurar magia ou perder Concentração.
+  - Susto (1/Dia): 1 criatura a até 6m faz SG Sabedoria CD 10 ou fica Amedrontada por 1 minuto (repete SG no fim de cada turno).
+  - Metamorfose: Assume forma de Fera Miúda (Morcego, Centopeia ou Sapo) ou reverte (mantém estatísticas, exceto Deslocamentos).
+
+### RATO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 10 | PV: 1 (1d4 - 1) | Deslocamento: 6 m, Escalada 6 m
+* Atributos: For 2 (-4/-4), Des 11 (+0/+0), Con 9 (-1/-1), Int 2 (-4/-4), Sab 10 (+0/+0), Car 4 (-3/-3)
+* Perícias: Percepção +2
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 12 | Idiomas: —
+* Traços:
+  - Agilidade: Não provoca Ataques de Oportunidade ao sair do alcance de um inimigo.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +2, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### SAPO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (0 XP) | BP: +2
+* CA: 11 | PV: 1 (1d4 - 1) | Deslocamento: 6 m, Natação 6 m
+* Atributos: For 1 (-5/-5), Des 13 (+1/+1), Con 8 (-1/-1), Int 1 (-5/-5), Sab 8 (-1/-1), Car 3 (-4/-4)
+* Perícias: Furtividade +3, Percepção +1
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 11 | Idiomas: —
+* Traços:
+  - Anfíbio: Respira ar e água.
+  - Salto Parado: Salta até 3m em distância e 1,5m em altura, com ou sem corrida.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### SLAAD GIRINO
+* Tipo/Tamanho: Aberração Miúda, Caótico e Neutro | ND: 1/8 (25 XP) | BP: +2
+* CA: 12 | PV: 7 (3d4) | Deslocamento: 9 m
+* Atributos: For 7 (-2/-2), Des 15 (+2/+2), Con 10 (+0/+0), Int 3 (-4/-4), Sab 5 (-3/-3), Car 3 (-4/-4)
+* Perícias: Furtividade +4
+* Resistências: Ácido, Elétrico, Gélido, Ígneo, Trovejante
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 7 | Idiomas: Entende Slaad, mas não fala
+* Traços:
+  - Resistência Mágica: Vantagem em salvaguardas contra magias e outros efeitos mágicos.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 5 (1d6 + 2) de dano Perfurante.
+
+### SPRITE
+* Tipo/Tamanho: Feérico Miúdo, Neutro e Bom | ND: 1/4 (50 XP) | BP: +2
+* CA: 15 | PV: 10 (4d4) | Deslocamento: 3 m, Voo 12 m
+* Atributos: For 3 (-4/-4), Des 18 (+4/+4), Con 10 (+0/+0), Int 14 (+2/+2), Sab 13 (+1/+1), Car 11 (+0/+0)
+* Perícias: Furtividade +8, Percepção +3
+* Sentidos: Percepção Passiva 13 | Idiomas: Comum, Élfico, Silvestre
+* Ações:
+  - Espada Longa: Ataque Corpo a Corpo +6, alcance 1,5m. Acerto: 1 de dano Cortante.
+  - Arco Curto: Ataque à Distância +6, alcance 12/48m. Acerto: 1 de dano Perfurante + alvo faz SG Constituição CD 10 ou fica Envenenado por 1 minuto (se falhar por 5 ou mais, fica Inconsciente pelo mesmo tempo até sofrer dano ou ser sacudido).
+  - Visão do Coração: Toca 1 criatura -> SG Carisma CD 10 ou revela estado emocional atual e tendência (Celestiais, Ínferos e Mortos-Vivos falham automaticamente).
+  - Invisibilidade: Fica Invisível até atacar, causar dano, conjurar magia ou perder Concentração.
+
+### TEXUGO
+* Tipo/Tamanho: Fera Miúda, Sem Alinhamento | ND: 0 (10 XP) | BP: +2
+* CA: 11 | PV: 5 (1d4 + 3) | Deslocamento: 6 m, Escavação 1,5 m
+* Atributos: For 10 (+0/+0), Des 11 (+0/+0), Con 16 (+3/+3), Int 2 (-4/-4), Sab 12 (+1/+1), Car 5 (-3/-3)
+* Perícias: Percepção +3
+* Sentidos: Visão no Escuro 9m, Percepção Passiva 13 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +2, alcance 1,5m. Acerto: 1 de dano Perfurante.
+
+### TEXUGO GIGANTE
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/4 (50 XP) | BP: +2
+* CA: 13 | PV: 15 (2d8 + 6) | Deslocamento: 9 m, Escavação 3 m
+* Atributos: For 13 (+1/+1), Des 10 (+0/+0), Con 17 (+3/+3), Int 2 (-4/-4), Sab 12 (+1/+1), Car 5 (-3/-3)
+* Perícias: Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 6 (2d4 + 1) de dano Perfurante.
+
+### TIGRE
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1 (200 XP) | BP: +2
+* CA: 13 | PV: 30 (4d10 + 8) | Deslocamento: 12 m
+* Atributos: For 17 (+3/+3), Des 16 (+3/+3), Con 14 (+2/+2), Int 3 (-4/-4), Sab 12 (+1/+1), Car 8 (-1/-1)
+* Perícias: Furtividade +7, Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Ações:
+  - Despedacar: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 10 (2d6 + 3) de dano Cortante e, se o alvo for Grande ou menor, cai Caído.
+* Ações Bônus:
+  - Pulo Ágil: Executa ação Correr ou Desengajar.
+
+### TUBARÃO DOS RECIFES
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/2 (100 XP) | BP: +2
+* CA: 12 | PV: 22 (4d8 + 4) | Deslocamento: 1,5 m, Natação 9 m
+* Atributos: For 14 (+2/+2), Des 15 (+2/+2), Con 13 (+1/+1), Int 1 (-5/-5), Sab 10 (+0/+0), Car 4 (-3/-3)
+* Perícias: Percepção +2
+* Sentidos: Visão às Cegas 9m, Percepção Passiva 12 | Idiomas: —
+* Traços:
+  - Táticas de Matilha: Vantagem em jogadas de ataque se pelo menos 1 aliado (não Incapacitado) estiver a até 1,5m do alvo.
+  - Respirar na Água: Respira apenas debaixo d'água.
+* Ações:
+  - Mordida: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 7 (2d4 + 2) de dano Perfurante.
+
+### URSO MARROM
+* Tipo/Tamanho: Fera Grande, Sem Alinhamento | ND: 1 (200 XP) | BP: +2
+* CA: 11 | PV: 22 (3d10 + 6) | Deslocamento: 12 m, Escalada 9 m
+* Atributos: For 17 (+3/+3), Des 12 (+1/+1), Con 15 (+2/+2), Int 2 (-4/-4), Sab 13 (+1/+1), Car 7 (-2/-2)
+* Perícias: Percepção +3
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 13 | Idiomas: —
+* Ações:
+  - Multiataque: Realiza 1 ataque de Mordida e 1 ataque de Garras.
+  - Mordida: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 7 (1d8 + 3) de dano Perfurante.
+  - Garras: Ataque Corpo a Corpo +5, alcance 1,5m. Acerto: 5 (1d4 + 3) de dano Cortante e, se o alvo for Grande ou menor, cai Caído.
+
+### URSO NEGRO
+* Tipo/Tamanho: Fera Média, Sem Alinhamento | ND: 1/2 (100 XP) | BP: +2
+* CA: 11 | PV: 19 (3d8 + 6) | Deslocamento: 9 m, Escalada 9 m, Natação 9 m
+* Atributos: For 15 (+2/+2), Des 12 (+1/+1), Con 14 (+2/+2), Int 2 (-4/-4), Sab 12 (+1/+1), Car 7 (-2/-2)
+* Perícias: Percepção +5
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 15 | Idiomas: —
+* Ações:
+  - Multiataque: Realiza 2 ataques de Despedacar.
+  - Despedacar: Ataque Corpo a Corpo +4, alcance 1,5m. Acerto: 5 (1d6 + 2) de dano Cortante.
+
+### ZUMBI
+* Tipo/Tamanho: Morto-Vivo Médio, Neutro e Mau | ND: 1/4 (50 XP) | BP: +2
+* CA: 8 | PV: 15 (2d8 + 6) | Deslocamento: 6 m
+* Atributos: For 13 (+1/+1), Des 6 (-2/-2), Con 16 (+3/+3), Int 3 (-4/-4), Sab 6 (-2/-2), Car 5 (-3/-3)
+* Salvaguardas: Sab +0
+* Imunidades: Venenoso, Envenenado, Exaustão
+* Sentidos: Visão no Escuro 18m, Percepção Passiva 8 | Idiomas: Entende os idiomas que conhecia em vida, mas não fala
+* Traços:
+  - Fortitude Morta-Viva: Se dano reduzir o zumbi a 0 PV, faz SG Constituição (CD 5 + dano sofrido), exceto se o dano for Radiante ou de Acerto Crítico -> sucesso: fica com 1 PV.
+* Ações:
+  - Pancada: Ataque Corpo a Corpo +3, alcance 1,5m. Acerto: 5 (1d8 + 1) de dano Contundente.

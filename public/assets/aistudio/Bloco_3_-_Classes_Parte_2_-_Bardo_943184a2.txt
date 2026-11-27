@@ -1,0 +1,103 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 2 (BARDO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Carisma
+* Dado de Ponto de Vida: d8 por nível de Bardo
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Destreza e Carisma
+* Proficiência em Perícias: Escolha quaisquer 3 perícias
+* Proficiência com Armas: Armas Simples
+* Proficiência com Ferramentas: Escolha 3 Instrumentos Musicais
+* Treinamento com Armadura: Armadura Leve
+* Equipamento Inicial: (A) Armadura de Couro, 2 Adagas, Instrumento Musical à escolha, Kit de Artista e 19 PO; ou (B) 90 PO
+* Multiclasse (Ganhos): Dado de Vida (d8), 1 perícia à escolha, 1 Instrumento Musical à escolha, Armadura Leve
+
+## TABELA DE PROGRESSÃO (BARDO)
+| Nv | BP | Dado Insp. | Truques | Prep. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | Características |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | d6 | 2 | 4 | 2 | - | - | - | - | - | - | - | - | Conjuração, Inspiração de Bardo |
+| 2 | +2 | d6 | 2 | 5 | 3 | - | - | - | - | - | - | - | - | Especialista, Pau pra Toda Obra |
+| 3 | +2 | d6 | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - | Subclasse de Bardo |
+| 4 | +2 | d6 | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | d8 | 3 | 9 | 4 | 3 | 2 | - | - | - | - | - | - | Fonte de Inspiração |
+| 6 | +3 | d8 | 3 | 10 | 4 | 3 | 3 | - | - | - | - | - | - | Característica de Subclasse |
+| 7 | +3 | d8 | 3 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - | Contra-Encantamento |
+| 8 | +3 | d8 | 3 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | d8 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | Especialização |
+| 10 | +4 | d10 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | Segredos Mágicos |
+| 11 | +4 | d10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 12 | +4 | d10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | d10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
+| 14 | +5 | d10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Característica de Subclasse |
+| 15 | +5 | d12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | - |
+| 16 | +5 | d12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Aumento no Valor de Atributo |
+| 17 | +6 | d12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | - |
+| 18 | +6 | d12 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | Inspiração Superior |
+| 19 | +6 | d12 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | Dádiva Épica |
+| 20 | +6 | d12 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | Palavras de Criação |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Inspiração de Bardo:
+  - Ação Bônus: Escolhe outra criatura a até 18m que possa vê-lo ou ouvi-lo; ela recebe 1 dado de Inspiração de Bardo (máx. 1 por criatura).
+  - Uso: Dentro de 1 hora, após falhar em um Teste de D20, a criatura pode jogar o dado e somar ao resultado (gasta o dado).
+  - Usos: Igual ao Mod. Carisma (mín. 1). Restaura em Descanso Longo.
+  - Progressão do Dado: d6 (Nv 1), d8 (Nv 5), d10 (Nv 10), d12 (Nv 15).
+* Nível 1 - Conjuração:
+  - Atributo: Carisma. Foco: Instrumento Musical.
+  - Truques: Conhece conforme tabela; pode substituir 1 truque ao subir de nível de Bardo.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode substituir 1 magia preparada ao subir de nível de Bardo. Restaura espaços em Descanso Longo.
+* Nível 2 - Especialista: Especialização em 2 perícias proficientes (dobra BP). Ganha mais 2 no Nível 9.
+* Nível 2 - Pau pra Toda Obra: Soma metade do BP (arred. baixo) a qualquer teste de atributo usando perícia na qual não seja proficiente e que não use seu BP.
+* Nível 3 - Subclasse de Bardo: Escolhe um Colégio.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Fonte de Inspiração: Restaura todos os usos de Inspiração de Bardo em Descanso Curto ou Longo. Pode gastar 1 espaço de magia (sem ação) para recuperar 1 uso gasto de Inspiração de Bardo.
+* Nível 7 - Contra-Encantamento: Reação quando você ou criatura a até 9m falha em SG contra efeito que impõe Amedrontado ou Enfeitiçado -> joga novamente a SG com Vantagem.
+* Nível 10 - Segredos Mágicos: Sempre que o número de Magias Preparadas aumentar (incluindo Nv 10) ou ao substituir uma magia preparada de Bardo, pode escolher magias das listas de Bardo, Clérigo, Druida e Mago (contam como magias de Bardo).
+* Nível 18 - Inspiração Superior: Ao jogar Iniciativa, se tiver menos de 2 usos de Inspiração de Bardo, recupera usos até ficar com 2.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Palavras de Criação: Sempre tem Palavra de Poder: Matar e Palavra de Poder: Salvar preparadas. Ao conjurar qualquer uma delas, pode escolher uma 2ª criatura alvo a até 3m do 1º alvo.
+
+## LISTA DE MAGIAS DE BARDO (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Amigos (C), Fagulha Estelar, Golpe Certeiro, Ilusão Menor, Luz, Luzes Dançantes (C), Mãos Mágicas, Mensagem, Prestidigitação Arcana, Proteção Contra Lâminas (C), Reparar, Trovão, Zombaria Perversa.
+* 1º Círculo: Amizade Animal, Comando, Compreender Idiomas (R), Curar Ferimentos, Detectar Magia (C, R), Disfarçar-se, Enfeitiçar Pessoa, Escrita Ilusória (R, M), Falar com Animais (R), Fogo das Fadas (C), Gargalhada Nefasta de Tasha (C), Heroísmo (C), Identificar (R, M), Imagem Silenciosa (C), Leque Cromático, Onda Trovejante, Palavra Curativa, Passos Largos, Perdição (C), Queda Suave, Servo Invisível (R), Sono (C), Sussurros Dissonantes.
+* 2º Círculo: Acalmar Emoções (C), Aprimorar Atributo (C), Arrombar, Aumentar/Reduzir (C), Auxílio, Boca Encantada (R, M), Cativar (C), Cegueira/Surdez, Coroa da Loucura (C), Despedaçar, Detectar Pensamentos (C), Esquentar Metal (C), Força Espectral (C), Invisibilidade (C, M), Localizar Animais ou Plantas (R), Localizar Objeto (C), Mensageiro Animal (R), Nuvem de Adagas (C), Paralisar Pessoa (C), Reflexos, Restauração Menor, Silêncio (C, R), Sugestão (C), Ver o Invisível, Zona da Verdade.
+* 3º Círculo: Clarividência (C, M), Crescimento de Plantas, Dissipar Magia, Falar com Mortos, Falar com Plantas, Glifo de Proteção (M), Imagem Maior (C), Indetectável (M), Lentidão (C), Línguas, Medo (C), Nuvem Fétida (C), Padrão Hipnótico (C), Palavra Curativa em Massa, Pequeno Refúgio de Leomund (R), Remeter, Rogar Maldição (C), Simular Morte (R).
+* 4º Círculo: Assassino Fantasmagórico (C), Compulsão (C), Confusão (C), Enfeitiçar Monstro, Fonte do Luar (C), Invisibilidade Maior (C), Localizar Criatura (C), Movimentação Livre, Polimorfia (C), Porta Dimensional, Terreno Alucinatório.
+* 5º Círculo: Âncora Planar (M), Animar Objetos (C), Círculo de Teleporte (M), Curar Ferimentos em Massa, Despertar (M), Despistar (C), Dominar Pessoa (C), Estática Sináptica, Lendas e Histórias (M), Ligação Telepática de Rary (R), Missão, Modificar Memória (C), Paralisar Monstro (C), Presença Régia de Yolande (C), Restauração Maior (M), Reviver os Mortos (M), Similaridade, Sonho, Vidência (C, M).
+* 6º Círculo: Banquete de Heróis (M), Dança Irresistível de Otto (C), Encontrar o Caminho (C, M), Ilusão Programada (M), Mau Olhado (C), Proteger Fortaleza (M), Sugestão em Massa, Visão da Verdade (M).
+* 7º Círculo: Cárcere de Energia (C, M), Espada de Mordenkainen (C, M), Forma Etérea, Mansão Magnífica de Mordenkainen (M), Miragem Arcana, Palavra de Poder: Fortificar, Projetar Imagem (C, M), Rajada Prismática, Regeneração, Ressurreição (M), Símbolo (M), Teleporte.
+* 8º Círculo: Antipatia/Simpatia, Dominar Monstro (C), Limpar a Mente, Loquacidade, Palavra de Poder: Atordoar, Suplício.
+* 9º Círculo: Muralha Prismática, Palavra de Poder: Matar, Palavra de Poder: Salvar, Polimorfia Total (C), Sexto Sentido.
+
+## SUBCLASSES DE BARDO
+
+### COLÉGIO DA BRAVURA
+* Nível 3 - Inspiração em Combate: Criatura com seu dado de Inspiração de Bardo pode usá-lo para:
+  - Defensivo: Reação ao ser atingida por ataque -> joga o dado e soma à CA contra aquele ataque.
+  - Ofensivo: Imediatamente após acertar jogada de ataque -> joga o dado e soma ao dano.
+* Nível 3 - Treinamento Marcial: Proficiência com Armas Marciais, Armaduras Médias e Escudos. Pode usar arma Simples ou Marcial como Foco de Conjuração de Bardo.
+* Nível 6 - Ataque Extra: 2 ataques ao executar ação Atacar. Pode substituir 1 ataque pela conjuração de 1 truque (tempo de conjuração: 1 Ação).
+* Nível 14 - Magia de Batalha: Após conjurar magia com tempo de conjuração de 1 Ação, pode realizar 1 ataque com arma como Ação Bônus.
+
+### COLÉGIO DA DANÇA
+* Nível 3 - Ginga Fascinante: Enquanto não vestir armadura ou empunhar Escudo:
+  - Dança Virtuosa: Vantagem em Carisma (Atuação) envolvendo dança.
+  - Dano de Bardo: Usa Destreza em vez de Força nas jogadas de ataque de Ataques Desarmados. Dano Contundente = rolagem do dado de Inspiração de Bardo + Mod. Destreza (não gasta o dado).
+  - Defesa sem Armadura: CA base = 10 + Mod. Destreza + Mod. Carisma.
+  - Golpes Ágeis: Ao gastar uso de Inspiração de Bardo como parte de Ação, Ação Bônus ou Reação, pode realizar 1 Ataque Desarmado como parte da mesma ação/bônus/reação.
+* Nível 6 - Gingado Coordenado: Ao rolar Iniciativa (sem estar Incapacitado), pode gastar 1 Inspiração de Bardo e jogar o dado; você e aliados a até 9m que o vejam/ouçam somam o resultado à Iniciativa.
+* Nível 6 - Movimento Inspirador: Reação quando inimigo visível encerra turno a até 1,5m de você -> gasta 1 Inspiração de Bardo para mover-se até metade do Deslocamento. Em seguida, 1 aliado a até 9m pode usar a Reação dele para mover-se até metade do Deslocamento. Nenhum dos movimentos provoca Ataques de Oportunidade.
+* Nível 14 - Evasão Liderada: Em efeito com SG Destreza para metade do dano, sofre 0 em sucesso e metade em falha (inativo se Incapacitado). Compartilha o benefício com criaturas a até 1,5m que façam a mesma SG.
+
+### COLÉGIO DO CONHECIMENTO
+* Nível 3 - Palavras de Interrupção: Reação quando criatura visível a até 18m realiza jogada de dano ou tem sucesso em teste de atributo ou jogada de ataque -> gasta 1 Inspiração de Bardo, joga o dado e subtrai o resultado do total da criatura.
+* Nível 3 - Proficiências Bônus: Proficiência em 3 perícias à escolha.
+* Nível 6 - Descobertas Mágicas: Aprende 2 magias (truques ou círculos com espaços) das listas de Clérigo, Druida ou Mago (sempre preparadas). Pode trocar 1 ao subir de nível de Bardo.
+* Nível 14 - Perícia Inigualável: Ao falhar em teste de atributo ou jogada de ataque, pode gastar 1 Inspiração de Bardo, jogar o dado e somar ao d20. Se ainda falhar, o uso não é gasto.
+
+### COLÉGIO DO GLAMOUR
+* Nível 3 - Magia Fascinante: Sempre tem Enfeitiçar Pessoa e Reflexos preparadas. Imediatamente após conjurar magia de Encantamento ou Ilusão usando espaço de magia, 1 criatura visível a até 18m faz SG Sabedoria (sua CD) ou fica Amedrontado ou Enfeitiçado (à escolha) por 1 min (repete SG no fim de cada turno). Usos: 1x/Descanso Longo ou gastando 1 Inspiração de Bardo (sem ação).
+* Nível 3 - Manto de Inspiração: Ação Bônus. Gasta 1 Inspiração de Bardo e joga o dado. Escolhe até Mod. Carisma (mín. 1) criaturas a até 18m; cada uma ganha PVT = 2x resultado do dado e pode usar Reação para mover-se até o Deslocamento total sem provocar Ataques de Oportunidade.
+* Nível 6 - Manto de Majestade: Sempre tem Comando preparada. Ação Bônus: conjura Comando sem espaço e assume forma majestosa por 1 min (Concentração); durante esse tempo, pode conjurar Comando como Ação Bônus sem espaço. Criaturas Enfeitiçadas por você falham automaticamente na SG. Usos: 1x/Descanso Longo ou gastando espaço de 3º círculo+ (sem ação).
+* Nível 14 - Majestade Inquebrável: Ação Bônus (1 min ou até Incapacitado). Na 1ª vez em cada turno que uma criatura acerta você com ataque, atacante deve passar em SG Carisma (sua CD) ou o ataque falha. Usos: 1x/Descanso Curto ou Longo.

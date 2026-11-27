@@ -1,0 +1,148 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 5 (DRUIDA)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Sabedoria
+* Dado de Ponto de Vida: d8 por nível de Druida
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Inteligência e Sabedoria
+* Proficiência em Perícias: Escolha 2 entre Arcanismo, Lidar com Animais, Intuição, Medicina, Natureza, Percepção, Religião ou Sobrevivência
+* Proficiência com Armas: Armas Simples
+* Proficiência com Ferramentas: Kit de Herbalismo
+* Treinamento com Armadura: Armadura Leve e Escudos
+* Equipamento Inicial: (A) Armadura de Couro, Escudo, Foice, Foco Druídico (Cajado), Kit de Explorador, Kit de Herbalismo, 9 PO; ou (B) 50 PO
+* Multiclasse (Ganhos): Dado de Vida (d8), Armadura Leve e Escudos
+
+## TABELA DE PROGRESSÃO (DRUIDA)
+| Nv | BP | Forma Selvagem | Truques | Prep. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | Características |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | - | 2 | 4 | 2 | - | - | - | - | - | - | - | - | Conjuração, Idioma Druídico, Ordem Primal |
+| 2 | +2 | 2 | 2 | 5 | 3 | - | - | - | - | - | - | - | - | Companheiro Selvagem, Forma Selvagem |
+| 3 | +2 | 2 | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - | Subclasse de Druida |
+| 4 | +2 | 2 | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 2 | 3 | 9 | 4 | 3 | 2 | - | - | - | - | - | - | Ressurgimento Selvagem |
+| 6 | +3 | 3 | 3 | 10 | 4 | 3 | 3 | - | - | - | - | - | - | Característica de Subclasse |
+| 7 | +3 | 3 | 3 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - | Fúria Elemental |
+| 8 | +3 | 3 | 3 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 3 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | - |
+| 10 | +4 | 3 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | Característica de Subclasse |
+| 11 | +4 | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 12 | +4 | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
+| 14 | +5 | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Característica de Subclasse |
+| 15 | +5 | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Fúria Elemental Aprimorada |
+| 16 | +5 | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 4 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | - |
+| 18 | +6 | 4 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | Magias Bestiais |
+| 19 | +6 | 4 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | Dádiva Épica |
+| 20 | +6 | 4 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | Arquidruida |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Conjuração:
+  - Atributo: Sabedoria. Foco: Foco Druídico.
+  - Truques: Conforme tabela; pode substituir 1 truque ao subir de nível de Druida.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode alterar qualquer magia preparada ao completar um Descanso Longo. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Idioma Druídico: Conhece o idioma Druídico e sempre tem Falar com Animais preparada. Pode deixar mensagens ocultas em Druídico (outros que conhecem o idioma notam automaticamente; demais exigem Inteligência [Investigação] CD 15 para perceber, mas não decifram sem magia).
+* Nível 1 - Ordem Primal: Escolhe 1 opção:
+  - Protetor: Proficiência com Armas Marciais e treinamento com Armadura Média.
+  - Xamã: +1 truque da lista de Druida; soma Mod. Sabedoria (mín. +1) em testes de Inteligência (Arcanismo ou Natureza).
+* Nível 2 - Companheiro Selvagem: Ação Usar Magia + gasta 1 espaço de magia ou 1 uso de Forma Selvagem para conjurar Convocar Familiar sem componentes Materiais. O familiar é uma criatura Feérica e desaparece ao completar um Descanso Longo.
+* Nível 2 - Forma Selvagem:
+  - Ativação e Duração: Ação Bônus para multimorfar em uma Fera conhecida. Dura horas = metade do nível de Druida (arred. baixo). Encerra se usar novamente, ficar Incapacitado, morrer ou encerrar antes com Ação Bônus.
+  - Usos: Conforme tabela (2 Nv 2, 3 Nv 6, 4 Nv 17). Recupera 1 uso em Descanso Curto e todos em Descanso Longo.
+  - Formas Conhecidas: Escolhe Feras conforme tabela abaixo. Pode substituir 1 forma conhecida ao completar um Descanso Longo.
+
+### TABELA DE FORMAS DE FERAS
+| Nível de Druida | Formas Conhecidas | ND Máximo | Deslocamento de Voo |
+|---|---|---|---|
+| 2 | 4 | 1/4 | Não |
+| 4 | 6 | 1/2 | Não |
+| 8 | 8 | 1 | Sim |
+
+  - Regras Enquanto Multimorfado:
+    * Mantém personalidade, memórias e capacidade de falar.
+    * PVT: Ganha Pontos de Vida Temporários = seu nível de Druida.
+    * Estatísticas: Substituídas pelo bloco da Fera, mas mantém tipo de criatura, PV, Dados de Vida, valores de Inteligência, Sabedoria e Carisma, características de classe, idiomas e talentos. Mantém proficiências em perícias e SG (usando seu BP) e adquire as da Fera (se o modificador da Fera for maior, usa o da Fera).
+    * Sem Conjuração: Não pode conjurar magias, mas não quebra Concentração nem interfere em magias já ativas.
+    * Objetos: Manipulação limitada pelos membros da forma. Escolhe se equipamento cai, se funde à forma (sem efeito) ou é usado por ela (a critério do Mestre).
+* Nível 3 - Subclasse de Druida: Escolhe um Círculo.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Ressurgimento Selvagem: 1x em cada turno, se estiver sem usos de Forma Selvagem, pode gastar 1 espaço de magia (sem ação) para recuperar 1 uso. Além disso, pode gastar 1 uso de Forma Selvagem (sem ação) para recuperar 1 espaço de magia de 1º círculo (1x/Descanso Longo).
+* Nível 7 - Fúria Elemental: Escolhe 1 opção:
+  - Ataque Primal: 1x em cada turno, ao atingir criatura com ataque armado ou ataque da forma Animal em Forma Selvagem, causa +1d8 de dano Elétrico, Gélido, Ígneo ou Trovejante (escolhe no acerto).
+  - Conjuração Poderosa: Soma Mod. Sabedoria ao dano de qualquer truque de Druida.
+* Nível 15 - Fúria Elemental Aprimorada: Melhora a opção escolhida no Nível 7:
+  - Ataque Primal: Dano adicional aumenta para 2d8.
+  - Conjuração Poderosa: Truques de Druida com alcance >= 3m passam a ter alcance de 90m.
+* Nível 18 - Magias Bestiais: Pode conjurar magias enquanto estiver em Forma Selvagem, exceto magias que exijam componente Material com custo especificado ou que consumam o componente Material.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Arquidruida:
+  - Forma Selvagem Eterna: Ao jogar Iniciativa sem usos de Forma Selvagem, recupera 1 uso.
+  - Natureza Xamânica: Converte usos não gastos de Forma Selvagem em 1 único espaço de magia (sem ação), com cada uso contribuindo com 2 círculos (ex: 2 usos = 1 espaço de 4º círculo). Usos: 1x/Descanso Longo.
+  - Longevidade: Envelhece apenas 1 ano a cada 10 anos que passam.
+
+## LISTA DE MAGIAS DE DRUIDA (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Acudir os Moribundos, Arte Druídica, Bordão Místico, Chicote de Espinhos, Criar Chamas, Elementalismo, Fagulha Estelar, Mensagem, Orientação (C), Rajada de Veneno, Reparar, Resistência (C), Trovão.
+* 1º Círculo: Amizade Animal, Bom Fruto, Criar ou Destruir Água, Curar Ferimentos, Detectar Magia (C, R), Detectar Veneno e Doença (C, R), Emaranhar (C), Enfeitiçar Pessoa, Faca de Gelo, Falar com Animais (R), Fogo das Fadas (C), Névoa Obscurecente (C), Onda Trovejante, Palavra Curativa, Passos Largos, Proteção Contra o Bem e o Mal (C, M), Purificar Alimentos e Bebidas (R), Salto.
+* 2º Círculo: Aprimorar Atributo (C), Augúrio (R, M), Aumentar/Reduzir (C), Auxílio, Chama Contínua (M), Crescer Espinhos (C), Encontrar Armadilhas, Esfera Flamejante (C), Esquentar Metal (C), Invocar Fera (C, M), Lâmina Flamejante (C), Localizar Animais ou Plantas (R), Localizar Objeto (C), Lufada de Vento (C), Mensageiro Animal (R), Paralisar Pessoa (C), Passo Sem Rastro (C), Pele-casca, Proteção Contra Veneno, Raio Lunar (C), Restauração Menor, Sentido Feral (C, R), Visão no Escuro.
+* 3º Círculo: Arma Elemental (C), Aura de Vitalidade (C), Caminhar Sobre as Águas (R), Convocar Feérico (C, M), Convocar Relâmpagos (C), Crescimento de Plantas, Dissipar Magia, Falar com Plantas, Invocar Animais (C), Luz do Dia, Mesclar-se às Rochas (R), Muralha de Vento (C), Nevasca (C), Proteção contra Energia (C), Respirar na Água (R), Revivificar (M), Simular Morte (R).
+* 4º Círculo: Confusão (C), Controlar Água (C), Convocar Elemental (C, M), Dominar Fera (C), Enfeitiçar Monstro, Escudo Ardente, Fonte do Luar (C), Inseto Gigante (C), Invocar Elementais Menores (C), Invocar Seres da Floresta (C), Localizar Criatura (C), Malogro, Moldar Rochas, Movimentação Livre, Muralha de Fogo (C), Pele-Rocha (C, M), Polimorfia (C), Presságio (R, M), Tempestade Glacial, Terreno Alucinatório, Vinha Agarradora (C).
+* 5º Círculo: Âncora Planar (M), Comunhão com a Natureza (R), Cone de Frio, Contágio, Cúpula Antivida (C), Curar Ferimentos em Massa, Despertar (M), Invocar Elemental (C), Missão, Muralha de Pedra (C), Passo Arbóreo (C), Praga de Insetos (C), Reencarnar (M), Restauração Maior (M), Vidência (C, M).
+* 6º Círculo: Banquete de Heróis (M), Caminhar no Vento, Cura Completa, De Carne para Pedra (C), Encontrar o Caminho (C, M), Invocar Feérico (C), Mover Terra (C), Muralha de Espinhos (C), Raio Solar (C), Transporte via Plantas.
+* 7º Círculo: Inverter a Gravidade (C), Miragem Arcana, Regeneração, Símbolo (M), Tempestade de Fogo, Transição Planar (M).
+* 8º Círculo: Antipatia/Simpatia, Controlar o Clima (C), Explosão Solar, Formas Animais, Nuvem Incendiária (C), Suplício, Terremoto (C), Tsunami (C).
+* 9º Círculo: Metamorfose (C, M), Ressurreição Verdadeira (M), Sexto Sentido, Tempestade da Vingança (C).
+
+## SUBCLASSES DE DRUIDA
+
+### CÍRCULO DA LUA
+* Nível 3 - Formas Animais dos Círculos Druídicos: Ao assumir Forma Selvagem:
+  - ND Máximo = Nível de Druida / 3 (arredondado para baixo).
+  - CA = 13 + Mod. Sabedoria (se for maior que a CA da Fera).
+  - PVT = 3 x Nível de Druida.
+* Nível 3 - Magias do Círculo da Lua (sempre preparadas; podem ser conjuradas em Forma Selvagem):
+  - Nv 3: Curar Ferimentos, Fagulha Estelar, Raio Lunar
+  - Nv 5: Invocar Animais
+  - Nv 7: Fonte do Luar
+  - Nv 9: Curar Ferimentos em Massa
+* Nível 6 - Formas Animais Aprimorada: Enquanto em Forma Selvagem:
+  - Radiância Lunar: Cada ataque pode causar seu tipo normal ou dano Radiante (escolhe a cada acerto).
+  - Vigor Aumentado: Soma Mod. Sabedoria às salvaguardas de Constituição.
+* Nível 10 - Passo Lunar: Ação Bônus: teleporta até 9m para espaço desocupado visível e ganha Vantagem na próxima jogada de ataque antes do fim deste turno. Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo ou gastando 1 espaço de magia de 2º círculo+ por uso (sem ação).
+* Nível 14 - Forma Lunar:
+  - Radiância Lunar Aprimorada: 1x/turno causa +2d10 dano Radiante a um alvo atingido por ataque em Forma Selvagem.
+  - Luar Compartilhado: Ao usar Passo Lunar, pode levar 1 criatura voluntária a até 3m de você para espaço desocupado visível a até 3m do seu destino.
+
+### CÍRCULO DA TERRA
+* Nível 3 - Auxílio da Terra: Ação Usar Magia + gasta 1 uso de Forma Selvagem. Ponto a até 18m cria Esfera de 3m de raio. Criaturas à escolha na Esfera fazem SG Constituição (sua CD): falha = 2d6 dano Necrótico; sucesso = metade. Uma criatura à escolha na área restaura 2d6 PV. Dano e cura aumentam para 3d6 (Nv 10) e 4d6 (Nv 14).
+* Nível 3 - Magias do Círculo da Terra: Ao completar Descanso Longo, escolhe 1 terreno (tem sempre preparadas as magias do nível de Druida ou inferior):
+  - Terreno Árido: Nv 3 (Mãos Flamejantes, Raio de Fogo, Turvar), Nv 5 (Bola de Fogo), Nv 7 (Malogro), Nv 9 (Muralha de Pedra).
+  - Terreno Polar: Nv 3 (Névoa Obscurecente, Paralisar Pessoa, Raio de Gelo), Nv 5 (Nevasca), Nv 7 (Tempestade Glacial), Nv 9 (Cone de Frio).
+  - Terreno Temperado: Nv 3 (Passo Nebuloso, Sono, Toque Chocante), Nv 5 (Relâmpago), Nv 7 (Movimentação Livre), Nv 9 (Passo Arbóreo).
+  - Terreno Tropical: Nv 3 (Bolha Ácida, Raio Nauseante, Teia), Nv 5 (Nuvem Fétida), Nv 7 (Polimorfia), Nv 9 (Praga de Insetos).
+* Nível 6 - Recuperação Natural: Conjura 1 magia de 1º círculo+ preparada de Magias do Círculo sem gastar espaço (1x/Descanso Longo). Além disso, em um Descanso Curto, recupera espaços de magia gastos cuja soma dos círculos <= metade do nível de Druida (arred. cima), nenhum de 6º círculo+ (1x/Descanso Longo).
+* Nível 10 - Proteção Natural: Imunidade à condição Envenenado e Resistência ao dano do terreno escolhido: Árido (Ígneo), Polar (Gélido), Temperado (Elétrico), Tropical (Venenoso).
+* Nível 14 - Santuário Natural: Ação Usar Magia + gasta 1 uso de Forma Selvagem. Cria Cubo de 4,5m no chão a até 36m (dura 1 min ou até morrer/Incapacitado). Você e aliados na área têm Cobertura Parcial e a Resistência atual de Proteção Natural. Ação Bônus move o Cubo até 18m (no chão, até 36m de você).
+
+### CÍRCULO DAS ESTRELAS
+* Nível 3 - Forma Estrelada: Ação Bônus + gasta 1 uso de Forma Selvagem. Mantém estatísticas; emite Luz Plena 3m e Meia-luz +3m. Dura 10 min (encerra se dispensar sem ação, ficar Incapacitado ou usar novamente). Escolhe 1 constelação:
+  - Arqueiro: Ao ativar e como Ação Bônus nos turnos seguintes, realiza ataque mágico à distância (18m); acerto = 1d8 + Mod. Sabedoria de dano Radiante.
+  - Dragão: Ao realizar teste de Inteligência ou Sabedoria, ou SG de Constituição para manter Concentração, trata resultado <= 9 no d20 como 10.
+  - Taça: Ao conjurar magia com espaço de magia que restaura PV em uma criatura, você ou outra criatura a até 9m recupera 1d8 + Mod. Sabedoria em PV.
+* Nível 3 - Mapa Estelar: Objeto Minúsculo usado como Foco de Conjuração de Druida. Enquanto segurado, tem Orientação e Raio Guia preparadas, e conjura Raio Guia sem espaço um número de vezes = Mod. Sabedoria (mín. 1; restaura em Descanso Longo). Se perdido, recria em cerimônia de 1h durante Descanso Curto ou Longo.
+* Nível 6 - Presságio Cósmico: Ao completar Descanso Longo, joga 1 dado. Até o próximo Descanso Longo, tem Reação quando criatura visível a até 9m faz Teste de D20 (Usos = Mod. Sabedoria, mín. 1):
+  - Prosperidade (par): Joga 1d6 e soma ao total.
+  - Infortúnio (ímpar): Joga 1d6 e subtrai do total.
+* Nível 10 - Constelações Cintilantes: Arqueiro e Taça aumentam para 2d8; Dragão concede Deslocamento de Voo de 6m e pairar. No início de cada turno em Forma Estrelada, pode trocar a constelação ativa.
+* Nível 14 - Repleto de Estrelas: Em Forma Estrelada, tem Resistência a dano Contundente, Cortante e Perfurante.
+
+### CÍRCULO DO MAR
+* Nível 3 - Ira do Mar: Ação Bônus + gasta 1 uso de Forma Selvagem. Manifesta Emanação de 1,5m ao seu redor por 10 min (encerra se dispensar sem ação, manifestar novamente ou ficar Incapacitado). Ao ativar e como Ação Bônus nos turnos seguintes, escolhe outra criatura visível na Emanação -> SG Constituição (sua CD). Falha: sofre dano Gélido = número de d6s igual ao Mod. Sabedoria (mín. 1d6) e, se Grande ou menor, é empurrada até 4,5m para longe.
+* Nível 3 - Magias do Círculo do Mar (sempre preparadas):
+  - Nv 3: Despedaçar, Lufada de Vento, Névoa Obscurecente, Onda Trovejante, Raio de Gelo
+  - Nv 5: Relâmpago, Respirar na Água
+  - Nv 7: Controlar Água, Tempestade Glacial
+  - Nv 9: Invocar Elemental, Paralisar Monstro
+* Nível 6 - Afinidade Aquática: Emanação de Ira do Mar aumenta para 3m. Adquire Deslocamento de Natação = seu Deslocamento.
+* Nível 10 - Filho da Tempestade: Enquanto Ira do Mar estiver ativa, ganha Deslocamento de Voo = seu Deslocamento e Resistência a dano Elétrico, Gélido e Trovejante.
+* Nível 14 - Manifestação Oceânica: Pode manifestar Ira do Mar ao redor de uma criatura voluntária a até 18m (ela recebe todos os benefícios, usando sua CD e Mod. Sabedoria). Pode gastar 2 usos de Forma Selvagem ao manifestar para criar a Emanação ao redor de si e da outra criatura simultaneamente.

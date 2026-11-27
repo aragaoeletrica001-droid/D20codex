@@ -1,0 +1,129 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 12 (PALADINO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Força e Carisma
+* Dado de Ponto de Vida: d10 por nível de Paladino
+* PV no Nível 1: 10 + Mod. Constituição
+* PV em Níveis Seguintes: 1d10 (ou 6) + Mod. Constituição
+* Proficiência em Salvaguardas: Sabedoria e Carisma
+* Proficiência em Perícias: Escolha 2 entre Atletismo, Intimidação, Intuição, Medicina, Persuasão ou Religião
+* Proficiência com Armas: Armas Simples e Marciais
+* Treinamento com Armadura: Armaduras Leves, Médias, Pesadas e Escudos
+* Equipamento Inicial: (A) Cota de Malha, Escudo, Espada Longa, 6 Azagaias, Símbolo Sagrado, Kit de Sacerdote e 9 PO; ou (B) 150 PO
+* Multiclasse (Ganhos): Dado de Vida (d10), Armas Marciais, Armaduras Leves, Médias e Escudos
+
+## TABELA DE PROGRESSÃO (PALADINO)
+| Nv | BP | Canalizar Divindade | Magias Prep. | 1º | 2º | 3º | 4º | 5º | Características |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | - | 2 | 2 | - | - | - | - | Conjuração, Maestria em Arma, Mãos Consagradas |
+| 2 | +2 | - | 3 | 2 | - | - | - | - | Destruição do Paladino, Estilo de Luta |
+| 3 | +2 | 2 | 4 | 3 | - | - | - | - | Canalizar Divindade, Subclasse de Paladino |
+| 4 | +2 | 2 | 5 | 3 | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 2 | 6 | 4 | 2 | - | - | - | Ataque Extra, Montaria Fiel |
+| 6 | +3 | 2 | 6 | 4 | 2 | - | - | - | Aura de Proteção |
+| 7 | +3 | 2 | 7 | 4 | 3 | - | - | - | Característica de Subclasse |
+| 8 | +3 | 2 | 7 | 4 | 3 | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 2 | 9 | 4 | 3 | 2 | - | - | Repudiar Inimigos |
+| 10 | +4 | 2 | 9 | 4 | 3 | 2 | - | - | Aura de Coragem |
+| 11 | +4 | 3 | 10 | 4 | 3 | 3 | - | - | Golpes Radiantes |
+| 12 | +4 | 3 | 10 | 4 | 3 | 3 | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 3 | 11 | 4 | 3 | 3 | 1 | - | - |
+| 14 | +5 | 3 | 11 | 4 | 3 | 3 | 1 | - | Toque Restaurador |
+| 15 | +5 | 3 | 12 | 4 | 3 | 3 | 2 | - | Característica de Subclasse |
+| 16 | +5 | 3 | 12 | 4 | 3 | 3 | 2 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | - |
+| 18 | +6 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | Aura Expandida |
+| 19 | +6 | 3 | 15 | 4 | 3 | 3 | 3 | 2 | Dádiva Épica |
+| 20 | +6 | 3 | 15 | 4 | 3 | 3 | 3 | 2 | Característica de Subclasse |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Conjuração:
+  - Atributo: Carisma. Foco: Símbolo Sagrado.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode substituir 1 magia preparada ao completar um Descanso Longo. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Maestria em Arma: Usa propriedades de maestria de 2 tipos de armas proficientes à escolha. Pode alterar os tipos escolhidos ao completar um Descanso Longo.
+* Nível 1 - Mãos Consagradas: Reserva de cura = 5 x seu nível de Paladino (reabastece em Descanso Longo). Ação Bônus toca 1 criatura (pode ser você) e restaura PV até o limite restante na reserva. Alternativamente, pode gastar 5 pontos da reserva para remover a condição Envenenado do alvo (sem restaurar PV).
+* Nível 2 - Destruição do Paladino: Sempre tem a magia Destruição Divina preparada. Pode conjurá-la 1x sem gastar espaço de magia (recarrega em Descanso Longo).
+* Nível 2 - Estilo de Luta: Adquire 1 Talento de Estilo de Luta à escolha OU a opção:
+  - Combatente Abençoado: Aprende 2 truques de Clérigo à escolha (contam como magias de Paladino; atributo Carisma). Pode substituir 1 deles por outro truque de Clérigo ao subir de nível de Paladino.
+* Nível 3 - Canalizar Divindade: Usos conforme tabela (2 Nv 3, 3 Nv 11). Recupera 1 uso em Descanso Curto e todos em Descanso Longo. CD = sua CD de magia de Paladino. Opção base:
+  - Sentido Divino: Ação Bônus (dura 10 min ou até Incapacitado). Detecta a localização e o tipo de qualquer Celestial, Ínfero ou Morto-Vivo a até 18m de você, além da presença de qualquer local ou objeto consagrado ou profanado (como pela magia Consagrar) no mesmo raio.
+* Nível 3 - Subclasse de Paladino: Escolhe um Juramento Sagrado.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Ataque Extra: 2 ataques ao executar a ação Atacar no seu turno.
+* Nível 5 - Montaria Fiel: Sempre tem Convocar Montaria preparada. Pode conjurá-la 1x sem gastar espaço de magia (recarrega em Descanso Longo).
+* Nível 6 - Aura de Proteção: Emanação de 3m originada em você (inativa se Incapacitado). Você e seus aliados na aura ganham bônus em todas as salvaguardas = Mod. Carisma (mín. +1). Uma criatura só pode se beneficiar de 1 Aura de Proteção por vez (escolhe qual).
+* Nível 9 - Repudiar Inimigos: Ação Usar Magia + 1 uso de Canalizar Divindade. Escolhe até Mod. Carisma (mín. 1) criaturas visíveis a até 18m -> SG Sabedoria. Falha: condição Amedrontado por 1 min ou até sofrer qualquer dano; enquanto Amedrontado desse modo, o alvo só pode realizar UMA opção por turno entre: mover-se, executar 1 ação ou executar 1 Ação Bônus.
+* Nível 10 - Aura de Coragem: Você e seus aliados têm Imunidade à condição Amedrontado enquanto estiverem na sua Aura de Proteção (se um aliado já Amedrontado entrar na aura, a condição não tem efeito enquanto ele permanecer nela).
+* Nível 11 - Golpes Radiantes: Ao atingir um alvo com arma Corpo a Corpo ou Ataque Desarmado, causa +1d8 de dano Radiante adicional.
+* Nível 14 - Toque Restaurador: Ao usar Mãos Consagradas em uma criatura, pode gastar 5 pontos da reserva de cura para cada condição que desejar remover entre: Amedrontado, Atordoado, Cego, Enfeitiçado, Paralisado ou Surdo (esses pontos não restauram PV).
+* Nível 18 - Aura Expandida: Sua Aura de Proteção aumenta para uma Emanação de 9m.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+
+## LISTA DE MAGIAS DE PALADINO (C=Concentração, R=Ritual, M=Material Específico)
+* 1º Círculo: Bênção (C, M), Comando, Curar Ferimentos, Destruição Cauterizante, Destruição Colérica, Destruição Divina, Destruição Estrondosa, Detectar Magia (C, R), Detectar o Bem e o Mal (C), Detectar Veneno e Doença (C, R), Duelo Compelido (C), Escudo da Fé (C), Favor Divino, Heroísmo (C), Proteção Contra o Bem e o Mal (C, M), Purificar Alimentos e Bebidas (R).
+* 2º Círculo: Arma Mágica, Auxílio, Convocar Montaria, Destruição Radiante (C), Localizar Objeto (C), Oração de Cura, Proteção Contra Veneno, Repouso Tranquilo (R, M), Restauração Menor, Vínculo de Proteção (M), Zona da Verdade.
+* 3º Círculo: Arma Elemental (C), Aura de Vitalidade (C), Círculo Mágico (M), Criar Comida e Água, Destruição Cegante, Dissipar Magia, Luz do Dia, Manto do Cruzado (C), Remover Maldição, Revivificar (M).
+* 4º Círculo: Aura de Pureza (C), Aura de Vida (C), Banimento (C), Destruição Atordoante, Localizar Criatura (C), Proteção Contra a Morte.
+* 5º Círculo: Círculo de Poder (C), Convocar Celestial (C, M), Destruição Banidora (C), Dissipar o Bem e o Mal (C), Missão, Onda Destrutiva, Restauração Maior (M), Reviver os Mortos (M).
+
+## SUBCLASSES DE PALADINO
+
+### JURAMENTO DA DEVOÇÃO
+* Nível 3 - Magias do Juramento da Devoção (sempre preparadas):
+  - Nv 3: Escudo da Fé, Proteção Contra o Bem e o Mal
+  - Nv 5: Auxílio, Zona da Verdade
+  - Nv 9: Dissipar Magia, Sinal de Esperança
+  - Nv 13: Defensor da Fé, Movimentação Livre
+  - Nv 17: Coluna de Chamas, Comunhão
+* Nível 3 - Arma Sagrada: Ao executar ação Atacar, gasta 1 uso de Canalizar Divindade para imbuir 1 arma Corpo a Corpo empunhada (dura 10 min, encerra se usar novamente, soltar a arma ou encerrar sem ação). Soma Mod. Carisma (mín. +1) às jogadas de ataque com ela; a cada acerto, causa o tipo de dano normal da arma ou dano Radiante. A arma emite Luz Plena 6m e Meia-luz +6m.
+* Nível 7 - Aura de Devoção: Você e seus aliados têm Imunidade à condição Enfeitiçado enquanto estiverem na sua Aura de Proteção (suprime a condição se um aliado já Enfeitiçado entrar na aura).
+* Nível 15 - Destruição Protetora: Ao conjurar Destruição Divina, você e seus aliados ganham Cobertura Parcial enquanto estiverem na sua Aura de Proteção até o início do seu próximo turno.
+* Nível 20 - Resplendor Sagrado: Ação Bônus (dura 10 min ou encerra sem ação). Usos: 1x/Descanso Longo ou gastando espaço de magia de 5º círculo (sem ação). Benefícios:
+  - Dano Radiante: Inimigo que inicia turno na sua aura sofre dano Radiante = Mod. Carisma + BP.
+  - Luz Solar: A aura é preenchida com Luz Plena que conta como luz solar.
+  - Vigília Consagrada: Vantagem em qualquer salvaguarda forçada por um Ínfero ou Morto-Vivo.
+
+### JURAMENTO DA GLÓRIA
+* Nível 3 - Atleta Inigualável: Ação Bônus + 1 uso de Canalizar Divindade (dura 1h). Vantagem em testes de Força (Atletismo) e Destreza (Acrobacia); distância de Saltos em Distância e Saltos em Altura aumenta em +3m (custa movimento normal).
+* Nível 3 - Destruição Inspiradora: Imediatamente após conjurar Destruição Divina, gasta 1 uso de Canalizar Divindade para distribuir PVT = 2d8 + seu nível de Paladino entre criaturas à escolha a até 9m (pode incluir você).
+* Nível 3 - Magias do Juramento da Glória (sempre preparadas):
+  - Nv 3: Heroísmo, Raio Guia
+  - Nv 5: Aprimorar Atributo, Arma Mágica
+  - Nv 9: Celeridade, Proteção contra Energia
+  - Nv 13: Compulsão, Movimentação Livre
+  - Nv 17: Lendas e Histórias, Presença Régia de Yolande
+* Nível 7 - Aura de Vivacidade: Seu Deslocamento aumenta em +3m. Sempre que um aliado entra na sua Aura de Proteção pela 1ª vez no turno ou inicia o turno dele nela, o Deslocamento dele aumenta em +3m até o final do próximo turno dele.
+* Nível 15 - Defesa Gloriosa: Reação quando você ou outra criatura visível a até 3m é atingida por jogada de ataque -> concede bônus na CA do alvo = Mod. Carisma (mín. +1) contra esse ataque. Se o ataque errar, você pode realizar 1 ataque com arma contra o atacante como parte da mesma Reação (se ele estiver ao alcance). Usos = Mod. Carisma (mín. 1); restaura em Descanso Longo.
+* Nível 20 - Lenda Viva: Ação Bônus (dura 10 min). Usos: 1x/Descanso Longo ou gastando espaço de magia de 5º círculo (sem ação). Benefícios:
+  - Carismático: Vantagem em todos os testes de Carisma.
+  - Golpe Infalível: 1x em cada um dos seus turnos, ao errar uma jogada de ataque com arma, pode fazer com que o ataque acerte.
+  - Jogar Novamente a Salvaguarda: Reação ao falhar em uma salvaguarda -> joga-a novamente (deve usar o novo resultado).
+
+### JURAMENTO DA VINGANÇA
+* Nível 3 - Magias do Juramento da Vingança (sempre preparadas):
+  - Nv 3: Marca do Predador, Perdição
+  - Nv 5: Paralisar Pessoa, Passo Nebuloso
+  - Nv 9: Celeridade, Proteção contra Energia
+  - Nv 13: Banimento, Porta Dimensional
+  - Nv 17: Paralisar Monstro, Vidência
+* Nível 3 - Voto de Inimizade: Ao executar ação Atacar, gasta 1 uso de Canalizar Divindade contra 1 criatura visível a até 9m -> Vantagem em jogadas de ataque contra ela por 1 min ou até usar novamente. Se o alvo cair a 0 PV antes do fim, pode transferir o voto para outra criatura a até 9m (sem ação).
+* Nível 7 - Vingador Implacável: Ao atingir criatura com Ataque de Oportunidade, reduz o Deslocamento dela para 0 até o fim do turno atual e pode mover-se até metade do seu Deslocamento como parte da mesma Reação (sem provocar Ataques de Oportunidade).
+* Nível 15 - Alma Vingativa: Reação imediatamente após criatura sob seu Voto de Inimizade acertar ou errar uma jogada de ataque -> realiza 1 ataque corpo a corpo contra ela (se ao alcance).
+* Nível 20 - Anjo Vingador: Ação Bônus (dura 10 min ou encerra sem ação). Usos: 1x/Descanso Longo ou gastando espaço de magia de 5º círculo (sem ação). Benefícios:
+  - Aura Amedrontadora: Inimigo que inicia turno na sua Aura de Proteção faz SG Sabedoria ou fica Amedrontado por 1 min ou até sofrer dano. Jogadas de ataque contra a criatura Amedrontada têm Vantagem.
+  - Voo: Deslocamento de Voo de 18m e pode pairar.
+
+### JURAMENTO DOS ANCIÕES
+* Nível 3 - A Ira da Natureza: Ação Usar Magia + 1 uso de Canalizar Divindade. Cada criatura visível à escolha a até 4,5m faz SG Força ou fica Contido por 1 min (repete SG no fim de cada turno dela).
+* Nível 3 - Magias do Juramento dos Anciões (sempre preparadas):
+  - Nv 3: Falar com Animais, Golpe Constritor
+  - Nv 5: Passo Nebuloso, Raio Lunar
+  - Nv 9: Crescimento de Plantas, Proteção contra Energia
+  - Nv 13: Pele-Rocha, Tempestade Glacial
+  - Nv 17: Comunhão com a Natureza, Passo Arbóreo
+* Nível 7 - Aura de Resistência: Você e seus aliados têm Resistência a dano Necrótico, Psíquico e Radiante enquanto estiverem na sua Aura de Proteção.
+* Nível 15 - Sentinela Imortal: Ao ser reduzido a 0 PV sem morrer instantaneamente, fica com 1 PV e recupera PV = 3 x seu nível de Paladino (1x/Descanso Longo). Não pode envelhecer magicamente e sua aparência não envelhece.
+* Nível 20 - Campeão Ancestral: Ação Bônus (dura 1 min ou encerra sem ação). Usos: 1x/Descanso Longo ou gastando espaço de magia de 5º círculo (sem ação). Benefícios:
+  - Aliviar Desafio: Inimigos na sua aura têm Desvantagem em salvaguardas contra suas magias e opções de Canalizar Divindade.
+  - Magias Ágeis: Sempre que conjurar uma magia com tempo de conjuração de 1 Ação, pode conjurá-la usando 1 Ação Bônus.
+  - Regeneração: No início de cada um dos seus turnos, recupera 10 PV.

@@ -1,0 +1,137 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 7 (GUARDIÃO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Destreza e Sabedoria
+* Dado de Ponto de Vida: d10 por nível de Guardião
+* PV no Nível 1: 10 + Mod. Constituição
+* PV em Níveis Seguintes: 1d10 (ou 6) + Mod. Constituição
+* Proficiência em Salvaguardas: Força e Destreza
+* Proficiência em Perícias: Escolha 3 entre Atletismo, Furtividade, Intuição, Investigação, Lidar com Animais, Natureza, Percepção ou Sobrevivência
+* Proficiência com Armas: Armas Simples e Marciais
+* Treinamento com Armadura: Armaduras Leves, Médias e Escudos
+* Equipamento Inicial: (A) Armadura de Couro Batido, Cimitarra, Espada Curta, Arco Longo, 20 Flechas, Aljava, Foco Druídico (ramo de visco), Kit de Aventureiro e 7 PO; ou (B) 150 PO
+* Multiclasse (Ganhos): Dado de Vida (d10), Armas Marciais, 1 perícia à escolha da lista de Guardião, Armaduras Leves, Médias e Escudos
+
+## TABELA DE PROGRESSÃO (GUARDIÃO)
+| Nv | BP | Inimigo Favorito | Magias Prep. | 1º | 2º | 3º | 4º | 5º | Características |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | 2 | 2 | 2 | - | - | - | - | Conjuração, Inimigo Favorito, Maestria em Arma |
+| 2 | +2 | 2 | 3 | 2 | - | - | - | - | Estilo de Luta, Explorador Hábil |
+| 3 | +2 | 2 | 4 | 3 | - | - | - | - | Subclasse de Guardião |
+| 4 | +2 | 2 | 5 | 3 | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 3 | 6 | 4 | 2 | - | - | - | Ataque Extra |
+| 6 | +3 | 3 | 6 | 4 | 2 | - | - | - | Errante |
+| 7 | +3 | 3 | 7 | 4 | 3 | - | - | - | Característica de Subclasse |
+| 8 | +3 | 3 | 7 | 4 | 3 | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 4 | 9 | 4 | 3 | 2 | - | - | Especialista |
+| 10 | +4 | 4 | 9 | 4 | 3 | 2 | - | - | Incansável |
+| 11 | +4 | 4 | 10 | 4 | 3 | 3 | - | - | Característica de Subclasse |
+| 12 | +4 | 4 | 10 | 4 | 3 | 3 | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 5 | 11 | 4 | 3 | 3 | 1 | - | Predador Implacável |
+| 14 | +5 | 5 | 11 | 4 | 3 | 3 | 1 | - | Véu da Natureza |
+| 15 | +5 | 5 | 12 | 4 | 3 | 3 | 2 | - | Característica de Subclasse |
+| 16 | +5 | 5 | 12 | 4 | 3 | 3 | 2 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 | Caçador Preciso |
+| 18 | +6 | 6 | 14 | 4 | 3 | 3 | 3 | 1 | Sentidos Selvagens |
+| 19 | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | Dádiva Épica |
+| 20 | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | Matador de Inimigos Favoritos |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Conjuração:
+  - Atributo: Sabedoria. Foco: Foco Druídico.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode substituir 1 magia preparada ao completar um Descanso Longo. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Inimigo Favorito: Sempre tem Marca do Predador preparada. Pode conjurá-la sem gastar espaço de magia conforme a coluna Inimigo Favorito da tabela (2 Nv 1, 3 Nv 5, 4 Nv 9, 5 Nv 13, 6 Nv 17); restaura todos os usos em Descanso Longo.
+* Nível 1 - Maestria em Arma: Usa propriedades de maestria de 2 tipos de armas proficientes à escolha. Pode alterar os tipos escolhidos ao completar um Descanso Longo.
+* Nível 2 - Estilo de Luta: Adquire 1 Talento de Estilo de Luta à escolha OU a opção:
+  - Combatente Druídico: Aprende 2 truques de Druida à escolha (contam como magias de Guardião; atributo Sabedoria). Pode substituir 1 deles por outro truque de Druida ao subir de nível de Guardião.
+* Nível 2 - Explorador Hábil:
+  - Especialista: Adquire Especialização em 1 perícia proficiente (que ainda não tenha Especialização).
+  - Idiomas: Conhece 2 idiomas à escolha (tabelas do Capítulo 2).
+* Nível 3 - Subclasse de Guardião: Escolhe uma especialização.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Ataque Extra: 2 ataques ao executar a ação Atacar.
+* Nível 6 - Errante: Deslocamento aumenta em +3m enquanto não usar Armadura Pesada. Adquire Deslocamento de Escalada e Deslocamento de Natação iguais ao seu Deslocamento.
+* Nível 9 - Especialista: Adquire Especialização em +2 perícias proficientes (que ainda não tenham Especialização).
+* Nível 10 - Incansável:
+  - Pontos de Vida Temporários: Ação Usar Magia concede a si PVT = 1d8 + Mod. Sabedoria (mín. 1). Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+  - Redução de Exaustão: Ao completar um Descanso Curto, reduz seu nível de Exaustão em 1.
+* Nível 13 - Predador Implacável: Sofrer dano não quebra sua Concentração na magia Marca do Predador.
+* Nível 14 - Véu da Natureza: Ação Bônus concede a si a condição Invisível até o final do seu próximo turno. Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+* Nível 17 - Caçador Preciso: Vantagem em jogadas de ataque contra a criatura marcada por sua Marca do Predador.
+* Nível 18 - Sentidos Selvagens: Visão às Cegas com alcance de 9m.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Matador de Inimigos Favoritos: O dado de dano da sua Marca do Predador muda de d6 para d10.
+
+## LISTA DE MAGIAS DE GUARDIÃO (C=Concentração, R=Ritual, M=Material Específico)
+* 1º Círculo: Alarme (R), Amizade Animal, Bom Fruto, Curar Ferimentos, Detectar Magia (C, R), Detectar Veneno e Doença (C, R), Emaranhar (C), Falar com Animais (R), Golpe Constritor (C), Marca do Predador (C), Névoa Obscurecente (C), Passos Largos, Salto, Saraivada de Espinhos.
+* 2º Círculo: Aprimorar Atributo (C), Arma Mágica, Auxílio, Cordão de Flechas, Crescer Espinhos (C), Encontrar Armadilhas, Invocar Fera (C, M), Localizar Animais ou Plantas (R), Localizar Objeto (C), Lufada de Vento (C), Mensageiro Animal (R), Passo Sem Rastro (C), Pele-casca, Proteção Contra Veneno, Restauração Menor, Sentido Feral (C, R), Silêncio (C, R), Visão no Escuro.
+* 3º Círculo: Arma Elemental (C), Caminhar Sobre as Águas (R), Convocar Feérico (C, M), Crescimento de Plantas, Dissipar Magia, Falar com Plantas, Flecha Relâmpago, Indetectável (M), Invocar Animais (C), Invocar Barragem, Luz do Dia, Mesclar-se às Rochas (R), Muralha de Vento (C), Proteção contra Energia (C), Respirar na Água (R), Revivificar (M).
+* 4º Círculo: Convocar Elemental (C, M), Dominar Fera (C), Invocar Seres da Floresta (C), Localizar Criatura (C), Movimentação Livre, Pele-Rocha (C, M), Vinha Agarradora (C).
+* 5º Círculo: Aljava Veloz (C, M), Comunhão com a Natureza (R), Golpe de Arço (M), Invocar Saraivada, Passo Arbóreo (C), Restauração Maior (M).
+
+## SUBCLASSES DE GUARDIÃO
+
+### ANDARILHO FEÉRICO
+* Nível 3 - Glamour Transcendental: Soma Mod. Sabedoria (mín. +1) a qualquer teste de Carisma. Adquire proficiência em 1 perícia à escolha: Atuação, Enganação ou Persuasão.
+* Nível 3 - Golpes Terríveis: 1x/turno ao atingir uma criatura com uma arma, causa +1d4 de dano Psíquico adicional (aumenta para 1d6 no Nível 11).
+* Nível 3 - Magias do Andarilho Feérico (sempre preparadas):
+  - Nv 3: Enfeitiçar Pessoa | Nv 5: Passo Nebuloso | Nv 9: Convocar Feérico | Nv 13: Porta Dimensional | Nv 17: Despistar
+* Nível 7 - Detalhe Sedutor: Vantagem em salvaguardas para evitar ou encerrar Amedrontado ou Enfeitiçado. Reação quando você ou criatura visível a até 36m passa em SG para evitar/encerrar Amedrontado ou Enfeitiçado -> força outra criatura visível a até 36m a fazer SG Sabedoria (sua CD); se falhar, fica Amedrontado ou Enfeitiçado (à escolha) por 1 min (repete SG no fim de cada turno dela).
+* Nível 11 - Reforços Feéricos: Conjura Convocar Feérico sem componente Material e 1x/Descanso Longo sem espaço de magia. Ao começar a conjurar, pode modificá-la para não exigir Concentração (duração vira 1 min).
+* Nível 15 - Andarilho Nebuloso: Conjura Passo Nebuloso sem espaço de magia um número de vezes = Mod. Sabedoria (mín. 1); restaura em Descanso Longo. Ao conjurar Passo Nebuloso, pode levar 1 criatura voluntária visível a até 1,5m de você para espaço desocupado a até 1,5m do seu destino.
+
+### CAÇADOR
+* Nível 3 - Conhecimento do Caçador: Enquanto uma criatura estiver marcada por sua Marca do Predador, você sabe se ela possui Imunidades, Resistências ou Vulnerabilidades, e quais são.
+* Nível 3 - Presa do Caçador: Escolhe 1 opção (pode trocar ao completar Descanso Curto ou Longo):
+  - Assassino de Colossos: 1x/turno ao atingir com arma criatura com PV abaixo do máximo, causa +1d8 de dano adicional.
+  - Destruidor de Hordas: 1x no seu turno ao atacar com arma, realiza outro ataque com a mesma arma contra criatura diferente a até 1,5m do alvo original, dentro do alcance e que não tenha atacado neste turno.
+* Nível 7 - Táticas Defensivas: Escolhe 1 opção (pode trocar ao completar Descanso Curto ou Longo):
+  - Defesa Contra Ataques Múltiplos: Ao ser atingido por ataque de uma criatura, ela tem Desvantagem em todas as outras jogadas de ataque contra você neste turno.
+  - Escapar de Hordas: Ataques de Oportunidade contra você têm Desvantagem.
+* Nível 11 - Presa do Caçador Superior: 1x/turno ao causar dano a uma criatura marcada por Marca do Predador, também pode causar o dano adicional da magia a uma criatura diferente visível a até 9m da primeira.
+* Nível 15 - Defesa do Caçador Superior: Reação ao sofrer dano -> adquire Resistência a esse dano e a qualquer outro dano do mesmo tipo até o final do turno atual.
+
+### SENHOR DAS FERAS
+* Nível 3 - Companheiro Primal: Invoca Fera da Terra, Fera do Céu ou Fera do Mar (Amigável; obedece comandos; desaparece se você morrer).
+  - Em Combate: Age durante seu turno. Move-se e usa Reação normalmente; ação padrão é Esquivar, a menos que você use Ação Bônus para comandá-la a executar outra ação (ou sacrifique 1 ataque seu da ação Atacar para ordená-la a usar Golpe da Fera). Se você ficar Incapacitado, ela age sozinha sem se restringir a Esquivar.
+  - Restaurar/Substituir: Se morreu na última 1h, Ação Usar Magia + toque + 1 espaço de magia revive a fera após 1 min com todos os PV. Ao completar Descanso Longo, pode invocar uma Fera Primal diferente a até 1,5m (a anterior desaparece).
+* Nível 7 - Treinamento Excepcional: Ao usar Ação Bônus para ordenar a fera, pode ordená-la a usar Ajudar, Correr, Desengajar ou Esquivar como Ação Bônus dela. Ataques da fera podem causar dano Energético ou o tipo normal (à escolha).
+* Nível 11 - Fúria Bestial: Ao ordenar a fera a usar Golpe da Fera, ela realiza o ataque 2 vezes. Na 1ª vez por turno que acerta criatura sob sua Marca do Predador, causa dano Energético adicional igual ao dano bônus da magia.
+* Nível 15 - Compartilhar Magias: Ao conjurar magia em si mesmo, também pode afetar sua Fera Primal se ela estiver a até 9m de você.
+
+#### BLOCOS DE ESTATÍSTICAS: COMPADRE PRIMAL (SENHOR DAS FERAS)
+* **FERA DO CÉU** (Fera Pequena, Neutra)
+  - CA: 13 + Mod. Sabedoria | Iniciativa: +2 (12) | PV: 4 + (5 x nível de Guardião) [Dados de Vida: d6 = nível]
+  - Deslocamento: 3m, Voo 18m
+  - Atributos: For 6 (-2), Des 16 (+3), Con 13 (+1), Int 8 (-1), Sab 14 (+2), Car 11 (+0)
+  - Sentidos: Visão no Escuro 18m, Percepção Passiva 12 | BP = seu BP
+  - Traços: Sobrevoo (não provoca Ataques de Oportunidade ao voar para fora do alcance); Vínculo Primal (soma seu BP a qualquer teste de atributo ou SG da fera).
+  - Ação - Golpe da Fera: Ataque Corpo a Corpo (bônus = seu Mod. ataque mágico), alcance 1,5m. Dano: 1d4 + 3 + Mod. Sabedoria Cortante.
+* **FERA DO MAR** (Fera Média, Neutra)
+  - CA: 13 + Mod. Sabedoria | Iniciativa: +3 (13) | PV: 5 + (5 x nível de Guardião) [Dados de Vida: d8 = nível]
+  - Deslocamento: 1,5m, Natação 18m
+  - Atributos: For 14 (+2), Des 14 (+2), Con 15 (+2), Int 8 (-1), Sab 14 (+2), Car 11 (+0)
+  - Sentidos: Visão no Escuro 18m, Percepção Passiva 12 | BP = seu BP
+  - Traços: Anfíbio (respira ar e água); Vínculo Primal (soma seu BP a qualquer teste de atributo ou SG da fera).
+  - Ação - Golpe da Fera: Ataque Corpo a Corpo (bônus = seu Mod. ataque mágico), alcance 1,5m. Dano: 1d6 + 2 + Mod. Sabedoria Contundente ou Perfurante (escolhido ao invocar), e alvo fica Imobilizado (CD para escapar = sua CD de magia).
+* **FERA DA TERRA** (Fera Média, Neutra)
+  - CA: 13 + Mod. Sabedoria | Iniciativa: +2 (12) | PV: 5 + (5 x nível de Guardião) [Dados de Vida: d8 = nível]
+  - Deslocamento: 12m, Escalada 12m
+  - Atributos: For 14 (+2), Des 14 (+2), Con 15 (+2), Int 8 (-1), Sab 14 (+2), Car 11 (+0)
+  - Sentidos: Visão no Escuro 18m, Percepção Passiva 12 | BP = seu BP
+  - Traços: Vínculo Primal (soma seu BP a qualquer teste de atributo ou SG da fera).
+  - Ação - Golpe da Fera: Ataque Corpo a Corpo (bônus = seu Mod. ataque mágico), alcance 1,5m. Dano: 1d8 + 2 + Mod. Sabedoria Contundente, Cortante ou Perfurante (escolhido ao invocar). Se moveu >= 6m em direção ao alvo antes do acerto: +1d6 de dano do mesmo tipo e impõe Caído se Grande ou menor.
+
+### VIGILANTE DAS SOMBRAS
+* Nível 3 - Emboscador das Sombras:
+  - Bônus de Iniciativa: Soma Mod. Sabedoria à jogada de Iniciativa.
+  - Golpe Terrível: 1x/turno ao atingir criatura com arma, causa +2d6 de dano Psíquico adicional. Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+  - Impulso do Emboscador: No início do seu 1º turno de cada combate, Deslocamento aumenta em +3m até o fim do turno.
+* Nível 3 - Magias do Vigilante das Sombras (sempre preparadas):
+  - Nv 3: Disfarçar-se | Nv 5: Corda Extradimensional | Nv 9: Medo | Nv 13: Invisibilidade Maior | Nv 17: Similaridade
+* Nível 3 - Visão Umbrosa: Visão no Escuro 18m (ou +18m se já tiver). Enquanto estiver inteiramente na Escuridão, tem condição Invisível contra criaturas que dependam de Visão no Escuro para vê-lo nela.
+* Nível 7 - Mente de Ferro: Proficiência em SG de Sabedoria (se já tiver, escolhe Carisma ou Inteligência).
+* Nível 11 - Torrente do Vigilante: Dano Psíquico de Golpe Terrível sobe para 2d8. Ao usar Golpe Terrível, pode aplicar 1 efeito adicional:
+  - Golpe Repentino: Realiza outro ataque com a mesma arma contra criatura diferente a até 1,5m do alvo original (dentro do alcance da arma).
+  - Medo em Massa: O alvo e cada criatura a até 3m dele faz SG Sabedoria (sua CD) ou fica Amedrontado até o início do seu próximo turno.
+* Nível 15 - Esquiva Sombria: Reação quando criatura realiza jogada de ataque contra você -> impõe Desvantagem na jogada; acertando ou errando, você pode teleportar até 9m para espaço desocupado visível.

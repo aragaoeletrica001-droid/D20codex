@@ -1,0 +1,106 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 1 (BÁRBARO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Força
+* Dado de Ponto de Vida: d12 por nível de Bárbaro
+* PV no Nível 1: 12 + Mod. Constituição
+* PV em Níveis Seguintes: 1d12 (ou 7) + Mod. Constituição
+* Proficiência em Salvaguardas: Força e Constituição
+* Proficiência em Perícias: Escolha 2 entre Atletismo, Intimidação, Lidar com Animais, Natureza, Percepção ou Sobrevivência
+* Proficiência com Armas: Armas Simples e Marciais
+* Treinamento com Armadura: Armaduras Leve e Média e Escudos
+* Equipamento Inicial: (A) 4 Machadinhas, Machado Grande, Kit de Aventureiro e 15 PO; ou (B) 75 PO
+* Multiclasse (Ganhos): Dado de Vida (d12), Armas Marciais, Escudos
+
+## TABELA DE PROGRESSÃO (BÁRBARO)
+| Nível | BP | Fúrias | Dano da Fúria | Maestria em Arma | Características |
+|---|---|---|---|---|---|
+| 1 | +2 | 2 | +2 | 2 | Defesa sem Armadura, Fúria, Maestria em Arma |
+| 2 | +2 | 2 | +2 | 2 | Ataque Imprudente, Sentido de Perigo |
+| 3 | +2 | 3 | +2 | 2 | Conhecimento Primordial, Subclasse |
+| 4 | +2 | 3 | +2 | 3 | Aumento no Valor de Atributo |
+| 5 | +3 | 3 | +2 | 3 | Ataque Extra, Movimento Rápido |
+| 6 | +3 | 4 | +2 | 3 | Característica de Subclasse |
+| 7 | +3 | 4 | +2 | 3 | Bote Instintivo, Instintos Primitivos |
+| 8 | +3 | 4 | +2 | 3 | Aumento no Valor de Atributo |
+| 9 | +4 | 4 | +3 | 3 | Golpe Brutal |
+| 10 | +4 | 4 | +3 | 4 | Característica de Subclasse |
+| 11 | +4 | 4 | +3 | 4 | Fúria Implacável |
+| 12 | +4 | 5 | +3 | 4 | Aumento no Valor de Atributo |
+| 13 | +5 | 5 | +3 | 4 | Golpe Brutal Fortalecido |
+| 14 | +5 | 5 | +3 | 4 | Característica de Subclasse |
+| 15 | +5 | 5 | +3 | 4 | Fúria Persistente |
+| 16 | +5 | 5 | +4 | 4 | Aumento no Valor de Atributo |
+| 17 | +6 | 6 | +4 | 4 | Golpe Brutal Fortalecido |
+| 18 | +6 | 6 | +4 | 4 | Força Indomável |
+| 19 | +6 | 6 | +4 | 4 | Dádiva Épica |
+| 20 | +6 | 6 | +4 | 4 | Campeão Primitivo |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Fúria: Ação Bônus (não pode usar armadura Pesada). Recupera 1 uso em Descanso Curto e todos em Descanso Longo. Enquanto ativa:
+  - Resistência a dano Contundente, Cortante e Perfurante.
+  - Dano da Fúria: Bônus no dano em ataques com Força (armas ou Ataque Desarmado).
+  - Vantagem em testes de Força e salvaguardas de Força.
+  - Não pode conjurar magias nem manter Concentração.
+  - Duração: Até o final do seu próximo turno (máx. 10 min). Encerra se vestir armadura Pesada ou ficar Incapacitado. Estende por +1 turno se: realizar jogada de ataque contra inimigo, forçar inimigo a fazer SG, ou gastar Ação Bônus.
+* Nível 1 - Defesa sem Armadura: Sem armadura, CA base = 10 + Mod. Destreza + Mod. Constituição. Pode usar Escudo.
+* Nível 1 - Maestria em Arma: Usa propriedades de maestria de 2 armas Corpo a Corpo (Simples ou Marciais). Pode trocar 1 escolha após Descanso Longo.
+* Nível 2 - Ataque Imprudente: Na 1ª jogada de ataque do turno, ganha Vantagem em ataques com Força até o início do próximo turno; ataques contra você também têm Vantagem nesse período.
+* Nível 2 - Sentido de Perigo: Vantagem em SG de Destreza, exceto se Incapacitado.
+* Nível 3 - Conhecimento Primordial: +1 perícia da lista de Bárbaro. Durante a Fúria, pode usar Força para testes de Acrobacia, Furtividade, Intimidação, Percepção e Sobrevivência.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Ataque Extra: 2 ataques ao executar a ação Atacar.
+* Nível 5 - Movimento Rápido: Deslocamento +3m (sem armadura Pesada).
+* Nível 7 - Bote Instintivo: Move-se até metade do Deslocamento como parte da Ação Bônus para entrar em Fúria.
+* Nível 7 - Instintos Primitivos: Vantagem em jogadas de Iniciativa.
+* Nível 9 - Golpe Brutal: Com Ataque Imprudente ativo, abdica da Vantagem em 1 ataque com Força (sem Desvantagem). Em acerto: +1d10 de dano do mesmo tipo + 1 efeito:
+  - Golpe Debilitador: Reduz Deslocamento do alvo em 4,5m até o início do seu próximo turno (não acumula).
+  - Golpe Poderoso: Empurra alvo 4,5m para longe; você pode mover metade do seu Deslocamento em direção ao alvo sem provocar Ataques de Oportunidade.
+* Nível 11 - Fúria Implacável: Ao cair a 0 PV em Fúria sem morrer instantaneamente, faz SG Constituição CD 10. Sucesso: PV = 2 x nível de Bárbaro. CD aumenta +5 por uso adicional; reseta para 10 em Descanso Curto/Longo.
+* Nível 13 - Golpe Brutal Fortalecido: Novas opções de Golpe Brutal:
+  - Golpe Atordoante: Alvo tem Desvantagem na próxima SG e não pode fazer Ataques de Oportunidade até o início do seu próximo turno.
+  - Golpe Destruidor: Próxima jogada de ataque de outra criatura contra o alvo antes do início do seu próximo turno recebe +5 (não acumula).
+* Nível 15 - Fúria Persistente: Ao rolar Iniciativa, recupera todos os usos gastos de Fúria (1x/Descanso Longo). Fúria dura 10 minutos sem precisar estender; só encerra se ficar Inconsciente ou vestir armadura Pesada.
+* Nível 17 - Golpe Brutal Fortalecido: Dano extra sobe para 2d10. Pode aplicar 2 efeitos diferentes de Golpe Brutal no mesmo ataque.
+* Nível 18 - Força Indomável: Se o total de um teste ou SG de Força for menor que seu valor de Força, usa o valor de Força no lugar.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Campeão Primitivo: Força e Constituição +4 (máximo 25).
+
+## SUBCLASSES DE BÁRBARO
+
+### TRILHA DA ÁRVORE DO MUNDO
+* Nível 3 - Vitalidade da Árvore:
+  - Surto de Vitalidade: Ao ativar Fúria, ganha PVT = nível de Bárbaro.
+  - Força Revigorante: No início de cada turno em Fúria, escolhe outra criatura a até 3m para ganhar PVT = número de d6s igual ao bônus de Dano da Fúria (somem quando a Fúria acaba).
+* Nível 6 - Ramos da Árvore: Reação em Fúria quando criatura visível inicia o turno a até 9m: SG Força (CD 8 + Mod. For + BP). Falha: teleporta o alvo para espaço desocupado a até 1,5m de você (ou mais próximo) e pode reduzir Deslocamento dele a 0 até o fim do turno.
+* Nível 10 - Raízes Devastadoras: No seu turno, alcance +3m com armas corpo a corpo com propriedade Pesada ou Versátil. Ao acertar com elas, pode ativar maestria Derrubar ou Empurrar além da maestria normal da arma.
+* Nível 14 - Percorrer a Árvore: Ao ativar Fúria e como Ação Bônus em Fúria, teleporta até 18m para espaço visível. 1x por Fúria: aumenta alcance para 45m e pode levar até 6 criaturas voluntárias a até 3m de você (aparecem a até 3m do destino).
+
+### TRILHA DO BERSERKER
+* Nível 3 - Frenesi: Usando Ataque Imprudente em Fúria, o 1º alvo atingido no turno com ataque de Força sofre dano extra = número de d6s igual ao bônus de Dano da Fúria (mesmo tipo da arma/ataque).
+* Nível 6 - Fúria Irracional: Imunidade a Amedrontado e Enfeitiçado em Fúria (encerra essas condições se já estiver afetado ao entrar em Fúria).
+* Nível 10 - Retaliação: Reação ao sofrer dano de criatura a até 1,5m: faz 1 ataque corpo a corpo (arma ou desarmado) contra ela.
+* Nível 14 - Presença Intimidante: Ação Bônus. Criaturas à escolha em Emanação de 9m fazem SG Sabedoria (CD 8 + Mod. For + BP). Falha: Amedrontado por 1 min (repete SG no fim de cada turno). 1x/Descanso Longo ou gastando 1 uso de Fúria (sem ação).
+
+### TRILHA DO CORAÇÃO SELVAGEM
+* Nível 3 - Arauto da Fauna: Conjura Falar com Animais e Sentido Feral apenas como Rituais (Atributo: Sabedoria).
+* Nível 3 - Fúria dos Selvagens: Ao ativar Fúria, escolhe 1 opção:
+  - Águia: Executa Correr e Desengajar juntos como parte da Ação Bônus de ativar Fúria e como Ação Bônus nos turnos em Fúria.
+  - Lobo: Em Fúria, aliados têm Vantagem em jogadas de ataque contra inimigos a até 1,5m de você.
+  - Urso: Em Fúria, Resistência a todos os tipos de dano, exceto Energético, Necrótico, Psíquico e Radiante.
+* Nível 6 - Aspecto dos Selvagens: Escolhe 1 (pode trocar em Descanso Longo): Coruja (Visão no Escuro 18m, ou +18m se já tiver), Pantera (Deslocamento de Escalada = Deslocamento), Salmão (Deslocamento de Natação = Deslocamento).
+* Nível 10 - Arauto da Natureza: Conjura Comunhão com a Natureza apenas como Ritual (Atributo: Sabedoria).
+* Nível 14 - Poder dos Selvagens: Ao ativar Fúria, escolhe 1 opção:
+  - Carneiro: Em Fúria, impõe Caído a criatura Grande ou menor ao atingi-la com ataque corpo a corpo.
+  - Falcão: Em Fúria e sem armadura, Deslocamento de Voo = Deslocamento.
+  - Leão: Em Fúria, inimigos a até 1,5m de você têm Desvantagem em ataques contra alvos que não sejam você (ou outro Bárbaro com esta opção).
+
+### TRILHA DO FANÁTICO
+* Nível 3 - Campeão dos Deuses: Reserva de cura de 4d12 (sobe para 5d12 Nv 6, 6d12 Nv 12, 7d12 Nv 17). Ação Bônus: gasta dados da reserva, rola e cura PV igual ao total. Recupera tudo em Descanso Longo.
+* Nível 3 - Fúria Divina: Em cada turno em Fúria, a 1ª criatura atingida (arma ou desarmado) sofre +1d6 + metade do nível de Bárbaro (arred. baixo) de dano Necrótico ou Radiante (escolhe a cada vez).
+* Nível 6 - Concentração Fanática: 1x por Fúria, ao falhar em uma SG, pode rolar novamente somando o bônus de Dano da Fúria (usa o novo resultado).
+* Nível 10 - Presença Zelosa: Ação Bônus. Até 10 outras criaturas a até 18m ganham Vantagem em ataques e SG até o início do seu próximo turno. 1x/Descanso Longo ou gastando 1 uso de Fúria (sem ação).
+* Nível 14 - Fúria dos Deuses: Ao ativar Fúria, assume forma divina por 1 min ou até 0 PV (1x/Descanso Longo):
+  - Resistência a dano Necrótico, Psíquico e Radiante.
+  - Revivificação: Reação quando criatura a até 9m cai a 0 PV -> gasta 1 uso de Fúria para mudar os PV dela para seu nível de Bárbaro.
+  - Voo: Deslocamento de Voo = Deslocamento e pode pairar.

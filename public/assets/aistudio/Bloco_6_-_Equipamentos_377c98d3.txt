@@ -1,0 +1,268 @@
+# BLOCO 6: EQUIPAMENTOS
+
+## MOEDAS E CONVERSÃO
+| Moeda | Sigla | Valor em PO |
+|---|---|---|
+| Peça de Cobre | PC | 1/100 (100 PC = 1 PO) |
+| Peça de Prata | PP | 1/10 (10 PP = 1 PO) |
+| Peça de Electro | PE | 1/2 (2 PE = 1 PO) |
+| Peça de Ouro | PO | 1 |
+| Peça de Platina | PL | 10 (1 PL = 10 PO) |
+
+* Peso das Moedas: 50 moedas pesam 0,5 kg (independentemente do tipo).
+* Venda de Equipamentos: Itens não danificados são vendidos geralmente por 50% do custo base.
+
+## ARMAS
+
+### REGRAS GERAIS DE ARMAS
+* Proficiência: Soma Bônus de Proficiência (BP) às jogadas de ataque com armas proficientes.
+* Sacar ou Guardar Armas: Pode sacar ou guardar 1 arma como parte da ação Atacar (antes ou depois de cada ataque da ação).
+* Armas Improvisadas: Objeto não projetado como arma. Sem proficiência (salvo talento); dano 1d4 (tipo definido pelo Mestre), alcance 6/18m se arremessada. Se semelhante a uma arma real, pode usar as estatísticas dela.
+* Armas Prateadas: Banhar 1 arma ou 10 peças de munição em prata custa 100 PO (adicional ao custo base).
+
+### PROPRIEDADES DE ARMAS
+* Acuidade: Pode usar Mod. Força ou Mod. Destreza (o mesmo para ataque e dano).
+* Alcance: Adiciona +1,5m ao seu alcance ao atacar com ela e para Ataques de Oportunidade.
+* Arremesso: Pode arremessar a arma para realizar ataque à distância (usa o mesmo atributo de ataque corpo a corpo). Números entre parênteses indicam alcance normal/longo em metros.
+* Duas Mãos: Requer duas mãos para atacar com ela.
+* Leve: Ao executar a ação Atacar no seu turno e atacar com uma arma Leve, pode fazer 1 ataque extra como Ação Bônus no mesmo turno usando uma arma Leve diferente (não soma Mod. atributo ao dano do ataque extra, salvo se negativo). Se qualquer uma tiver Arremesso, pode arremessá-la nesse ataque.
+* Munição: Requer munição apropriada; gasta 1 por ataque. Sacar a munição faz parte do ataque (requer mão livre para carregar armas de uma mão). Ao fim do combate, recupera metade da munição gasta (arred. baixo) gastando 1 min. Usar arma de Munição para ataque corpo a corpo conta como Arma Improvisada.
+* Pesada: Tem Desvantagem nas jogadas de ataque se for Corpo a Corpo e você tiver Força < 13, OU se for à Distância e você tiver Destreza < 13.
+* Recarga: Pode disparar apenas 1 peça de munição por ação, Ação Bônus ou Reação usada para disparar, independentemente de quantos ataques possa fazer.
+* Versátil: Pode ser usada com uma ou duas mãos. O dano entre parênteses é o usado quando empunhada com duas mãos em ataque corpo a corpo.
+
+### PROPRIEDADES DE MAESTRIA EM ARMA
+* Afligir: Ao acertar e causar dano a uma criatura com esta arma, tem Vantagem na próxima jogada de ataque contra ela antes do final do seu próximo turno.
+* Ágil: Ao fazer o ataque extra da propriedade Leve, pode realizá-lo como parte da ação Atacar em vez de usar sua Ação Bônus (continua limitado a 1x por turno).
+* Cortar: Ao acertar ataque corpo a corpo contra uma criatura, pode fazer 1 ataque corpo a corpo adicional com a mesma arma contra uma 2ª criatura a até 1,5m da primeira que também esteja dentro do seu alcance. Em acerto, sofre dano da arma sem somar Mod. atributo (salvo se negativo). Limite: 1x por turno.
+* Derrubar: Ao acertar criatura com esta arma, força SG Constituição (CD 8 + Mod. atributo usado no ataque + BP). Falha: alvo fica Caído.
+* Drenar: Ao acertar criatura com esta arma, ela tem Desvantagem na próxima jogada de ataque que fizer antes do início do seu próximo turno.
+* Empurrar: Ao acertar criatura Grande ou menor com esta arma, pode empurrá-la até 3m em linha reta para longe de você.
+* Lentidão: Ao acertar e causar dano a uma criatura com esta arma, reduz o Deslocamento dela em 3m até o início do seu próximo turno (não acumula; redução máxima de 3m).
+* Rente: Ao errar jogada de ataque contra uma criatura com esta arma, causa dano (mesmo tipo da arma) igual ao Mod. atributo usado no ataque (mín. 0). Esse dano só pode ser aumentado aumentando esse Mod. atributo.
+
+### TABELA DE ARMAS SIMPLES CORPO A CORPO
+| Arma | Dano | Propriedades | Maestria | Peso | Custo |
+|---|---|---|---|---|---|
+| Adaga | 1d4 Perf. | Acuidade, Leve, Arremesso (6/18m) | Ágil | 0,5 kg | 2 PO |
+| Azagaia | 1d6 Perf. | Arremesso (9/36m) | Lentidão | 1 kg | 5 PP |
+| Bordão (Cajado) | 1d6 Cont. | Versátil (1d8) | Derrubar | 2 kg | 2 PP |
+| Clava | 1d4 Cont. | Leve | Lentidão | 1 kg | 1 PP |
+| Clava Grande | 1d8 Cont. | Duas Mãos | Empurrar | 5 kg | 2 PP |
+| Foice | 1d4 Cort. | Leve | Ágil | 1 kg | 1 PO |
+| Lança | 1d6 Perf. | Arremesso (6/18m), Versátil (1d8) | Drenar | 1,5 kg | 1 PO |
+| Maça | 1d6 Cont. | - | Drenar | 2 kg | 5 PO |
+| Machadinha | 1d6 Cort. | Leve, Arremesso (6/18m) | Afligir | 1 kg | 5 PO |
+| Martelo Leve | 1d4 Cont. | Leve, Arremesso (6/18m) | Ágil | 1 kg | 2 PO |
+
+### TABELA DE ARMAS SIMPLES À DISTÂNCIA
+| Arma | Dano | Propriedades | Maestria | Peso | Custo |
+|---|---|---|---|---|---|
+| Arco Curto | 1d6 Perf. | Munição (24/96m; Flecha), Duas Mãos | Afligir | 1 kg | 25 PO |
+| Besta Leve | 1d8 Perf. | Munição (24/96m; Virote), Recarga, Duas Mãos | Lentidão | 2,5 kg | 25 PO |
+| Dardo | 1d4 Perf. | Acuidade, Arremesso (6/18m) | Afligir | 0,1 kg | 5 PC |
+| Funda | 1d4 Cont. | Munição (9/36m; Bala) | Lentidão | - | 1 PP |
+
+### TABELA DE ARMAS MARCIAIS CORPO A CORPO
+| Arma | Dano | Propriedades | Maestria | Peso | Custo |
+|---|---|---|---|---|---|
+| Alabarda | 1d10 Cort. | Pesada, Alcance, Duas Mãos | Cortar | 3 kg | 20 PO |
+| Chicote | 1d4 Cort. | Acuidade, Alcance | Lentidão | 1,5 kg | 2 PO |
+| Cimitarra | 1d6 Cort. | Acuidade, Leve | Ágil | 1,5 kg | 25 PO |
+| Espada Curta | 1d6 Perf. | Acuidade, Leve | Afligir | 1 kg | 10 PO |
+| Espada Grande | 2d6 Cort. | Pesada, Duas Mãos | Rente | 3 kg | 50 PO |
+| Espada Longa | 1d8 Cort. | Versátil (1d10) | Drenar | 1,5 kg | 15 PO |
+| Glaive | 1d10 Cort. | Pesada, Alcance, Duas Mãos | Rente | 3 kg | 20 PO |
+| Lança de Montaria | 1d10 Perf. | Pesada, Alcance, Duas Mãos (exceto montado) | Derrubar | 3 kg | 10 PO |
+| Maça Estrela | 1d8 Perf. | - | Drenar | 2 kg | 15 PO |
+| Machado de Batalha | 1d8 Cort. | Versátil (1d10) | Derrubar | 2 kg | 10 PO |
+| Machado Grande | 1d12 Cort. | Pesada, Duas Mãos | Cortar | 3,5 kg | 30 PO |
+| Malho | 2d6 Cont. | Pesada, Duas Mãos | Derrubar | 5 kg | 10 PO |
+| Mangual | 1d8 Cont. | - | Drenar | 1 kg | 10 PO |
+| Martelo de Guerra | 1d8 Cont. | Versátil (1d10) | Empurrar | 2,5 kg | 15 PO |
+| Picareta de Guerra | 1d8 Perf. | Versátil (1d10) | Drenar | 1 kg | 5 PO |
+| Pique | 1d10 Perf. | Pesada, Alcance, Duas Mãos | Empurrar | 9 kg | 5 PO |
+| Rapieira | 1d8 Perf. | Acuidade | Afligir | 1 kg | 25 PO |
+| Tridente | 1d8 Perf. | Arremesso (6/18m), Versátil (1d10) | Derrubar | 2 kg | 5 PO |
+
+### TABELA DE ARMAS MARCIAIS À DISTÂNCIA
+| Arma | Dano | Propriedades | Maestria | Peso | Custo |
+|---|---|---|---|---|---|
+| Arco Longo | 1d8 Perf. | Munição (45/180m; Flecha), Pesada, Duas Mãos | Lentidão | 1 kg | 50 PO |
+| Besta de Mão | 1d6 Perf. | Munição (9/36m; Virote), Leve, Recarga | Afligir | 1,5 kg | 75 PO |
+| Besta Pesada | 1d10 Perf. | Munição (30/120m; Virote), Pesada, Recarga, Duas Mãos | Empurrar | 9 kg | 50 PO |
+| Mosquete | 1d12 Perf. | Munição (12/36m; Bala de Fogo), Recarga, Duas Mãos | Lentidão | 5 kg | 500 PO |
+| Pistola | 1d10 Perf. | Munição (9/27m; Bala de Fogo), Recarga | Afligir | 1,5 kg | 250 PO |
+| Zarabatana | 1 Perf. | Munição (7,5/30m; Agulha), Recarga | Afligir | 0,5 kg | 10 PO |
+
+## ARMADURAS E ESCUDOS
+
+### REGRAS DE ARMADURA
+* Sem Treinamento: Vestir armadura ou empunhar Escudo sem treinamento impõe Desvantagem em qualquer Teste de D20 envolvendo Força ou Destreza, e impede a conjuração de magias.
+* Força Mínima: Se não atingir a Força mínima de uma Armadura Pesada, seu Deslocamento é reduzido em 3m.
+* Escudo: Concede +2 na CA (apenas 1 Escudo por vez). Equipar ou desequipar usa a ação Usar Objeto.
+* Tempo para Vestir / Retirar:
+  - Armadura Leve: 1 minuto / 1 minuto.
+  - Armadura Média: 5 minutos / 1 minuto.
+  - Armadura Pesada: 10 minutos / 5 minutos.
+
+### TABELA DE ARMADURAS
+| Armadura | Categoria | Classe de Armadura (CA) | Força | Furtividade | Peso | Custo |
+|---|---|---|---|---|---|---|
+| Acolchoada | Leve | 11 + Mod. Des | - | Desvantagem | 4 kg | 5 PO |
+| Couro | Leve | 11 + Mod. Des | - | - | 5 kg | 10 PO |
+| Couro Batido | Leve | 12 + Mod. Des | - | - | 6,5 kg | 45 PO |
+| Gibão de Peles | Média | 12 + Mod. Des (máx. 2) | - | - | 6 kg | 10 PO |
+| Camisão de Malha | Média | 13 + Mod. Des (máx. 2) | - | - | 10 kg | 50 PO |
+| Brunea | Média | 14 + Mod. Des (máx. 2) | - | Desvantagem | 22,5 kg | 50 PO |
+| Peitoral | Média | 14 + Mod. Des (máx. 2) | - | - | 10 kg | 400 PO |
+| Meia-Armadura | Média | 15 + Mod. Des (máx. 2) | - | Desvantagem | 20 kg | 750 PO |
+| Cota de Anéis | Pesada | 14 | - | Desvantagem | 20 kg | 30 PO |
+| Cota de Malha | Pesada | 16 | For 13 | Desvantagem | 27,5 kg | 75 PO |
+| Cota de Talas | Pesada | 17 | For 15 | Desvantagem | 30 kg | 200 PO |
+| Placas | Pesada | 18 | For 15 | Desvantagem | 32,5 kg | 1.500 PO |
+| Escudo | Escudo | +2 | - | - | 3 kg | 10 PO |
+
+## FERRAMENTAS
+* Regra de Sinergia: Se você tiver proficiência tanto na Ferramenta quanto na Perícia aplicada ao mesmo teste de atributo, ganha Vantagem no teste.
+
+### FERRAMENTAS DE ARTESÃO
+| Ferramenta | Atributo | Peso | Custo | Utilizar (Exemplos e CD) | Fabricar (Exemplos) |
+|---|---|---|---|---|---|
+| Suprimentos de Alquimista | Int | 4 kg | 50 PO | Identificar substância (CD 15), acender fogo (CD 15) | Ácido, Fogo Alquímico, Óleo, Papel, Perfume |
+| Suprimentos de Cervejeiro | Int | 4,5 kg | 20 PO | Detectar bebida envenenada (CD 15), identificar álcool (CD 10) | Antídoto |
+| Suprimentos de Calígrafo | Des | 2,5 kg | 10 PO | Escrever texto floreado (CD 15) | Tinta, Pergaminho Mágico |
+| Ferramentas de Carpinteiro | For | 3 kg | 8 PO | Selar/forçar porta ou baú (CD 20) | Clava, Clava Grande, Cajado, Barril, Baú, Escada, Vara, Aríete Portátil, Tocha |
+| Ferramentas de Cartógrafo | Sab | 3 kg | 15 PO | Desenhar mapa de área pequena (CD 15) | Mapa |
+| Ferramentas de Sapateiro | Des | 2,5 kg | 5 PO | Modificar calçado para dar Vantagem em 1 teste de Acrobacia (CD 10) | Kit de Escalada |
+| Utensílios de Cozinheiro | Sab | 4 kg | 1 PO | Melhorar sabor (CD 10), detectar comida estragada/envenenada (CD 15) | Ração |
+| Ferramentas de Soprador de Vidro | Int | 2,5 kg | 30 PO | Discernir o que um objeto de vidro conteve nas últimas 24h (CD 15) | Garrafa de Vidro, Lupa, Luneta, Frasco |
+| Ferramentas de Joalheiro | Int | 1 kg | 25 PO | Discernir valor de gema (CD 15) | Foco Arcano, Símbolo Sagrado |
+| Ferramentas de Coureiro | Des | 2,5 kg | 5 PO | Adicionar desenho a item de couro (CD 10) | Funda, Chicote, Armadura de Couro/Batido/Peles, Mochila, Caixa de Mapas/Virotes, Algibeira, Aljava, Cantil |
+| Ferramentas de Pedreiro | For | 4 kg | 10 PO | Esculpir símbolo/buraco em pedra (CD 10) | Roldana e Polia |
+| Suprimentos de Pintor | Sab | 2,5 kg | 10 PO | Pintar imagem reconhecível de algo visto (CD 10) | Foco Druídico, Símbolo Sagrado |
+| Ferramentas de Oleiro | Int | 1,5 kg | 10 PO | Discernir o que objeto de cerâmica conteve nas últimas 24h (CD 15) | Jarro, Lâmpada |
+| Ferramentas de Ferreiro | For | 4 kg | 20 PO | Abrir porta ou recipiente à força (CD 20) | Qualquer arma corpo a corpo (exceto madeira/couro), Armaduras Médias (exceto peles), Armaduras Pesadas, Esferas de Metal, Balde, Estrepes, Corrente, Pé de Cabra, Balas de Fogo, Gancho de Escalada, Pote de Ferro, Cravos de Ferro, Aljava/Bala de Funda |
+| Ferramentas de Funileiro | Des | 5 kg | 50 PO | Montar item Minúsculo de sucata que desfaz em 1 min (CD 20) | Mosquete, Pistola, Sino, Lanterna Coberta/Furta-fogo, Frasco, Armadilha de Caça, Fechadura, Grilhões, Espelho, Pá, Apito, Caixa de Fogo |
+| Ferramentas de Tecelão | Des | 2,5 kg | 1 PO | Remendar rasgo em roupa (CD 10), costurar desenho Minúsculo (CD 10) | Armadura Acolchoada, Cesta, Saco de Dormir, Cobertor, Roupas, Rede, Túnica, Corda, Saco, Barbante, Tenda |
+| Ferramentas de Entalhador | Des | 2,5 kg | 1 PO | Esculpir padrão em madeira (CD 10) | Clava, Clava Grande, Cajado, Armas à Distância (exceto Funda/Armas de Fogo), Foco Arcano, Flechas, Virotes, Foco Druídico, Caneta, Agulhas |
+
+### OUTRAS FERRAMENTAS
+| Ferramenta | Atributo | Peso | Custo | Utilizar (Mecânica e CD) |
+|---|---|---|---|---|
+| Kit de Disfarce | Car | 1,5 kg | 25 PO | Aplicar maquiagem (CD 10); fabricar Fantasia |
+| Kit de Falsificação | Des | 2,5 kg | 15 PO | Imitar até 10 palavras de caligrafia (CD 15); duplicar selo de cera (CD 20) |
+| Kit de Jogos (Dados, Baralho, Xadrez, etc.) | Sab | - | Varia (1 PP-1 PO) | Discernir trapaça (CD 10); vencer partida (CD 20) |
+| Kit de Herbalismo | Int | 1,5 kg | 5 PO | Identificar planta (CD 10); fabricar Antídoto, Vela, Kit de Curandeiro, Poção de Cura |
+| Instrumento Musical | Car | Varia | Varia (2-35 PO) | Tocar melodia conhecida (CD 10); improvisar canção (CD 15) |
+| Ferramentas de Navegador | Sab | 1 kg | 25 PO | Traçar rota (CD 10); determinar posição pelas estrelas (CD 15) |
+| Kit de Veneno | Int | 1 kg | 50 PO | Detectar objeto envenenado (CD 10); fabricar Veneno Básico |
+| Ferramentas de Ladrão | Des | 0,5 kg | 25 PO | Abrir fechadura (CD 15); desarmar armadilha (CD 15) |
+
+## EQUIPAMENTO DE AVENTURA (ITENS COM REGRAS MECÂNICAS)
+* Ácido (Frasco, 25 PO, 0,5 kg): Substitui 1 ataque da ação Atacar -> arremessa em criatura/objeto a até 6m. Alvo faz SG Destreza (CD 8 + Mod. Des + BP) ou sofre 2d6 dano Ácido.
+* Água Benta (Frasco, 25 PO, 0,5 kg): Substitui 1 ataque da ação Atacar -> arremessa em criatura a até 6m. Se for Ínfero ou Morto-Vivo, faz SG Destreza (CD 8 + Mod. Des + BP) ou sofre 2d8 dano Radiante.
+* Antídoto (Frasco, 50 PO): Ação Bônus bebe -> Vantagem em salvaguardas para evitar ou encerrar a condição Envenenado por 1 hora.
+* Aríete Portátil (4 PO, 17,5 kg): +4 em testes de Força para arrombar portas. Com ajuda de outra criatura, ganha Vantagem no teste.
+* Armadilha de Caça (5 PO, 12,5 kg): Ação Usar Objeto arma no chão (5x5 cm). Criatura que pisa faz SG Destreza CD 13 ou sofre 1d4 dano Perfurante e Deslocamento = 0 (presa à corrente de 0,9m). Ação faz Atletismo CD 13 para escapar.
+* Caixa de Fogo (5 PP, 0,5 kg): Ação Bônus acende tocha, vela, lâmpada ou lanterna; acender fogueira exige 1 minuto.
+* Corda (1 PO, 2,5 kg, 15m): Ação Usar Objeto amarra nó (Destreza [Prestidigitação] CD 10; desatar = CD 10). Amarrar criatura (Incapacitada/voluntária) exige Acrobacia CD 15 ou Atletismo CD 20 para escapar. Arrebentar = Atletismo CD 17.
+* Corrente (5 PO, 5 kg, 3m): Ação Usar Objeto amarra criatura (Incapacitada/voluntária; escapar = Acrobacia CD 18; arrebentar = Atletismo CD 20).
+* Esferas de Metal (1 PO, 1 kg, 1.000 unidades): Ação Usar Objeto cobre quadrado de 3x3m a até 3m. Criatura que entra faz SG Destreza CD 10 ou fica Caída (ignora se mover à metade do Deslocamento). Recolher exige 10 min.
+* Estrepes (1 PO, 1 kg, 20 unidades): Ação Usar Objeto cobre quadrado de 1,5x1,5m a até 1,5m. Criatura que entra faz SG Destreza CD 15 ou sofre 1 dano Perfurante e Deslocamento = 0 até o fim do turno atual (ignora se mover à metade do Deslocamento). Recolher exige 10 min.
+* Fechadura (10 PO, 0,5 kg): Destrancar sem chave exige Destreza (Prestidigitação) CD 15 com Ferramentas de Ladrão.
+* Fogo Alquímico (Frasco, 50 PO, 0,5 kg): Substitui 1 ataque da ação Atacar -> arremessa em criatura/objeto a até 6m. Alvo faz SG Destreza (CD 8 + Mod. Des + BP) ou sofre 1d4 dano Ígneo e entra em Combustão (1d4 Ígneo no início de cada turno até apagar com ação).
+* Grilhões (2 PO, 3 kg): Ação Usar Objeto algema criatura Pequena/Média (Incapacitada/voluntária) a até 1,5m -> impõe Desvantagem em ataques e, se acorrentada a objeto, não se move além de 1,5m dele. Escapar = Destreza (Prestidigitação) CD 20; arrebentar = Força (Atletismo) CD 25; destrancar = Ferramentas de Ladrão CD 15.
+* Kit de Curandeiro (5 PO, 1,5 kg, 10 usos): Ação Usar Objeto gasta 1 uso para estabilizar criatura com 0 PV sem precisar de teste de Sabedoria (Medicina).
+* Kit de Escalada (25 PO, 6 kg): Ação Usar Objeto ancora-se; impede queda superior a 7,5m do ponto de ancoragem (não permite subir >7,5m sem reancorar).
+* Lâmpada (5 PP, 0,5 kg): Queima 1 frasco de Óleo por 6h; emite Luz Plena 4,5m e Meia-luz +9m.
+* Lanterna Coberta (5 PO, 1 kg): Queima 1 frasco de Óleo por 6h; Luz Plena 9m e Meia-luz +9m. Ação Bônus baixa o capuz para Meia-luz 1,5m.
+* Lanterna Furta-fogo (10 PO, 1 kg): Queima 1 frasco de Óleo por 6h; Cone de Luz Plena 18m e Meia-luz +18m.
+* Livro (25 PO, 2,5 kg): Se tratar de um tópico específico, concede +5 em testes de Inteligência (Arcanismo, História, Natureza ou Religião) relacionados ao tópico ao consultá-lo.
+* Lupa (100 PO): Vantagem em testes de atributo para avaliar ou inspecionar itens Minúsculos ou detalhados.
+* Mapa (1 PO): Concede +5 em testes de Sabedoria (Sobrevivência) para navegar na área mapeada.
+* Munição (Custo / Peso): Flechas (20 por 1 PO, 0,5 kg); Virotes (20 por 1 PO, 0,75 kg); Balas de Funda (20 por 4 PC, 0,75 kg); Agulhas de Zarabatana (50 por 1 PO, 0,5 kg); Balas de Arma de Fogo (10 por 3 PO, 1 kg).
+* Óleo (Frasco, 1 PP, 0,5 kg):
+  - Encharcar Alvo: Substitui 1 ataque da ação Atacar (alcance 6m) -> SG Destreza (CD 8 + Mod. Des + BP) ou fica coberto por 1 min; sofre +5 dano Ígneo se sofrer dano Ígneo (encerra o óleo).
+  - Encharcar Chão: Ação Usar Objeto cobre 1,5x1,5m a até 1,5m. Se aceso, queima por 2 rodadas (5 dano Ígneo a quem entra ou termina turno na área).
+* Pé de Cabra (2 PO, 2,5 kg): Concede Vantagem em testes de Força onde alavanca possa ser aplicada.
+* Poção de Cura (50 PO, 0,25 kg): Ação Bônus bebe (ou administra em outra criatura a até 1,5m) -> restaura 2d4 + 2 PV.
+* Ração (5 PP, 1 kg): Comida para 1 dia.
+* Rede (1 PO, 1,5 kg): Substitui 1 ataque da ação Atacar -> arremessa em criatura a até 4,5m. Alvo faz SG Destreza (CD 8 + Mod. Des + BP) ou fica Contido. Escapar: Ação + Força (Atletismo) CD 10; ou destruir a rede (CA 10, 5 PV, Imune a Contundente/Venenoso/Psíquico).
+* Tocha (1 PC, 0,5 kg): Queima 1h; Luz Plena 6m e Meia-luz +6m. Como arma improvisada: causa 1 dano Ígneo.
+* Vela (1 PC): Queima 1h; Luz Plena 1,5m e Meia-luz +1,5m.
+* Veneno Básico (Frasco, 100 PO): Ação Bônus aplica em 1 arma ou até 3 peças de munição (dura 1 min ou até acertar). Alvo que sofre dano Perfurante ou Cortante faz SG Constituição CD 10 ou sofre +1d4 dano Venenoso.
+
+### KITS DE EQUIPAMENTO (PACOTES)
+* Kit de Artista (40 PO, 29 kg): Mochila, Saco de Dormir, Sino, Lanterna Furta-fogo, 3 Fantasias, Espelho, 8 Frascos de Óleo, 9 Rações, Caixa de Fogo, Cantil.
+* Kit de Assaltante (16 PO, 21 kg): Mochila, Esferas de Metal, Sino, 10 Velas, Pé de Cabra, Lanterna Coberta, 7 Frascos de Óleo, 5 Rações, Corda, Caixa de Fogo, Cantil.
+* Kit de Aventureiro (10 PO, 27,5 kg): Mochila, Saco de Dormir, 2 Frascos de Óleo, 10 Rações, Corda, Caixa de Fogo, 10 Tochas, Cantil.
+* Kit de Diplomata (39 PO, 19,5 kg): Baú, Roupas Finas, Tinta, 5 Canetas, Lâmpada, 2 Caixas de Mapas/Pergaminhos, 4 Frascos de Óleo, 5 Folhas de Papel, 5 Folhas de Pergaminho, Perfume, Caixa de Fogo.
+* Kit de Erudito (40 PO, 11 kg): Mochila, Livro, Tinta, Caneta, Lâmpada, 10 Frascos de Óleo, 10 Folhas de Pergaminho, Caixa de Fogo.
+* Kit de Explorador de Masmorras (12 PO, 27,5 kg): Mochila, Estrepes, Pé de Cabra, 2 Frascos de Óleo, 10 Rações, Corda, Caixa de Fogo, 10 Tochas, Cantil.
+* Kit de Sacerdote (33 PO, 14,5 kg): Mochila, Cobertor, Água Benta, Lâmpada, 7 Rações, Túnica, Caixa de Fogo.
+
+## MONTARIAS, VEÍCULOS E ESTILO DE VIDA
+
+### MONTARIAS E CARGA
+| Montaria | Capacidade de Carga | Deslocamento | Custo |
+|---|---|---|
+| Camelo | 225 kg | 15 m | 50 PO |
+| Cavalo de Guerra | 270 kg | 18 m | 400 PO |
+| Cavalo de Montaria | 240 kg | 18 m | 75 PO |
+| Cavalo de Tração | 270 kg | 12 m | 50 PO |
+| Elefante | 660 kg | 12 m | 200 PO |
+| Mastim | 97,5 kg | 12 m | 25 PO |
+| Mula | 210 kg | 12 m | 8 PO |
+| Pônei | 112,5 kg | 12 m | 30 PO |
+
+* Armadura de Montaria (Barda): Custo = 4x o custo da armadura humana equivalente; Peso = 2x o peso equivalente.
+* Sela Militar (20 PO, 15 kg): Concede Vantagem em testes para não cair da montaria.
+
+### VEÍCULOS AQUÁTICOS E AÉREOS
+| Veículo | Deslocamento | Tripulação | Passageiros | Carga (ton) | CA | PV | Limiar Dano | Custo |
+|---|---|---|---|---|---|---|---|---|
+| Barco a Remo | 2,4 km/h | 1 | 3 | - | 11 | 50 | - | 50 PO |
+| Barco de Quilha | 1,6 km/h | 1 | 6 | 0,5 | 15 | 100 | 10 | 3.000 PO |
+| Dracar (Navio Longo) | 4,8 km/h | 40 | 150 | 10 | 15 | 300 | 15 | 10.000 PO |
+| Galé | 6,4 km/h | 80 | - | 150 | 15 | 500 | 20 | 30.000 PO |
+| Navio à Vela | 3,2 km/h | 20 | 20 | 100 | 15 | 300 | 15 | 10.000 PO |
+| Navio de Guerra | 4 km/h | 60 | 60 | 200 | 15 | 500 | 20 | 25.000 PO |
+| Aeronave | 12,8 km/h | 10 | 20 | 1 | 13 | 300 | - | 40.000 PO |
+
+### DESPESAS DE ESTILO DE VIDA (POR DIA)
+| Estilo | Custo/Dia | Estilo | Custo/Dia |
+|---|---|---|---|
+| Miserável | 0 | Confortável | 2 PO |
+| Esquálido | 1 PP | Rico | 4 PO |
+| Pobre | 2 PP | Aristocrático | 10 PO+ |
+| Modesto | 1 PO | - | - |
+
+### SERVIÇOS E CONTRATADOS
+* Trabalhador Comum: 2 PP/dia.
+* Especialista (proficiente em 1 perícia ou ferramenta): 2 PO/dia.
+* Conjuração de Magias (PNJ): Custo varia por círculo (1º: 30 PO; 2º: 50 PO; 3º: 150 PO; 4º: 300 PO; 5º: 1.000 PO; 6º: 3.000 PO; 7º: 10.000 PO; 8º: 25.000 PO; 9º: 50.000 PO) + custo de componentes materiais consumidos.
+
+## FABRICAÇÃO DE ITENS (CRAFTING)
+
+### EQUIPAMENTOS NÃO MÁGICOS
+* Requisitos: Possuir as ferramentas adequadas, ter proficiência nelas e gastar matérias-primas = 50% do custo de venda do item.
+* Tempo Necessário: Custo do item em PO dividido por 5 = dias de trabalho (mín. 1 dia; 8 horas de trabalho por dia; não precisam ser consecutivos).
+* Assistência: Cada ajudante proficiente na mesma ferramenta divide o tempo necessário pelo número total de trabalhadores (máx. 1 ajudante para itens normais; mais para itens grandes a critério do Mestre).
+
+### POÇÕES DE CURA E PERGAMINHOS MÁGICOS
+* Poção de Cura: Requer proficiência em Kit de Herbalismo, 1 dia de trabalho e 25 PO em matérias-primas.
+* Pergaminho Mágico: Requer proficiência em Arcanismo OU Suprimentos de Calígrafo, ter a magia preparada durante todo o período de fabricação e fornecer quaisquer componentes Materiais consumidos pela magia (além do custo da tabela).
+
+| Círculo da Magia | Tempo de Fabricação | Custo em Materiais |
+|---|---|---|
+| Truque | 1 dia | 15 PO |
+| 1º Círculo | 1 dia | 25 PO |
+| 2º Círculo | 3 dias | 100 PO |
+| 3º Círculo | 5 dias | 150 PO |
+| 4º Círculo | 10 dias | 1.000 PO |
+| 5º Círculo | 25 dias | 1.500 PO |
+| 6º Círculo | 40 dias | 10.000 PO |
+| 7º Círculo | 50 dias | 12.500 PO |
+| 8º Círculo | 60 dias | 15.000 PO |
+| 9º Círculo | 120 dias | 50.000 PO |

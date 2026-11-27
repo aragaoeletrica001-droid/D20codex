@@ -1,0 +1,195 @@
+# BLOCO 7: MAGIAS - PARTE 9 (LETRAS Q E R)
+
+## LETRA Q
+
+### QUEDA SUAVE
+* Círculo/Escola: 1º Círculo, Transmutação
+* Conjuração: 1 Reação (ao você ou uma criatura a até 18m cair) | Alcance: 18 m | Componentes: V, M (pena pequena ou pedaço de penugem) | Duração: 1 minuto
+* Efeito: Escolhe até 5 criaturas em queda no alcance. A velocidade de queda delas desacelera para 18m por rodada pela duração. Se uma criatura pousar antes do fim da magia, não sofre dano de queda e pousa de pé, encerrando a magia para ela.
+
+## LETRA R
+
+### RAIO ARDENTE
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Cria 3 raios de fogo e arremessa contra alvos no alcance (pode mirar todos no mesmo alvo ou em alvos diferentes). Realiza uma jogada de ataque mágico à distância separada para cada raio. Acerto: cada raio causa 2d6 de dano Ígneo.
+* Círculo Superior: Cria +1 raio adicional por círculo acima do 2º.
+
+### RAIO DE BRUXA
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (galho de árvore atingida por raio) | Duração: Concentração, até 1 minuto
+* Efeito: Dispara arco de relâmpago azul em 1 criatura no alcance (ataque mágico à distância). Acerto: 2d12 de dano Elétrico. Pela duração, em cada um dos seus turnos subsequentes, pode usar uma Ação Bônus para causar automaticamente 1d12 de dano Elétrico ao alvo (mesmo que tenha errado o ataque inicial, desde que o alvo ainda esteja no alcance). A magia encerra se o alvo ficar fora do alcance ou com Cobertura Total em relação a você.
+* Círculo Superior: Dano inicial aumenta em +1d12 por círculo acima do 1º.
+
+### RAIO DE FOGO
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Arremessa partícula de fogo em 1 criatura ou objeto no alcance (ataque mágico à distância). Acerto: 1d10 de dano Ígneo. Objetos inflamáveis atingidos que não estejam vestidos ou carregados entram em combustão.
+* Aprimoramento de Truque: Dano aumenta para 2d10 (Nv 5), 3d10 (Nv 11) e 4d10 (Nv 17).
+
+### RAIO DE GELO
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Dispara feixe gélido em 1 criatura no alcance (ataque mágico à distância). Acerto: 1d8 de dano Gélido e o Deslocamento do alvo é reduzido em 3m até o início do seu próximo turno.
+* Aprimoramento de Truque: Dano aumenta para 2d8 (Nv 5), 3d8 (Nv 11) e 4d8 (Nv 17).
+
+### RAIO DO ENFRAQUECIMENTO
+* Círculo/Escola: 2º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível no alcance faz SG Constituição.
+  - Sucesso: Alvo tem Desvantagem na próxima jogada de ataque que fizer antes do início do seu próximo turno, e a magia encerra.
+  - Falha: Pela duração, o alvo tem Desvantagem em Testes de D20 baseados em Força e causa apenas metade do dano com ataques que usem Força. No fim de cada turno dela, repete a SG Constituição para encerrar.
+
+### RAIO GUIA
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: 1 rodada
+* Efeito: Dispara feixe de luz em 1 criatura no alcance (ataque mágico à distância). Acerto: 4d6 de dano Radiante, e a próxima jogada de ataque feita contra este alvo antes do final do seu próximo turno tem Vantagem.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 1º.
+
+### RAIO LUNAR
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (semente de planta lunar e pedaço de feldspato opalescente) | Duração: Concentração, até 1 minuto
+* Efeito: Cria Cilindro de 1,5m de raio x 12m de altura de luz prateada pálida em ponto no alcance (emite Meia-luz na área). Como ação Usar Magia nos turnos seguintes, move o Cilindro até 18m. Quando o Cilindro surge sobre uma criatura, quando o Cilindro entra no espaço de uma criatura, ou quando uma criatura entra no Cilindro ou encerra seu turno nele (máx. 1x/turno por criatura), ela faz SG Constituição -> falha: 2d10 de dano Radiante; sucesso: metade. Metamorfos têm Desvantagem na SG; em falha, revertem instantaneamente à forma verdadeira e não podem mudar de forma enquanto estiverem na luz.
+* Círculo Superior: Dano aumenta em +1d10 por círculo acima do 2º.
+
+### RAIO NAUSEANTE
+* Círculo/Escola: 1º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Dispara raio esverdeado em 1 criatura no alcance (ataque mágico à distância). Acerto: 2d8 de dano Venenoso e o alvo fica Envenenado até o final do seu próximo turno.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 1º.
+
+### RAIO SOLAR
+* Círculo/Escola: 6º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Linha de 18 m x 1,5 m) | Componentes: V, S, M (lupa) | Duração: Concentração, até 1 minuto
+* Efeito: Ao conjurar e como ação Usar Magia nos turnos seguintes, dispara feixe de luz solar na Linha (emite Luz Plena 9m e Meia-luz +9m ao seu redor pela duração, contando como luz solar real). Cada criatura na Linha faz SG Constituição (Mortos-Vivos e Limos têm Desvantagem) -> falha: 6d8 de dano Radiante e fica Cega até o início do seu próximo turno; sucesso: metade do dano e não fica Cega.
+
+### RAJADA DE VENENO
+* Círculo/Escola: Truque, Necromancia
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Dispara nuvem de gás tóxico em 1 criatura no alcance (ataque mágico à distância). Acerto: 1d12 de dano Venenoso.
+* Aprimoramento de Truque: Dano aumenta para 2d12 (Nv 5), 3d12 (Nv 11) e 4d12 (Nv 17).
+
+### RAJADA MÍSTICA / RAIO MÍSTICO
+*(Nota: Catalogada no Livro do Jogador 2024 como Raio Místico).*
+
+### RAIO MÍSTICO
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Dispara feixe de energia crepitante em 1 criatura ou objeto no alcance (ataque mágico à distância). Acerto: 1d10 de dano Energético.
+* Aprimoramento de Truque: Cria raios adicionais nos níveis 5 (2 raios), 11 (3 raios) e 17 (4 raios). Pode direcioná-los ao mesmo alvo ou a alvos diferentes, realizando jogadas de ataque separadas para cada raio.
+
+### RAJADA PRISMÁTICA
+* Círculo/Escola: 7º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Cone de 18 m) | Componentes: V, S | Duração: Instantânea
+* Efeito: Cada criatura no Cone faz SG Destreza. Joga 1d8 para cada alvo para determinar o efeito colorido:
+  - 1 (Vermelho): Falha = 12d6 Ígneo; Sucesso = metade.
+  - 2 (Laranja): Falha = 12d6 Ácido; Sucesso = metade.
+  - 3 (Amarelo): Falha = 12d6 Elétrico; Sucesso = metade.
+  - 4 (Verde): Falha = 12d6 Venenoso; Sucesso = metade.
+  - 5 (Azul): Falha = 12d6 Gélido; Sucesso = metade.
+  - 6 (Índigo): Falha = Contida e faz SG Constituição no fim de cada turno (3 sucessos encerra; 3 falhas impõe Petrificado permanentemente).
+  - 7 (Violeta): Falha = Cega e faz SG Sabedoria no início do próximo turno (sucesso encerra; falha transporta para outro plano aleatório).
+  - 8 (Especial): O alvo é atingido por dois raios; joga 1d8 duas vezes novamente (ignorando novos resultados 8).
+
+### RECEPTÁCULO ARCANO
+* Círculo/Escola: 6º Círculo, Necromancia
+* Conjuração: 1 minuto | Alcance: Pessoal | Componentes: V, S, M (gema, cristal ou relicário de 500+ PO) | Duração: Até ser dissipada
+* Efeito: Sua alma entra no recipiente componente Material e seu corpo fica em estado catatônico. Enquanto sua alma está no recipiente, percebe o entorno (como se estivesse no espaço dele) e pode usar uma Ação para projetar sua alma em 1 Humanoide a até 30m (alvo faz SG Carisma; se passar, imune a esta conjuração por 24h). Em falha, sua alma possui o corpo (assume estatísticas físicas dele, mantendo Inteligência, Sabedoria, Carisma, características de classe e conjuração) e a alma dele fica presa no recipiente. Pode retornar ao recipiente (1 Ação) se estiver a até 30m. Se o recipiente for destruído ou a magia dissipada, sua alma retorna ao seu corpo (se a <= 30m) ou você morre.
+
+### RECUPERAR ENERGIA
+* Círculo/Escola: 1º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V, S | Duração: Instantânea
+* Efeito: Absorve energia vitriólica e vital de plantas não mágicas na Emanação (plantas murcham e morrem). Você recupera 1d4 + Mod. Atributo de Conjuração em PV (falha se não houver plantas na área).
+* Círculo Superior: Cura aumenta em +1d4 por círculo acima do 1º.
+
+### REFLEXOS
+* Círculo/Escola: 2º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: 1 minuto
+* Efeito: Cria 3 duplicatas ilusórias de você no seu espaço que imitam suas ações (encerra se você ficar Incapacitado ou perder todas as duplicatas; ineficaz contra criaturas Cegas ou que enxerguem através de ilusões). Sempre que uma criatura atingir você com uma jogada de ataque, joga 1d6 por duplicata restante: se qualquer dado tirar 3 ou mais, o ataque acerta uma duplicata em vez de você, destruindo-a (duplicata tem CA = 10 + Mod. Destreza e é destruída por qualquer acerto).
+
+### REFUGIAR
+* Círculo/Escola: 7º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (esmeralda de 1.500+ PO, consumida) | Duração: Até ser dissipada
+* Efeito: Toca 1 criatura voluntária (ou a si mesmo) e define 1 palavra-gatilho. A qualquer momento posterior, enquanto estiver no mesmo plano de existência, o alvo pode usar uma Ação para pronunciar a palavra-gatilho e teleportar instantaneamente (junto com tudo que veste/carrega) para o local onde você conjurou a magia (surgindo no espaço desocupado mais próximo), encerrando a magia.
+
+### RELÂMPAGO
+* Círculo/Escola: 3º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Linha de 30 m x 1,5 m) | Componentes: V, S, M (pouco de pelo e bastão de cristal) | Duração: Instantânea
+* Efeito: Cada criatura na Linha faz SG Destreza -> falha: 8d6 de dano Elétrico; sucesso: metade. Objetos inflamáveis na área que não estejam vestidos ou carregados entram em combustão.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 3º.
+
+### REMETER
+* Círculo/Escola: 3º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Ilimitado | Componentes: V, S, M (pedaço de fio de cobre) | Duração: Instantânea
+* Efeito: Envia mensagem mental curta de até 25 palavras para 1 criatura que você conheça. O alvo ouve a mensagem na mente, reconhece você como remetente (se o conhecer) e pode responder imediatamente com uma mensagem de até 25 palavras (comunicam-se mesmo sem idioma em comum). Se o alvo estiver em outro plano de existência, há 5% de chance de a mensagem não chegar.
+
+### REMOVER MALDIÇÃO
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Instantânea
+* Efeito: Ao tocar 1 criatura ou objeto, todas as maldições que afetam o alvo encerram. Se o objeto for um item mágico amaldiçoado, a maldição permanece no item, mas a Sintonização do portador com o objeto é rompida, permitindo que ele o remova ou descarte.
+
+### REPOUSO TRANQUILO
+* Círculo/Escola: 2º Círculo, Necromancia (Ritual)
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (2 peças de cobre, consumidas) | Duração: 10 dias
+* Efeito: Toca 1 cadáver ou outros restos mortais. Pela duração, o alvo fica protegido contra decomposição e não pode tornar-se um Morto-Vivo. A magia também estende efetivamente o limite de tempo para ressuscitar o alvo (como em Revivificar), pois os dias passados sob efeito desta magia não contam contra o tempo máximo desde a morte.
+
+### REPREENSÃO DIABÓLICA
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Reação (ao sofrer dano de criatura visível a até 18m) | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: O atacante faz SG Destreza -> falha: 2d10 de dano Ígneo; sucesso: metade.
+* Círculo Superior: Dano aumenta em +1d10 por círculo acima do 1º.
+
+### RESISTÊNCIA
+* Círculo/Escola: Truque, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Toca 1 criatura voluntária e escolhe 1 tipo de dano: Ácido, Contundente, Cortante, Elétrico, Gélido, Ígneo, Necrótico, Perfurante, Radiante, Trovejante ou Venenoso. Quando o alvo sofrer dano do tipo escolhido antes do fim da magia, reduz o dano sofrido em 1d4 (1x por turno).
+
+### RESPIRAR NA ÁGUA
+* Círculo/Escola: 3º Círculo, Transmutação (Ritual)
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (junco curto) | Duração: 24 horas
+* Efeito: Concede a até 10 criaturas voluntárias visíveis no alcance a capacidade de respirar debaixo d'água pela duração (mantendo também a capacidade normal de respirar ar).
+
+### RESSURREIÇÃO
+* Círculo/Escola: 7º Círculo, Necromancia
+* Conjuração: 1 hora | Alcance: Toque | Componentes: V, S, M (diamante de 1.000+ PO, consumido) | Duração: Instantânea
+* Efeito: Toca 1 criatura morta há no máximo 100 anos que não tenha morrido de velhice e não seja um Morto-Vivo. Se a alma estiver livre e voluntária, ela retorna à vida com todos os PV, todos os ferimentos mortais fechados, partes do corpo perdidas restauradas e sem venenos ou contágios não mágicos que possuía ao morrer (não remove maldições ou magias). Penalidade: você e o alvo sofrem -4 em Testes de D20 até cada um completar um Descanso Longo (reduz 1 por Descanso Longo); além disso, você não pode conjurar magias novamente até completar um Descanso Longo.
+
+### RESSURREIÇÃO VERDADEIRA
+* Círculo/Escola: 9º Círculo, Necromancia
+* Conjuração: 1 hora | Alcance: Toque | Componentes: V, S, M (diamantes de 25.000+ PO, consumidos) | Duração: Instantânea
+* Efeito: Toca 1 criatura morta há no máximo 200 anos que não tenha morrido de velhice. Se a alma estiver livre e voluntária, retorna à vida com todos os PV, fecha ferimentos, regenera órgãos/membros perdidos e encerra venenos, contágios e maldições que possuía ao morrer. Se o corpo original não existir mais, a magia cria um novo corpo completo no espaço desocupado mais próximo (desde que você pronuncie o nome da criatura).
+
+### RESTAURAÇÃO MAIOR
+* Círculo/Escola: 5º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pó de diamante de 100+ PO, consumido) | Duração: Instantânea
+* Efeito: Toca 1 criatura e encerra 1 efeito à escolha que a esteja afetando: 1 nível de Exaustão; a condição Enfeitiçado ou Petrificado; 1 maldição (incluindo sintonização com item mágico amaldiçoado); qualquer redução em 1 de seus valores de atributo; ou 1 efeito que reduza seus PV máximos.
+
+### RESTAURAÇÃO MENOR
+* Círculo/Escola: 2º Círculo, Abjuração
+* Conjuração: 1 Ação Bônus | Alcance: Toque | Componentes: V, S | Duração: Instantânea
+* Efeito: Toca 1 criatura e encerra 1 condição à escolha que a esteja afetando entre: Cego, Envenenado, Paralisado ou Surdo.
+
+### RETIRADA ACELERADA
+* Círculo/Escola: 1º Círculo, Transmutação
+* Conjuração: 1 Ação Bônus | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Ao conjurar esta magia e como Ação Bônus em cada um dos seus turnos subsequentes pela duração, você pode executar a ação Correr.
+
+### REVIVER OS MORTOS
+* Círculo/Escola: 5º Círculo, Necromancia
+* Conjuração: 1 hora | Alcance: Toque | Componentes: V, S, M (diamante de 500+ PO, consumido) | Duração: Instantânea
+* Efeito: Toca 1 criatura morta há no máximo 10 dias que não tenha morrido de velhice e não seja um Morto-Vivo. Se a alma estiver livre e voluntária, retorna à vida com 1 PV. Neutraliza venenos e cura contágios não mágicos que possuía ao morrer, fecha ferimentos mortais, mas não restaura membros ou órgãos perdidos (se faltar cabeça ou órgão vital, a magia falha). Penalidade: o alvo sofre -4 em Testes de D20 até completar um Descanso Longo (reduz 1 por Descanso Longo).
+
+### REVIVIFICAR
+* Círculo/Escola: 3º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (diamantes de 300+ PO, consumidos) | Duração: Instantânea
+* Efeito: Toca 1 criatura que tenha morrido no último minuto (que não tenha morrido de velhice). A criatura retorna à vida com 1 PV (não restaura membros perdidos).
+
+### ROGAR MALDIÇÃO
+* Círculo/Escola: 3º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Toca 1 criatura -> SG Sabedoria ou fica amaldiçoada pela duração. Escolhe 1 efeito ao conjurar:
+  - Atributo: Escolhe 1 atributo; o alvo tem Desvantagem em testes e salvaguardas desse atributo.
+  - Ataques: O alvo tem Desvantagem em jogadas de ataque contra você.
+  - Inação: No início de cada turno dele, o alvo faz SG Sabedoria ou desperdiça sua ação sem fazer nada nesse turno.
+  - Dano Extra: Seus ataques e magias causam +1d8 de dano Necrótico adicional ao alvo.
+* Círculo Superior: 4º círculo (Concentração 10 min); 5º-6º círculo (8 horas, sem Concentração); 7º-8º círculo (24 horas, sem Concentração); 9º círculo (Até ser dissipada, sem Concentração).

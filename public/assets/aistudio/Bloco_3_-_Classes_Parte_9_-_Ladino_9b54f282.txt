@@ -1,0 +1,144 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 9 (LADINO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Destreza
+* Dado de Ponto de Vida: d8 por nível de Ladino
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Destreza e Inteligência
+* Proficiência em Perícias: Escolha 4 entre Acrobacia, Atletismo, Enganação, Furtividade, Intimidação, Intuição, Investigação, Percepção, Persuasão ou Prestidigitação
+* Proficiência com Armas: Armas Simples e Armas Marciais com a propriedade Acuidade ou Leve
+* Proficiência com Ferramentas: Ferramentas de Ladrão
+* Treinamento com Armadura: Armadura Leve
+* Equipamento Inicial: (A) Armadura de Couro, 2 Adagas, Espada Curta, Arco Curto, 20 Flechas, Aljava, Ferramentas de Ladrão, Kit de Assaltante e 8 PO; ou (B) 100 PO
+* Multiclasse (Ganhos): Dado de Vida (d8), 1 perícia à escolha da lista de Ladino, Ferramentas de Ladrão, Armadura Leve
+
+## TABELA DE PROGRESSÃO (LADINO)
+| Nv | BP | Ataque Furtivo | Características |
+|---|---|---|---|
+| 1 | +2 | 1d6 | Ataque Furtivo, Especialização, Gíria dos Ladrões, Maestria em Arma |
+| 2 | +2 | 1d6 | Ação Ardilosa |
+| 3 | +2 | 2d6 | Mira Firme, Subclasse de Ladino |
+| 4 | +2 | 2d6 | Aumento no Valor de Atributo |
+| 5 | +3 | 3d6 | Esquiva Sobrenatural, Golpe Astuto |
+| 6 | +3 | 3d6 | Especialista |
+| 7 | +3 | 4d6 | Evasão, Talento Confiável |
+| 8 | +3 | 4d6 | Aumento no Valor de Atributo |
+| 9 | +4 | 5d6 | Característica de Subclasse |
+| 10 | +4 | 5d6 | Aumento no Valor de Atributo |
+| 11 | +4 | 6d6 | Golpe Astuto Aprimorado |
+| 12 | +4 | 6d6 | Aumento no Valor de Atributo |
+| 13 | +5 | 7d6 | Característica de Subclasse |
+| 14 | +5 | 7d6 | Golpes Sujos |
+| 15 | +5 | 8d6 | Mente Escorregadia |
+| 16 | +5 | 8d6 | Aumento no Valor de Atributo |
+| 17 | +6 | 9d6 | Característica de Subclasse |
+| 18 | +6 | 9d6 | Elusivo |
+| 19 | +6 | 10d6 | Dádiva Épica |
+| 20 | +6 | 10d6 | Golpe de Sorte |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Ataque Furtivo: 1x/turno ao atingir uma criatura com arma que tenha a propriedade Acuidade ou arma à Distância, causa dano adicional do mesmo tipo da arma (conforme coluna Ataque Furtivo: 1d6 a 10d6). Condição de ativação (qualquer uma):
+  - Ter Vantagem na jogada de ataque; OU
+  - Pelo menos 1 aliado seu (não Incapacitado) estar a até 1,5m do alvo, e você não ter Desvantagem na jogada de ataque.
+* Nível 1 - Especialista: Adquire Especialização em 2 perícias proficientes à escolha (+2 perícias proficientes no Nível 6).
+* Nível 1 - Gíria do Ladrão: Conhece a Gíria dos Ladrões e +1 idioma à escolha (tabelas do Capítulo 2).
+* Nível 1 - Maestria em Arma: Usa propriedades de maestria de 2 tipos de armas proficientes à escolha. Pode alterar os tipos escolhidos ao completar um Descanso Longo.
+* Nível 2 - Ação Ardilosa: Ação Bônus no seu turno para executar Correr, Desengajar ou Esconder.
+* Nível 3 - Mira Firme: Ação Bônus concede Vantagem na sua próxima jogada de ataque neste turno. Restrição: só pode usar se ainda não tiver se movido neste turno; após usar, seu Deslocamento torna-se 0 até o final do turno.
+* Nível 3 - Subclasse de Ladino: Escolhe uma especialização.
+* Nível 4, 8, 10, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Esquiva Sobrenatural: Reação quando um atacante visível o atinge com uma jogada de ataque -> reduz o dano do ataque pela metade (arred. baixo).
+* Nível 5 - Golpe Astuto: Ao causar dano com Ataque Furtivo, pode aplicar 1 efeito abaixo subtraindo o custo em dados do dano do Ataque Furtivo (antes de rolar). O efeito ocorre imediatamente após o dano. CD para salvaguardas = 8 + Mod. Destreza + BP.
+  - Envenenar (Custo: 1d6): Requer ter um Kit de Veneno consigo. Alvo faz SG Constituição ou fica Envenenado por 1 min (repete SG no fim de cada turno dele).
+  - Retirada (Custo: 1d6): Imediatamente após o ataque, move-se até metade do seu Deslocamento sem provocar Ataques de Oportunidade.
+  - Tropeço (Custo: 1d6): Se o alvo for Grande ou menor, faz SG Destreza ou fica Caído.
+* Nível 7 - Evasão: Em efeito que permita SG de Destreza para sofrer metade do dano, sofre 0 em caso de sucesso e metade em caso de falha (não funciona se Incapacitado).
+* Nível 7 - Talento Confiável: Ao realizar um teste de atributo com perícia ou ferramenta na qual seja proficiente, trata qualquer resultado <= 9 no d20 como 10.
+* Nível 11 - Golpe Astuto Aprimorado: Pode aplicar até 2 efeitos de Golpe Astuto no mesmo Ataque Furtivo, pagando o custo em dados de cada efeito.
+* Nível 14 - Golpes Sujos: Adiciona 3 novas opções ao Golpe Astuto:
+  - Aturdir (Custo: 2d6): Alvo faz SG Constituição ou, no próximo turno dele, pode realizar apenas UMA entre: mover-se, executar 1 ação ou executar 1 Ação Bônus.
+  - Nocaute (Custo: 6d6): Alvo faz SG Constituição ou fica Inconsciente por 1 min ou até sofrer qualquer dano (repete SG no fim de cada turno dele).
+  - Obscurecer (Custo: 3d6): Alvo faz SG Destreza ou fica Cego até o final do próximo turno dele.
+* Nível 15 - Mente Escorregadia: Proficiência em salvaguardas de Sabedoria e Carisma.
+* Nível 18 - Elusivo: Nenhuma jogada de ataque pode ter Vantagem contra você, a menos que esteja Incapacitado.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Golpe de Sorte: Ao falhar em um Teste de D20, pode transformar o resultado em um 20. Usos: 1x/Descanso Curto ou Longo.
+
+## SUBCLASSES DE LADINO
+
+### ADAGA ESPIRITUAL
+* Nível 3 - Lâminas Psíquicas: Ao executar ação Atacar ou realizar Ataque de Oportunidade, manifesta 1 Lâmina Psíquica em mão livre e ataca com ela (desaparece logo após acertar ou errar):
+  - Estatísticas: Arma Simples Corpo a Corpo; Dano 1d6 Psíquico + Mod. atributo usado no ataque; Propriedades: Acuidade, Arremesso (18/36m); Maestria: Afligir (gratuita, não conta no limite de Maestria em Arma).
+  - Segundo Ataque: Após atacar com a lâmina no seu turno, pode usar Ação Bônus para realizar ataque corpo a corpo ou à distância com uma 2ª Lâmina Psíquica (requer a outra mão livre); dado de dano é 1d4 em vez de 1d6.
+* Nível 3 - Poder Psiônico: Reserva de Dados de Energia Psiônica (recupera 1 dado em Descanso Curto e todos em Descanso Longo).
+
+#### TABELA: DADOS DE ENERGIA DO ADAGA ESPIRITUAL
+| Nv Ladino | Tipo de Dado | Quantidade |
+|---|---|---|
+| 3 | d6 | 4 |
+| 5 | d8 | 6 |
+| 9 | d8 | 8 |
+| 11 | d10 | 8 |
+| 13 | d10 | 10 |
+| 17 | d12 | 12 |
+
+  - Aptidão Reforçada Psiquicamente: Ao falhar em teste de atributo usando perícia ou ferramenta proficiente, joga 1 Dado Psiônico e soma ao teste; o dado só é gasto se o teste passar a ser bem-sucedido.
+  - Sussurros Psíquicos: Ação Usar Magia escolhe até BP criaturas visíveis e joga 1 Dado Psiônico. Comunicação telepática bidirecional a até 1,5 km por um número de horas igual ao resultado. Na 1ª vez após Descanso Longo, não gasta o dado; nas demais, gasta.
+* Nível 9 - Lâminas da Alma:
+  - Golpes Teleguiados: Ao errar ataque com Lâmina Psíquica, joga 1 Dado Psiônico e soma à jogada de ataque; o dado só é gasto se o ataque acertar devido ao bônus.
+  - Teleporte Psíquico: Ação Bônus manifesta Lâmina Psíquica, gasta e joga 1 Dado Psiônico, arremessa em espaço desocupado visível a até (3 x resultado) metros e teleporta-se para lá (lâmina desaparece).
+* Nível 13 - Véu Psíquico: Ação Usar Magia fica Invisível por 1h (ou encerra sem ação; encerra se causar dano a uma criatura ou forçar salvaguarda). Usos: 1x/Descanso Longo, ou gastando 1 Dado Psiônico (sem ação).
+* Nível 17 - Rasgar Mente: Ao causar dano de Ataque Furtivo com Lâmina Psíquica, força o alvo a fazer SG Sabedoria (CD 8 + Mod. Destreza + BP) ou fica Atordoado por 1 min (repete SG no fim de cada turno dele). Usos: 1x/Descanso Longo, ou gastando 3 Dados Psiônicos (sem ação).
+
+### ASSASSINO
+* Nível 3 - Assassinar:
+  - Iniciativa: Vantagem em jogadas de Iniciativa.
+  - Golpe Surpreendente: Durante a 1ª rodada de cada combate, tem Vantagem em jogadas de ataque contra qualquer criatura que ainda não tenha realizado o turno dela. Se seu Ataque Furtivo acertar nessa rodada, o alvo sofre dano adicional (mesmo tipo da arma) = seu nível de Ladino.
+* Nível 3 - Ferramentas de Assassino: Adquire e tem proficiência com Kit de Disfarce e Kit de Veneno.
+* Nível 9 - Especialista em Infiltração:
+  - Mimetismo Magistral: Imita perfeitamente a fala, caligrafia ou ambos de outra pessoa após estudá-los por >= 1 hora.
+  - Mira Móvel: Ao usar Mira Firme, seu Deslocamento não é reduzido a 0.
+* Nível 13 - Armas Venenosas: Ao usar a opção Envenenar do Golpe Astuto, o alvo também sofre 2d6 pontos de dano Venenoso sempre que falhar na salvaguarda (ignora Resistência a dano Venenoso).
+* Nível 17 - Golpe Mortal: Ao acertar com seu Ataque Furtivo na 1ª rodada de combate, o alvo deve passar em SG Constituição (CD 8 + Mod. Destreza + BP) ou o dano do ataque é dobrado contra ele.
+
+### LADRÃO
+* Nível 3 - Andarilho de Telhados:
+  - Escalador: Deslocamento de Escalada = seu Deslocamento.
+  - Saltador: Usa Destreza em vez de Força para determinar distância de salto.
+* Nível 3 - Mão Leve: Ação Bônus para executar 1 opção:
+  - Prestidigitação: Teste de Destreza (Prestidigitação) para abrir fechadura ou desarmar armadilha com Ferramentas de Ladrão, ou para roubar um bolso.
+  - Usar Objeto: Executa a ação Usar Objeto ou a ação Usar Magia para utilizar um item mágico que exija essa ação.
+* Nível 9 - Furtividade Suprema: Nova opção de Golpe Astuto:
+  - Ataque Escondido (Custo: 1d6): Se estiver com a condição Invisível da ação Esconder, este ataque não encerra essa condição se você terminar seu turno atrás de Cobertura de Três Quartos ou Cobertura Total.
+* Nível 13 - Usar Dispositivo Mágico:
+  - Sintonização: Pode sintonizar até 4 itens mágicos simultaneamente.
+  - Cargas: Sempre que usar propriedade de item mágico que gaste cargas, joga 1d6; em um 6, usa sem gastar cargas.
+  - Pergaminhos: Usa qualquer Pergaminho Mágico (atributo Inteligência). Truques e 1º círculo são conjurados automaticamente; círculo superior exige teste de Inteligência (Arcanismo) CD 10 + círculo da magia (se falhar, o pergaminho se desintegra).
+* Nível 17 - Reflexos de Ladrão: Realiza 2 turnos na 1ª rodada de combate: o 1º na sua Iniciativa normal e o 2º na sua Iniciativa menos 10.
+
+### TRAPACEIRO ARCANO
+* Nível 3 - Conjuração:
+  - Lista: Mago. Atributo: Inteligência. Foco: Foco Arcano.
+  - Truques: Conhece Mãos Mágicas + 2 truques de Mago à escolha (+1 truque de Mago no Nível 10). Pode substituir 1 truque (exceto Mãos Mágicas) ao subir de nível de Ladino.
+  - Magias Preparadas: Conforme tabela abaixo (pode substituir 1 magia preparada ao subir de nível de Ladino). Restaura espaços em Descanso Longo.
+
+#### TABELA: CONJURAÇÃO DE TRAPACEIRO ARCANO
+| Nv Ladino | Magias Prep. | 1º | 2º | 3º | 4º |
+|---|---|---|---|---|---|
+| 3 | 3 | 2 | - | - | - |
+| 4-6 | 4 | 3 | - | - | - |
+| 7 | 5 | 4 | 2 | - | - |
+| 8-9 | 6 | 4 | 2 | - | - |
+| 10 | 7 | 4 | 3 | - | - |
+| 11-12 | 8 | 4 | 3 | - | - |
+| 13 | 9 | 4 | 3 | 2 | - |
+| 14-15 | 10 | 4 | 3 | 2 | - |
+| 16-18 | 11 | 4 | 3 | 3 | - |
+| 19 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 13 | 4 | 3 | 3 | 1 |
+
+* Nível 3 - Mãos Mágicas Ligeiras: Pode conjurar Mãos Mágicas como Ação Bônus e tornar a mão espectral Invisível. Controla a mão como Ação Bônus e pode realizar testes de Destreza (Prestidigitação) através dela.
+* Nível 9 - Emboscada Mágica: Se tiver a condição Invisível ao conjurar uma magia em uma criatura, ela tem Desvantagem em qualquer salvaguarda contra a magia no mesmo turno.
+* Nível 13 - Trapaceiro Versátil: Ao usar uma opção de Golpe Astuto em seu ataque contra uma criatura, também pode aplicar essa opção a outra criatura a até 1,5m da mão espectral.
+* Nível 17 - Ladrão de Magias: Reação imediatamente após uma criatura conjurar uma magia que tenha você como alvo ou o inclua na área de efeito -> força SG Inteligência (sua CD). Falha: nega o efeito da magia contra você e rouba o conhecimento se a magia for de 1º círculo+ que você possa conjurar (não precisa ser magia de Mago). Por 8h, você a tem preparada e a criatura não pode conjurá-la. Usos: 1x/Descanso Longo (após roubar uma magia).

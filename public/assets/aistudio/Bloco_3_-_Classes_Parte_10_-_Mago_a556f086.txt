@@ -1,0 +1,104 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 10 (MAGO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Inteligência
+* Dado de Ponto de Vida: d6 por nível de Mago
+* PV no Nível 1: 6 + Mod. Constituição
+* PV em Níveis Seguintes: 1d6 (ou 4) + Mod. Constituição
+* Proficiência em Salvaguardas: Inteligência e Sabedoria
+* Proficiência em Perícias: Escolha 2 entre Arcanismo, História, Intuição, Investigação, Medicina, Natureza ou Religião
+* Proficiência com Armas: Armas Simples
+* Treinamento com Armadura: Nenhuma
+* Equipamento Inicial: (A) 2 Adagas, Foco Arcano (Cajado), Kit de Erudito, Livro de Magias, Túnica e 5 PO; ou (B) 55 PO
+* Multiclasse (Ganhos): Dado de Vida (d6)
+
+## TABELA DE PROGRESSÃO (MAGO)
+| Nv | BP | Truques | Prep. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | Características |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | 3 | 4 | 2 | - | - | - | - | - | - | - | - | Adepto de Ritual, Conjuração, Recuperação Arcana |
+| 2 | +2 | 3 | 5 | 3 | - | - | - | - | - | - | - | - | Acadêmico |
+| 3 | +2 | 3 | 6 | 4 | 2 | - | - | - | - | - | - | - | Subclasse de Mago |
+| 4 | +2 | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 4 | 9 | 4 | 3 | 2 | - | - | - | - | - | - | Memorizar Magia |
+| 6 | +3 | 4 | 10 | 4 | 3 | 3 | - | - | - | - | - | - | Característica de Subclasse |
+| 7 | +3 | 4 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - | - |
+| 8 | +3 | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 4 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | - |
+| 10 | +4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | Característica de Subclasse |
+| 11 | +4 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 12 | +4 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
+| 14 | +5 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Característica de Subclasse |
+| 15 | +5 | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | - |
+| 16 | +5 | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 5 | 22 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | - |
+| 18 | +6 | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | Maestria de Magias |
+| 19 | +6 | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | Dádiva Épica |
+| 20 | +6 | 5 | 25 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | Assinatura Mágica |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Adepto de Ritual: Pode conjurar qualquer magia com o marcador Ritual diretamente do seu Livro de Magias sem precisar tê-la preparada (deve ler o livro durante a conjuração).
+* Nível 1 - Conjuração:
+  - Atributo: Inteligência. Foco: Foco Arcano ou Livro de Magias.
+  - Truques: Conforme tabela (3 Nv 1, 4 Nv 4, 5 Nv 10). Ao completar um Descanso Longo, pode substituir 1 truque por outro truque de Mago à escolha.
+  - Livro de Magias: Objeto Minúsculo (1,5 kg, 100 páginas), legível apenas por você ou por quem conjurar Identificar. Começa com 6 magias de Mago de 1º círculo; adiciona +2 magias de Mago (de círculos para os quais tenha espaços) a cada novo nível de Mago.
+  - Expandindo/Substituindo o Livro de Magias:
+    * Copiar nova magia de Mago (1º círculo+ que possa preparar): 2 horas e 50 PO por círculo de magia.
+    * Copiar do próprio livro (ou transcrever magias preparadas para um novo livro caso perca o original): 1 hora e 10 PO por círculo de magia.
+  - Magias Preparadas: Escolhidas do seu Livro de Magias conforme tabela (de círculos para os quais possui espaços). Pode alterar qualquer magia preparada ao completar um Descanso Longo. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Recuperação Arcana: Ao completar um Descanso Curto, recupera espaços de magia gastos cuja soma dos círculos seja <= metade do seu nível de Mago (arred. cima); nenhum espaço recuperado pode ser de 6º círculo ou superior. Usos: 1x/Descanso Longo.
+* Nível 2 - Acadêmico: Adquire Especialização em 1 perícia proficiente à escolha entre: Arcanismo, História, Investigação, Medicina, Natureza ou Religião.
+* Nível 3 - Subclasse de Mago: Escolhe uma escola/tradição arcana.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Memorizar Magia: Ao completar um Descanso Curto, pode substituir 1 magia preparada de 1º círculo+ por outra magia de 1º círculo+ do seu Livro de Magias.
+* Nível 18 - Maestria de Magias: Escolhe 1 magia de 1º círculo e 1 magia de 2º círculo no seu Livro de Magias com tempo de conjuração de 1 Ação. Ambas ficam sempre preparadas e podem ser conjuradas em seu círculo base sem gastar espaço de magia (conjurar em círculo superior exige espaço). Ao completar Descanso Longo, pode substituir 1 delas por outra magia elegível do mesmo círculo do livro.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Assinatura Mágica: Escolhe 2 magias de 3º círculo no seu Livro de Magias. Ficam sempre preparadas e cada uma pode ser conjurada 1x no 3º círculo sem gastar espaço de magia (recarrega em Descanso Curto ou Longo; conjurar em círculo superior exige espaço).
+
+## LISTA DE MAGIAS DE MAGO (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Amigos (C), Badalar Fúnebre, Bolha Ácida, Elementalismo, Golpe Certeiro (M), Ilusão Menor, Luz, Luzes Dançantes (C), Mãos Mágicas, Mensagem, Prestidigitação Arcana, Proteção Contra Lâminas (C), Raio de Fogo, Raio de Gelo, Rajada de Veneno, Reparar, Talho Mental, Toque Chocante, Toque Necrótico, Trovão.
+* 1º Círculo: Alarme (R), Armadura Arcana, Compreender Idiomas (R), Convocar Familiar (R, M), Detectar Magia (C, R), Disco Flutuante de Tenser (R), Disfarçar-se, Enfeitiçar Pessoa, Escrita Ilusória (R, M), Escudo Arcano, Faca de Gelo, Gargalhada Nefasta de Tasha (C), Graxa, Identificar (R, M), Imagem Silenciosa (C), Leque Cromático, Mãos Flamejantes, Mísseis Mágicos, Névoa Obscurecente (C), Onda Trovejante, Orbe Cromático (M), Passos Largos, Proteção Contra o Bem e o Mal (C, M), Queda Suave, Raio de Bruxa (C), Raio Nauseante, Retirada Acelerada (C), Salto, Servo Invisível (R), Sono (C), Vitalidade Vazia.
+* 2º Círculo: Alterar-se (C), Aprimorar Atributo (C), Arma Mágica, Arrombar, Augúrio (R, M), Aumentar/Reduzir (C), Aura Mágica de Nystul, Boca Encantada (R, M), Cegueira/Surdez, Chama Contínua (M), Corda Extradimensional, Coroa da Loucura (C), Despedaçar, Detectar Pensamentos (C), Escalada de Aranha (C), Escuridão (C), Esfera Flamejante (C), Espinho Mental (C), Flecha Ácida de Melf, Força Espectral (C), Invisibilidade (C, M), Levitação (C), Localizar Objeto (C), Lufada de Vento (C), Nuvem de Adagas (C), Paralisar Pessoa (C), Passo Nebuloso, Raio Ardente, Raio do Enfraquecimento (C), Reflexos, Repouso Tranquilo (R, M), Sopro de Dragão (C), Sugestão (C), Teia (C), Tranca Arcana (M), Turvar (C), Ver o Invisível, Vigor Arcano, Visão no Escuro.
+* 3º Círculo: Animar Mortos, Bola de Fogo, Celeridade (C), Círculo Mágico (M), Clarividência (C, M), Contramagia, Convocar Feérico (C, M), Dissipar Magia, Falar com Mortos, Forma Gasosa (C), Glifo de Proteção (M), Imagem Maior (C), Indetectável (M), Invocar Morto-vivo (C, M), Lentidão (C), Línguas, Medo (C), Montaria Fantasmagórica (R), Nevasca (C), Nuvem Fétida (C), Padrão Hipnótico (C), Pequeno Refúgio de Leomund (R), Piscar (C), Proteção contra Energia (C), Relâmpago, Remeter, Remover Maldição, Respirar na Água (R), Rogar Maldição (C), Simular Morte (R), Toque Vampírico (C), Voo (C).
+* 4º Círculo: Arca Secreta de Leomund (M), Assassino Fantasmagórico (C), Banimento (C), Cão Fiel de Mordenkainen, Confusão (C), Controlar Água (C), Convocar Elemental (C, M), Enfeitiçar Monstro, Escudo Ardente, Esfera Resiliente de Otiluke (C), Esfera Vitriólica, Fabricar, Invisibilidade Maior (C), Invocar Aberração (C, M), Invocar Constructo (C, M), Invocar Elementais Menores (C), Localizar Criatura (C), Malogro, Moldar Rochas, Muralha de Fogo (C), Olho Arcano (C), Pele-Rocha (C, M), Polimorfia (C), Porta Dimensional, Presságio (R, M), Santuário Particular de Mordenkainen, Tempestade Glacial, Tentáculos Negros de Evard (C), Terreno Alucinatório.
+* 5º Círculo: Âncora Planar (M), Animar Objetos (C), Círculo de Poder (C), Círculo de Teleporte (M), Cone de Frio, Contato Extraplanar (R), Criação, Criar Passagem, Despistar (C), Dominar Pessoa (C), Estática Sináptica, Golpe de Arço (M), Invocar Dragão (C, M), Invocar Elemental (C), Lendas e Histórias (M), Ligação Telepática de Rary (R), Mão de Bigby (C), Missão, Modificar Memória (C), Muralha de Energia (C), Muralha de Pedra (C), Névoa Mortal (C), Paralisar Monstro (C), Presença Régia de Yolande (C), Similaridade, Sonho, Telecinese (C), Tempestade Radiante de Jallarzi (C), Vidência (C, M).
+* 6º Círculo: Caldeirão Borbulhante de Tasha (M), Círculo da Morte (M), Contingência (M), Corrente de Relâmpagos, Criar Mortos-Vivos (M), Dança Irresistível de Otto (C), De Carne para Pedra (C), Desintegrar, Esfera Congelante de Otiluke, Globo de Invulnerabilidade (C), Ilusão Programada (M), Invocação Instantânea de Drawmij (R, M), Invocar Ínfero (C, M), Mau Olhado (C), Mover Terra (C), Muralha de Gelo (C), Portais Arcanos (C), Proteger Fortaleza (M), Raio Solar (C), Receptáculo Arcano (M), Sugestão em Massa, Visão da Verdade (M).
+* 7º Círculo: Bola de Fogo Adiável (C), Cárcere de Energia (C, M), Dedo da Morte, Espada de Mordenkainen (C, M), Forma Etérea, Inverter a Gravidade (C), Mansão Magnífica de Mordenkainen (M), Miragem Arcana, Projetar Imagem (C, M), Rajada Prismática, Refugiar (M), Símbolo (M), Simulacro (M), Teleporte, Transição Planar (M).
+* 8º Círculo: Antipatia/Simpatia, Campo Antimagia (C), Clone (M), Controlar o Clima (C), Dominar Monstro (C), Explosão Solar, Labirinto (C), Limpar a Mente, Nuvem Incendiária (C), Palavra de Poder: Atordoar, Semiplano, Suplício, Telepatia.
+* 9º Círculo: Aprisionamento (M), Chuva de Meteoros, Desejo, Encarnação Fantasmagórica (C), Metamorfose (C, M), Muralha Prismática, Palavra de Poder: Matar, Parar o Tempo, Polimorfia Total (C), Portal (C, M), Projeção Astral (M), Sexto Sentido.
+
+## SUBCLASSES DE MAGO
+
+### ABJURADOR
+* Nível 3 - Proteção Arcana: Ao conjurar magia de Abjuração com espaço de magia, cria uma proteção mágica em si até o próximo Descanso Longo (1x/Descanso Longo).
+  - PV Máximos da Proteção = (2 x nível de Mago) + Mod. Inteligência.
+  - Absorção: Ao sofrer dano, aplica Resistências/Vulnerabilidades primeiro e a proteção absorve o dano; se cair a 0 PV, você sofre o excedente.
+  - Recarga: Ao conjurar magia de Abjuração com espaço de magia, OU usando Ação Bônus para gastar um espaço de magia, a proteção recupera PV = 2 x círculo do espaço gasto.
+* Nível 3 - Versado em Abjuração: Adiciona gratuitamente 2 magias de Mago de Abjuração (2º círculo ou inferior) ao Livro de Magias. Sempre que ganhar acesso a um novo círculo de espaços de Mago, adiciona gratuitamente +1 magia de Abjuração (de círculo elegível) ao livro.
+* Nível 6 - Proteção Projetada: Reação quando criatura visível a até 9m sofre dano -> sua Proteção Arcana absorve esse dano (aplica Resistências/Vulnerabilidades da criatura antes; se a proteção cair a 0 PV, a criatura sofre o restante).
+* Nível 10 - Rompe-Magia: Sempre tem Contramagia e Dissipar Magia preparadas. Pode conjurar Dissipar Magia como Ação Bônus e soma seu BP ao teste de atributo de Dissipar Magia. Se conjurar uma dessas magias com espaço e falhar em interromper uma magia, o espaço não é gasto.
+* Nível 14 - Resistência à Magia: Vantagem em salvaguardas contra magias e Resistência ao dano proveniente de magias.
+
+### ADIVINHADOR
+* Nível 3 - Prodígio: Ao completar Descanso Longo, joga 2d20 e anota os resultados. Pode substituir qualquer Teste de D20 realizado por você ou criatura visível por um desses resultados (deve decidir antes da jogada; máx. 1x por turno). Cada resultado é gasto ao ser usado; não utilizados perdem-se no próximo Descanso Longo.
+* Nível 3 - Versado em Adivinhação: Adiciona gratuitamente 2 magias de Mago de Adivinhação (2º círculo ou inferior) ao Livro de Magias. Sempre que ganhar acesso a um novo círculo de espaços de Mago, adiciona gratuitamente +1 magia de Adivinhação (de círculo elegível) ao livro.
+* Nível 6 - Perito em Adivinhação: Ao conjurar magia de Adivinhação usando espaço de 2º círculo ou superior, recupera 1 espaço de magia gasto de círculo inferior ao usado (máximo 5º círculo).
+* Nível 10 - O Terceiro Olho: Ação Bônus escolhe 1 benefício (dura até iniciar Descanso Curto ou Longo; recarrega ao completar Descanso Curto ou Longo):
+  - Compreensão Superior: Pode ler qualquer idioma.
+  - Ver o Invisível: Conjura Ver o Invisível sem gastar espaço de magia.
+  - Visão no Escuro: Visão no Escuro com alcance de 36m.
+* Nível 14 - Prodígio Maior: Joga 3d20 (em vez de 2d20) para a característica Prodígio.
+
+### EVOCADOR
+* Nível 3 - Truque Potente: Quando uma criatura evita um truque seu que cause dano (você erra o ataque ou ela passa na SG), o alvo ainda sofre metade do dano do truque (sem efeitos adicionais).
+* Nível 3 - Versado em Evocação: Adiciona gratuitamente 2 magias de Mago de Evocação (2º círculo ou inferior) ao Livro de Magias. Sempre que ganhar acesso a um novo círculo de espaços de Mago, adiciona gratuitamente +1 magia de Evocação (de círculo elegível) ao livro.
+* Nível 6 - Esculpir Magias: Ao conjurar magia de Evocação que afete criaturas visíveis, escolhe até (1 + círculo da magia) criaturas; elas passam automaticamente na SG e sofrem 0 de dano se normalmente sofreriam metade em caso de sucesso.
+* Nível 10 - Evocação Potencializada: Soma Mod. Inteligência a uma jogada de dano de qualquer magia de Mago de Evocação que conjurar.
+* Nível 14 - Sobrecarga: Ao conjurar magia de Mago de dano com espaço de 1º a 5º círculo, pode causar o dano máximo no turno da conjuração. 1º uso sem penalidade; usos adicionais antes de completar Descanso Longo causam 2d12 de dano Necrótico por círculo do espaço usado imediatamente após conjurar (ignora Resistência e Imunidade), aumentando em +1d12 por círculo a cada novo uso adicional.
+
+### ILUSIONISTA
+* Nível 3 - Ilusões Aprimoradas: Conjura magias de Ilusão sem componentes Verbais. Magias de Ilusão com alcance >= 3m têm alcance aumentado em +18m. Aprende Ilusão Menor (ou outro truque de Mago se já souber; não conta no limite), pode criar som e imagem juntos na mesma conjuração e pode conjurá-la como Ação Bônus.
+* Nível 3 - Versado em Ilusão: Adiciona gratuitamente 2 magias de Mago de Ilusão (2º círculo ou inferior) ao Livro de Magias. Sempre que ganhar acesso a um novo círculo de espaços de Mago, adiciona gratuitamente +1 magia de Ilusão (de círculo elegível) ao livro.
+* Nível 6 - Criaturas Espectrais: Sempre tem Convocar Feérico e Invocar Fera preparadas. Ao conjurá-las, pode mudar a escola para Ilusão. Pode conjurar a versão Ilusão de cada uma 1x/Descanso Longo sem espaço de magia, mas os PV da criatura invocada são reduzidos pela metade.
+* Nível 10 - Autoimagem Ilusória: Reação ao ser atingido por jogada de ataque -> o ataque erra automaticamente. Usos: 1x/Descanso Curto ou Longo, ou gastando 1 espaço de magia de 2º círculo+ (sem ação).
+* Nível 14 - Realidade Ilusória: Ação Bônus no seu turno enquanto uma magia de Ilusão (conjurada com espaço) estiver ativa -> torna 1 objeto inanimado e não mágico da ilusão real por 1 min. O objeto não pode causar dano nem impor condições.

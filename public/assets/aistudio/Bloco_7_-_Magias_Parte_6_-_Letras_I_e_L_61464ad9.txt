@@ -1,0 +1,231 @@
+# BLOCO 7: MAGIAS - PARTE 6 (LETRAS I E L)
+
+## LETRA I
+
+### IDENTIFICAR
+* Círculo/Escola: 1º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 minuto | Alcance: Toque | Componentes: V, S, M (pérola de 100+ PO e pena de coruja) | Duração: Instantânea
+* Efeito: Toca 1 objeto e descobre suas propriedades mágicas, como usá-las, se exige Sintonização, quantas cargas possui e quais magias (se houver) o afetam ou foram usadas para criá-lo. Se tocar 1 criatura, descobre quais magias (se houver) a estão afetando no momento.
+
+### ILUSÃO MENOR
+* Círculo/Escola: Truque, Ilusão
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: S, M (um pouco de lã) | Duração: 1 minuto
+* Efeito: Cria um som ou uma imagem de um objeto (não ambos; encerra se reconjurar ou encerrar sem ação). Não resiste a inspeção física (objetos passam através). Criatura pode usar ação Analisar com teste de Inteligência (Investigação) vs sua CD para discernir a ilusão (torna-se tênue para ela):
+  - Som: Volume de um sussurro a um grito; contínuo ou em momentos distintos pela duração.
+  - Imagem: Objeto que caiba em Cubo de 1,5m (sem som, luz, cheiro ou efeito sensorial).
+
+### ILUSÃO PROGRAMADA
+* Círculo/Escola: 6º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (lã e pó de jade de 25+ PO) | Duração: Até ser dissipada
+* Efeito: Cria ilusão imperceptível até disparar por gatilho específico (visual ou audível a até 9m). Ao disparar, manifesta objeto, criatura ou fenômeno visível em Cubo de até 9m (com som, cheiro e temperatura) por até 5 minutos, entrando depois em dormência por 10 minutos antes de poder disparar novamente. Criatura pode usar ação Analisar com teste de Inteligência (Investigação) vs sua CD para discernir (torna-se tênue para ela).
+
+### IMAGEM MAIOR
+* Círculo/Escola: 3º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (um pouco de lã) | Duração: Concentração, até 10 minutos
+* Efeito: Cria imagem de objeto, criatura ou fenômeno visível que caiba em Cubo de 6m (inclui sons, cheiros e temperatura apropriados; não causa dano nem condições). Como ação Usar Magia, move a imagem no alcance alterando sua aparência para corresponder ao movimento. Criatura pode usar ação Analisar com teste de Inteligência (Investigação) vs sua CD para discernir (torna-se tênue para ela).
+* Círculo Superior: Conjurada com espaço de 4º círculo ou superior, dura Até ser dissipada sem exigir Concentração.
+
+### IMAGEM SILENCIOSA
+* Círculo/Escola: 1º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (um pouco de lã) | Duração: Concentração, até 10 minutos
+* Efeito: Cria imagem puramente visual de objeto, criatura ou fenômeno que caiba em Cubo de 4,5m (sem som, cheiro ou efeitos sensoriais). Como ação Usar Magia, move a imagem no alcance alterando sua aparência conforme o movimento. Criatura pode usar ação Analisar com teste de Inteligência (Investigação) vs sua CD para discernir (torna-se tênue para ela).
+
+### IMOBILIZAR PESSOA / PARALISAR PESSOA
+*(Nota: Catalogada na letra P como Paralisar Pessoa no Livro do Jogador 2024).*
+
+### INDETECTÁVEL
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pitada de pó de diamante de 25+ PO, consumida) | Duração: 8 horas
+* Efeito: Oculta 1 criatura voluntária ou 1 local/objeto (máx. 3m em qualquer dimensão) de magias de Adivinhação. O alvo não pode ser alvejado por tais magias nem percebido através de sensores de vidência mágicos.
+
+### INSETOS GIGANTES
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: Invoca 1 Centopeia Gigante, Aranha Gigante ou Vespa Gigante em espaço desocupado visível (Amigável, age logo após seu turno, obedece comandos verbais).
+  - Bloco (Fera Grande): CA 11 + círculo | PV 30 + 10 por círculo acima do 4º | Desl. 12m (Escalada 12m Centopeia/Aranha; Voo 12m Vespa) | Ataques = metade do círculo (arred. baixo).
+  - Mordida Venenosa: Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d6 + 3 + círculo de dano Perfurante + 1d4 de dano Venenoso.
+  - Teia de Aranha (apenas Aranha, 1x/turno): Ataque mágico à distância (18m), seu bônus de ataque; acerto reduz Deslocamento do alvo a 0 até o início do próximo turno do inseto.
+  - Ferroada Venenosa (apenas Centopeia, 1x/turno): Alvo atingido por Mordida Venenosa faz SG Constituição ou fica Envenenado até o início do próximo turno do inseto.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVERTER A GRAVIDADE
+* Círculo/Escola: 7º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 30 m | Componentes: V, S, M (ímã e limalha de ferro) | Duração: Concentração, até 1 minuto
+* Efeito: Cilindro de 15m de raio x 30m de altura em ponto no alcance. Todas as criaturas e objetos não presos caem para cima até o topo do cilindro (se colidirem com teto/objeto sólido, sofrem dano de queda normal; se alcançarem o topo, flutuam oscilando lá). Criatura pode tentar agarrar objeto fixo próximo com SG Destreza para evitar cair. Ao fim da magia, tudo cai de volta para baixo.
+
+### INVISIBILIDADE
+* Círculo/Escola: 2º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (cílio envolto em goma-arábica) | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura tocada (e tudo o que veste/carrega) ganha a condição Invisível pela duração. A magia encerra antecipadamente no alvo imediatamente após ele realizar uma jogada de ataque, causar dano ou conjurar uma magia.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 2º.
+
+### INVISIBILIDADE MAIOR
+* Círculo/Escola: 4º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura tocada (e tudo o que veste/carrega) ganha a condição Invisível pela duração (não encerra ao atacar, causar dano ou conjurar magias).
+
+### INVOCAÇÃO INSTANTÂNEA DE DRAWMIJ
+* Círculo/Escola: 6º Círculo, Conjuração (Ritual)
+* Conjuração: 1 minuto | Alcance: Toque | Componentes: V, S, M (safira de 1.000+ PO) | Duração: Até ser dissipada
+* Efeito: Toca 1 objeto (<= 5 kg e <= 1,8m na maior dimensão) que não esteja sendo vestido/carregado e vincula-o à safira (fica invisível para outras criaturas). A qualquer momento e distância (mesmo em outros planos), pode usar ação Usar Magia para esmagar a safira (consumindo-a) e teleportar o objeto instantaneamente para sua mão. Se outra criatura estiver segurando/carregando o objeto, o teleporte falha, mas você descobre quem o possui e sua localização aproximada.
+
+### INVOCAR ABERRAÇÃO
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (tentáculo em conserva e olho em frasco de platina de 400+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito Aberrante (Observador, Slaad ou Cria Estelar) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Aberração Média): CA 11 + círculo | PV 40 + 10 por círculo acima do 4º | Desl. 9m (Voo 9m pairar para Observador) | Imune a Psíquico | Ataques = metade do círculo (arred. baixo).
+  - Aura Sussurrante (apenas Cria Estelar): No início de cada turno da aberração, cada criatura (exceto você) a até 1,5m dela faz SG Sabedoria ou sofre 2d6 de dano Psíquico.
+  - Garras (apenas Slaad): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d10 + 3 + círculo de dano Cortante; se o alvo for uma criatura, não pode recuperar PV até o início do próximo turno da aberração.
+  - Raio Ocular (apenas Observador): Ataque mágico à distância (45m), seu bônus de ataque, 1d8 + 3 + círculo de dano Psíquico.
+  - Golpe Psíquico (apenas Cria Estelar): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d8 + 3 + círculo de dano Psíquico.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR CONSTRUCTO
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (cofre ornamentado de 400+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito de Constructo (Argila, Metal ou Pedra) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Constructo Médio): CA 13 + círculo | PV 40 + 15 por círculo acima do 4º | Desl. 9m | Imune a Venenoso e condições | Ataques = metade do círculo (arred. baixo).
+  - Corpo Aquecido (apenas Metal): Criatura que tocar o constructo ou atingi-lo com ataque corpo a corpo a até 1,5m sofre 1d10 de dano Ígneo.
+  - Letargia Pétrea (apenas Pedra): Quando criatura visível pelo constructo inicia turno a até 3m dele, faz SG Sabedoria ou tem Deslocamento reduzido pela metade e não pode usar Reações até o início do próximo turno dela.
+  - Pancada: Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d8 + 4 + círculo de dano Contundente.
+  - Golpe Furioso (apenas Argila): Reação ao sofrer dano -> faz 1 ataque de Pancada contra criatura aleatória a até 1,5m (ou move até metade do Deslocamento para alcançar uma).
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR DRAGÃO
+* Círculo/Escola: 5º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (objeto com gravação de dragão de 500+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito Dracônico (Cromático, Metálico ou Gema) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Dragão Grande): CA 14 + círculo | PV 50 + 10 por círculo acima do 5º | Desl. 9m, Voo 18m (Natação 12m Cromático/Metálico; Escavação 9m Gema) | Imune a Amedrontado, Enfeitiçado | Resistência: Ácido, Elétrico, Gélido, Ígneo, Venenoso (Cromático/Metálico) ou Energético, Necrótico, Psíquico, Radiante, Trovejante (Gema) | Ataques = metade do círculo (arred. baixo).
+  - Despedacar: Ataque mágico corpo a corpo (3m), seu bônus de ataque, 1d6 + 4 + círculo de dano Perfurante.
+  - Arma de Sopro (1x/turno na ação Multiataque): Cone de 9m -> SG Destreza (sua CD) -> falha: 2d6 de dano (escolhe entre os tipos da Resistência da família dracônica); sucesso: metade.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR ELEMENTAIS MENORES
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 4,5 m) | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Espíritos elementais circundam você na Emanação pela duração. Qualquer ataque que você realizar (com arma ou magia) causa +2d8 de dano adicional (escolhe Ácido, Elétrico, Gélido ou Ígneo a cada acerto) se o alvo estiver na Emanação. Além disso, o chão na Emanação é Terreno Difícil para seus inimigos.
+* Círculo Superior: Dano adicional aumenta em +1d8 por círculo acima do 4º.
+
+### INVOCAR FERA
+* Círculo/Escola: 2º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (pena, tufo de pelo e cauda de peixe em bolota dourada de 200+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito Bestial (Ar, Terra ou Água) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Fera Pequena): CA 11 + círculo | PV 20 (Ar) ou 30 (Terra/Água) + 5 por círculo acima do 2º | Desl. 9m (Escalada 9m Terra; Voo 18m Ar; Natação 9m Água) | Ataques = metade do círculo (arred. baixo).
+  - Sobrevoo (apenas Ar): Não provoca Ataques de Oportunidade ao voar para fora do alcance de um inimigo.
+  - Táticas de Matilha (apenas Terra/Água): Vantagem nas jogadas de ataque se pelo menos 1 aliado (não Incapacitado) estiver a até 1,5m do alvo.
+  - Golpe Bestial: Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d8 + 4 + círculo de dano Perfurante.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR ÍNFERO
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (frasco de sangue de Humanoide de 600+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito Ínfero (Demônio, Diabo ou Yugoloth) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Ínfero Grande): CA 12 + círculo | PV 50 (Demônio), 40 (Diabo) ou 60 (Yugoloth) + 15 por círculo acima do 6º | Desl. 12m (Escalada 12m Demônio; Voo 18m Diabo) | Imune a Ígneo, Venenoso, Envenenado | Resistência Mágica (Vantagem em SG contra magias) | Ataques = metade do círculo (arred. baixo).
+  - Mordida (apenas Demônio): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d12 + 3 + círculo de dano Necrótico.
+  - Esterores da Morte (apenas Demônio): Ao cair a 0 PV, explode em Esfera de 3m de raio -> SG Destreza (sua CD) -> falha: 2d10 + círculo de dano Ígneo; sucesso: metade.
+  - Chama Infernal (apenas Diabo): Ataque mágico à distância (45m), seu bônus de ataque, 2d6 + 3 + círculo de dano Ígneo.
+  - Garras (apenas Yugoloth): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d8 + 3 + círculo de dano Cortante; logo após acertar ou errar, pode teleportar até 9m para espaço desocupado visível.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR MORTO-VIVO
+* Círculo/Escola: 3º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (caveira dourada de 300+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Invoca Espírito Morto-Vivo (Fantasmagórico, Pútrido ou Esquelético) em espaço desocupado visível (Amigável, age logo após seu turno).
+  - Bloco (Morto-Vivo Médio): CA 11 + círculo | PV 30 (Pútrido/Fantasmagórico) ou 20 (Esquelético) + 10 por círculo acima do 3º | Desl. 9m (Voo 12m pairar para Fantasmagórico) | Imune a Necrótico, Venenoso, Amedrontado, Envenenado, Exaustão, Paralisado | Ataques = metade do círculo (arred. baixo).
+  - Aura Fétida (apenas Pútrido): Criatura (exceto você) que iniciar turno a até 1,5m faz SG Constituição ou fica Envenenada até o início do próximo turno dela.
+  - Toque Mortal (apenas Fantasmagórico): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d8 + 3 + círculo de dano Necrótico; alvo faz SG Sabedoria ou fica Amedrontado até o fim do próximo turno dele.
+  - Garra Apodrecida (apenas Pútrido): Ataque mágico corpo a corpo (1,5m), seu bônus de ataque, 1d6 + 3 + círculo de dano Cortante; se o alvo estiver Envenenado, faz SG Constituição ou fica Paralisado até o fim do próximo turno dele.
+  - Raio Tumular (apenas Esquelético): Ataque mágico à distância (45m), seu bônus de ataque, 2d4 + 3 + círculo de dano Necrótico.
+* Círculo Superior: Usa o círculo do espaço para CA, PV, dano e número de ataques.
+
+### INVOCAR SERES DA FLORESTA
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 3 m) | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Espíritos feéricos circundam você na Emanação pela duração (você pode usar ação Desengajar como Ação Bônus). Quando uma criatura entra na Emanação pela 1ª vez no turno ou encerra seu turno nela (máx. 1x/turno por criatura), faz SG Sabedoria -> falha: 5d6 de dano Energético; sucesso: metade.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 4º.
+
+## LETRA L
+
+### LABIRINTO
+* Círculo/Escola: 8º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Bane 1 criatura visível no alcance para um semiplano labiríntico (sem salvaguarda inicial). Como 1 Ação no turno dela, a criatura pode fazer teste de Inteligência CD 20 para escapar. Ao escapar ou quando a magia termina, retorna ao espaço que ocupava (ou espaço desocupado mais próximo).
+
+### LENDAS E HISTÓRIAS
+* Círculo/Escola: 5º Círculo, Adivinhação
+* Conjuração: 10 minutos | Alcance: Pessoal | Componentes: V, S, M (incenso de 250+ PO consumido e 4 tiras de marfim de 50+ PO cada) | Duração: Instantânea
+* Efeito: Nomeia ou descreve 1 pessoa, lugar ou objeto de importância lendária (se não for lendário, a magia não revela nada). Obtém resumo preciso de informações importantes sobre o alvo (quanto mais informações você já tiver, mais detalhados serão os segredos revelados).
+
+### LENTIDÃO
+* Círculo/Escola: 3º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (gota de melaço) | Duração: Concentração, até 1 minuto
+* Efeito: Escolhe até 6 criaturas visíveis em um Cubo de 12m no alcance -> SG Sabedoria. Falha (pela duração):
+  - Deslocamento reduzido pela metade; -2 na CA e em SG de Destreza; não pode usar Reações.
+  - No seu turno, pode executar apenas 1 Ação OU 1 Ação Bônus (nunca ambas) e realiza no máximo 1 ataque por turno (independentemente de características/itens).
+  - Se conjurar magia com componente Somático, joga 1d20: em resultado >= 11, a magia só tem efeito no próximo turno dela e exige que ela use sua ação para completá-la (caso contrário, a magia é perdida).
+  - Repete a SG Sabedoria no fim de cada turno dela para encerrar.
+
+### LEQUE CROMÁTICO
+* Círculo/Escola: 1º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Pessoal (Cone de 4,5 m) | Componentes: V, S, M (pitada de areia colorida) | Duração: Instantânea
+* Efeito: Cada criatura no Cone faz SG Constituição ou fica Cega até o final do seu próximo turno.
+
+### LEVITAÇÃO
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (laço de couro ou fio dourado) | Duração: Concentração, até 10 minutos
+* Efeito: 1 criatura ou objeto solto (<= 250 kg) visível no alcance sobe verticalmente até 6m e permanece suspenso no ar pela duração (alvo involuntário faz SG Constituição). O alvo só pode se mover empurrando ou puxando objetos fixos ao alcance (tratado como escalada). Como ação Usar Magia no seu turno, pode alterar a altitude do alvo em até 6m para cima ou para baixo (máx. 18m do chão). Ao encerrar, o alvo flutua suavemente até o chão.
+
+### LIGAÇÃO TELEPÁTICA DE RARY
+* Círculo/Escola: 5º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (casca de ovo de duas espécies diferentes) | Duração: 1 hora
+* Efeito: Conecta telepaticamente até 8 criaturas voluntárias escolhidas no alcance (passam automaticamente se Inteligência <= 2). Pela duração, todos os alvos comunicam-se telepaticamente entre si através de qualquer distância, desde que permaneçam no mesmo plano de existência (mesmo sem idioma em comum).
+
+### LIMPAR A MENTE
+* Círculo/Escola: 8º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: 24 horas
+* Efeito: 1 criatura voluntária tocada ganha Imunidade a dano Psíquico, Imunidade à condição Enfeitiçado, e imunidade a qualquer efeito que sinta suas emoções, leia seus pensamentos, detecte sua localização ou determine se ela está mentindo (frustra até mesmo a magia Desejo usada para esses fins).
+
+### LÍNGUAS
+* Círculo/Escola: 3º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, M (pequeno zigurate de argila) | Duração: 1 hora
+* Efeito: 1 criatura tocada ganha a capacidade de compreender qualquer idioma falado ou de sinais que ouvir/ver; quando o alvo fala ou sinaliza, qualquer criatura que conheça pelo menos 1 idioma e possa ouvi-lo/vê-lo entende o que ele comunica.
+
+### LOCALIZAR ANIMAIS OU PLANTAS
+* Círculo/Escola: 2º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (pelo de cão de caça) | Duração: Instantânea
+* Efeito: Descreve ou nomeia um tipo específico de Fera ou Planta. Descobre a direção e a distância até o espécime mais próximo desse tipo a até 8 km de você, se houver algum presente.
+
+### LOCALIZAR CRIATURA
+* Círculo/Escola: 4º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (pelo de cão de caça) | Duração: Concentração, até 1 hora
+* Efeito: Descreve ou nomeia 1 criatura específica familiar (ou o espécime mais próximo de um tipo específico se você já viu um de perto a até 9m). Sente a direção da localização da criatura se estiver a até 300m (e sua direção de movimento, se estiver se movendo). Falha se água corrente com >= 3m de largura bloquear o caminho direto entre você e a criatura.
+
+### LOCALIZAR OBJETO
+* Círculo/Escola: 2º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (galho bifurcado) | Duração: Concentração, até 10 minutos
+* Efeito: Descreve ou nomeia 1 objeto específico familiar (já visto de perto a até 9m) ou o objeto mais próximo de um tipo específico (ex: escada, joia, chave). Sente a direção da localização do objeto se estiver a até 300m (e sua direção de movimento, se estiver se movendo). Bloqueada por qualquer espessura de chumbo entre você e o objeto.
+
+### LOQUACIDADE
+* Círculo/Escola: 8º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V | Duração: 1 hora
+* Efeito: Pela duração, ao realizar qualquer teste de Carisma, pode substituir o número rolado no d20 por 15. Além disso, qualquer magia ou efeito que determine se você diz a verdade indica que você está sendo verdadeiro.
+
+### LUFADA DE VENTO
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Linha de 18 m x 3 m) | Componentes: V, S, M (semente de legume) | Duração: Concentração, até 1 minuto
+* Efeito: Rajada de vento forte parte de você pela duração (como Ação Bônus no seu turno, pode mudar a direção da Linha). Dispersa gás/vapor e apaga velas/tochas/chamas desprotegidas (50% de chance em chamas protegidas). Qualquer criatura que inicie seu turno na Linha faz SG Força ou é empurrada 4,5m para longe de você ao longo da Linha; cada 1,5m de movimento em direção a você na Linha custa 3m de deslocamento.
+
+### LUZ
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, M (vaga-lume ou musgo fosforescente) | Duração: 1 hora
+* Efeito: Toca 1 objeto (<= 3m em qualquer dimensão; se segurado/vestido por criatura hostil, ela faz SG Destreza para evitar). O objeto emite Luz Plena em raio de 6m e Meia-luz por +6m (cor à escolha; cobrir o objeto bloqueia a luz). Encerra se reconjurar ou encerrar sem ação.
+
+### LUZ DO DIA
+* Círculo/Escola: 3º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: 1 hora
+* Efeito: Esfera de 18m de raio de luz solar brilhante em ponto no alcance (ou em objeto não vestido/carregado por criatura hostil; cobrir o objeto bloqueia a luz). Emite Luz Plena em toda a Esfera e Meia-luz por +18m. Dissipa qualquer Escuridão mágica criada por magia de 3º círculo ou inferior que se sobreponha à área.
+
+### LUZES DANÇANTES
+* Círculo/Escola: Truque, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (pedaço de fósforo ou madeira fosforescente) | Duração: Concentração, até 1 minuto
+* Efeito: Cria até 4 luzes do tamanho de tochas (ou combina em 1 forma luminosa vagamente humanoide Média) em pontos no alcance. Cada luz emite Meia-luz em raio de 3m; todas devem permanecer a até 6m umas das outras (se alguma sair do alcance ou da distância máxima, apaga). Como Ação Bônus no seu turno, move as luzes até 18m para um novo local no alcance.

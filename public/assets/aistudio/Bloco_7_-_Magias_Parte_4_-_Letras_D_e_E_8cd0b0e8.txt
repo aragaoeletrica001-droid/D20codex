@@ -1,0 +1,317 @@
+# BLOCO 7: MAGIAS - PARTE 4 (LETRAS D E E)
+
+## LETRA D
+
+### DANAÇÃO
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação Bônus | Alcance: 27 m | Componentes: V, S, M (olho petrificado de salamandra) | Duração: Concentração, até 1 hora
+* Efeito: Amaldiçoa 1 criatura visível no alcance pela duração:
+  - Sempre que você a atingir com uma jogada de ataque, ela sofre +1d6 de dano Necrótico adicional.
+  - Escolhe 1 atributo; o alvo tem Desvantagem em testes desse atributo.
+  - Se o alvo cair a 0 PV antes do fim da magia, você pode usar Ação Bônus em um turno subsequente para transferir a maldição para outra criatura visível no alcance.
+* Círculo Superior: Duração máxima da Concentração aumenta para 4 horas (2º círculo), 8 horas (3º-4º círculo) ou 24 horas (5º círculo+).
+
+### DANÇA IRRESISTÍVEL DE OTTO
+* Círculo/Escola: 6º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível faz SG Sabedoria (passa automaticamente se imune a Enfeitiçado).
+  - Falha: Fica dançando pela duração — Deslocamento = 0 (gasta todo o movimento dançando no lugar), Desvantagem em SG de Destreza e em jogadas de ataque, e ataques contra ela têm Vantagem. Como 1 Ação no turno dela, pode repetir a SG Sabedoria para encerrar.
+  - Sucesso: Sofre os mesmos efeitos da falha apenas até o final do próximo turno dela, encerrando a magia em seguida.
+
+### DE CARNE PARA PEDRA
+* Círculo/Escola: 6º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (pitada de cal, água e terra) | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível (com corpo de carne) faz SG Constituição.
+  - Sucesso: Deslocamento = 0 até o início do próximo turno dela e a magia encerra.
+  - Falha: Fica Contida. No fim de cada turno dela, repete a SG Constituição: 3 sucessos encerra a magia; 3 falhas impõe Petrificado pela duração. Se mantiver Concentração pelo 1 minuto completo, a petrificação torna-se permanente até ser removida.
+
+### DEDO DA MORTE
+* Círculo/Escola: 7º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Instantânea
+* Efeito: 1 criatura visível faz SG Constituição -> falha: 7d8 + 30 de dano Necrótico; sucesso: metade. Um Humanoide morto por esta magia ergue-se no início do seu próximo turno como um Zumbi permanentemente sob seu controle (obedece comandos verbais).
+
+### DEFENSOR DA FÉ
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V | Duração: 8 horas
+* Efeito: Conjura guardião espectral Grande em espaço desocupado visível (imóvel, intangível, ocupa o espaço). Qualquer criatura hostil que se mova para um espaço a até 3m dele pela 1ª vez no turno ou inicie o turno lá faz SG Destreza -> falha: 20 de dano Radiante; sucesso: metade. O guardião desaparece após causar 60 de dano total.
+
+### DESEJO
+* Círculo/Escola: 9º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Uso padrão (sem penalidade): duplica qualquer magia de 8º círculo ou inferior de qualquer lista, sem precisar de pré-requisitos ou componentes Materiais.
+  - Usos Alternativos (geram Estresse): criar objeto não mágico (até 25.000 PO, 90m), restaurar PV máximos + encerrar condições de até 20 criaturas, conceder Resistência permanente a 1 tipo de dano para até 10 criaturas, conceder Imunidade a 1 magia por 8h para até 10 criaturas, desfazer 1 evento recente (última rodada) forçando nova jogada com Vantagem/Desvantagem, ou outro desejo julgado pelo Mestre.
+  - Estresse: Ao usar Desejo para qualquer efeito além de duplicar uma magia, sofre: dano Necrótico de 1d10 por círculo de cada magia que conjurar até completar um Descanso Longo (ignora Resistência/Imunidade); Força cai para 3 por 2d4 dias (reduz 2 dias por dia de repouso total); e 33% de chance permanente de nunca mais poder conjurar Desejo.
+
+### DESINTEGRAR
+* Círculo/Escola: 6º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (ímã e pitada de pó) | Duração: Instantânea
+* Efeito: Raio verde em 1 criatura, objeto não mágico Grande ou menor, ou criação de energia mágica (ex: Muralha de Energia) visível no alcance.
+  - Criatura: Faz SG Destreza -> falha: 10d6 + 40 de dano Energético; sucesso: 0 de dano. Se o dano reduzir o alvo a 0 PV, ele e tudo o que veste/carrega (exceto itens mágicos) viram pó cinzento (só pode ser revivido por Ressurreição Verdadeira ou Desejo).
+  - Objeto/Força: Objeto Grande ou menor (ou seção em Cubo de 3m de objeto maior) ou criação de energia mágica é automaticamente desintegrado.
+* Círculo Superior: Dano aumenta em +3d6 por círculo acima do 6º.
+
+### DESPEDAÇAR
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (lasca de mica) | Duração: Instantânea
+* Efeito: Esfera de 3m de raio em ponto no alcance. Cada criatura na área faz SG Constituição (Constructos têm Desvantagem) -> falha: 3d8 de dano Trovejante; sucesso: metade. Objetos não mágicos na área que não estejam vestidos/carregados também sofrem o dano.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 2º.
+
+### DESPERTAR
+* Círculo/Escola: 5º Círculo, Transmutação
+* Conjuração: 8 horas | Alcance: Toque | Componentes: V, S, M (ágata de 1.000+ PO, consumida) | Duração: Instantânea
+* Efeito: Toca 1 Fera ou Planta Enorme ou menor (sem Inteligência ou com Int <= 3). O alvo ganha Inteligência 10, aprende 1 idioma que você conheça e (se for Planta) ganha sentidos humanos e Deslocamento de 9m. O alvo fica Enfeitiçado por você por 30 dias (ou até você/aliados causarem dano a ele).
+
+### DESPISTAR
+* Círculo/Escola: 5º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: S | Duração: Concentração, até 1 hora
+* Efeito: Fica Invisível e cria duplo ilusório no seu espaço. A Invisibilidade encerra antecipadamente se você atacar, causar dano ou conjurar magia. Como ação Usar Magia (ou Ação Bônus no turno), move o duplo até 2x seu Deslocamento e gesticula/fala através dele. Como Ação Bônus, alterna entre seus sentidos e os do duplo (enquanto usa os do duplo, fica Cego e Surdo em relação ao próprio corpo).
+
+### DESTRUIÇÃO ATORDOANTE
+* Círculo/Escola: 4º Círculo, Encantamento
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Alvo sofre +4d6 de dano Psíquico adicional e faz SG Sabedoria ou fica Atordoado até o final do próximo turno dele.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 4º.
+
+### DESTRUIÇÃO BANIDORA
+* Círculo/Escola: 5º Círculo, Conjuração
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: Alvo sofre +5d10 de dano Energético adicional. Se o alvo ficar com 50 PV ou menos após sofrer esse dano, é banido: se nativo deste plano, vai para semiplano inofensivo e fica Incapacitado até a magia encerrar; se nativo de outro plano, retorna ao plano natal (se a Concentração durar 1 minuto completo, não retorna).
+
+### DESTRUIÇÃO CAUTERIZANTE
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: 1 minuto
+* Efeito: Alvo sofre +1d6 de dano Ígneo adicional. No início de cada turno do alvo pela duração, ele sofre 1d6 de dano Ígneo e em seguida faz SG Constituição (sucesso encerra a magia).
+* Círculo Superior: Todos os danos Ígneos (inicial e por turno) aumentam em +1d6 por círculo acima do 1º.
+
+### DESTRUIÇÃO CEGANTE
+* Círculo/Escola: 3º Círculo, Evocação
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: 1 minuto
+* Efeito: Alvo sofre +3d8 de dano Radiante adicional e fica Cego pela duração. No fim de cada turno dele, faz SG Constituição (sucesso encerra a magia).
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 3º.
+
+### DESTRUIÇÃO COLÉRICA
+* Círculo/Escola: 1º Círculo, Necromancia
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: 1 minuto
+* Efeito: Alvo sofre +1d6 de dano Necrótico adicional e faz SG Sabedoria ou fica Amedrontado por você pela duração (repete SG Sabedoria no fim de cada turno dele para encerrar).
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 1º.
+
+### DESTRUIÇÃO DIVINA
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação Bônus (imediatamente após atingir alvo com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Alvo sofre +2d8 de dano Radiante adicional. O dano aumenta em +1d8 extra se o alvo for um Ínfero ou Morto-Vivo.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 1º.
+
+### DESTRUIÇÃO ESTRONDOSA
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação Bônus (imediatamente após atingir alvo com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Alvo sofre +2d6 de dano Trovejante adicional (estrondo audível a até 90m). Se o alvo for uma criatura, faz SG Força ou é empurrada até 3m para longe de você e fica Caída.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 1º.
+
+### DESTRUIÇÃO RADIANTE
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação Bônus (imediatamente após atingir criatura com arma Corpo a Corpo ou Ataque Desarmado) | Alcance: Pessoal | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: Alvo sofre +2d6 de dano Radiante adicional. Pela duração, o alvo emite Luz Plena em raio de 1,5m, jogadas de ataque contra ele têm Vantagem e ele não pode se beneficiar da condição Invisível.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 2º.
+
+### DETECTAR MAGIA
+* Círculo/Escola: 1º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Sente a presença de magia a até 9m de você. Como ação Usar Magia, enxerga uma aura fraca ao redor de qualquer criatura ou objeto visível na área que porte magia e identifica sua escola de magia (se houver). Bloqueada por 30cm de pedra/terra/madeira, 2,5cm de metal ou folha fina de chumbo.
+
+### DETECTAR O BEM E O MAL
+* Círculo/Escola: 1º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Detecta a localização de qualquer Aberração, Celestial, Elemental, Feérico, Ínfero ou Morto-Vivo a até 9m de você, e de qualquer local ou objeto consagrado ou profanado (como pela magia Consagrar) no mesmo raio. Bloqueada por 30cm de pedra/terra/madeira, 2,5cm de metal ou folha fina de chumbo.
+
+### DETECTAR PENSAMENTOS
+* Círculo/Escola: 2º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (1 peça de cobre) | Duração: Concentração, até 1 minuto
+* Efeito: Ao conjurar e como ação Usar Magia nos turnos seguintes, escolhe 1 opção (bloqueada por 30cm de pedra/terra/madeira, 2,5cm de metal ou folha fina de chumbo):
+  - Sentir Pensamentos: Sente a presença de criaturas pensantes (Int >= 4 e que falem/entendam idioma) a até 9m, mesmo sem vê-las.
+  - Ler Pensamentos: Alveja 1 criatura visível ou detectada a até 9m e lê seus pensamentos superficiais. Como ação Usar Magia em turno subsequente, pode sondar mais fundo (alvo faz SG Sabedoria: falha revela raciocínio, emoções e preocupações; sucesso encerra a magia; em ambos os casos, o alvo sabe que você sondou a mente dele).
+
+### DETECTAR VENENO E DOENÇA
+* Círculo/Escola: 1º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (folha de teixo) | Duração: Concentração, até 10 minutos
+* Efeito: Sente a presença e localização de venenos, criaturas venenosas e contágios mágicos a até 9m de você, identificando o tipo de cada um. Bloqueada por 30cm de pedra/terra/madeira, 2,5cm de metal ou folha fina de chumbo.
+
+### DISCO FLUTUANTE DE TENSER
+* Círculo/Escola: 1º Círculo, Conjuração (Ritual)
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (gota de mercúrio) | Duração: 1 hora
+* Efeito: Cria plano circular horizontal de energia (0,9m de diâmetro, 2,5cm de espessura) flutuando a 90cm do chão em espaço desocupado. Suporta até 250 kg (encerra e derruba tudo se excedido). Permanece imóvel a até 6m de você; se você se afastar mais de 6m, o disco segue você mantendo 6m de distância (contorna obstáculos, não cruza desníveis >3m; encerra se ficar a >30m de você).
+
+### DISFARÇAR-SE
+* Círculo/Escola: 1º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: 1 hora
+* Efeito: Altera sua aparência visual (incluindo roupas, armadura, armas e pertences), podendo variar altura em até 30cm (mantém estrutura básica de membros). Não resiste a inspeção física (tato). Criatura pode usar ação Analisar com teste de Inteligência (Investigação) vs sua CD para perceber a ilusão.
+
+### DISSIPAR MAGIA
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Escolhe 1 criatura, objeto ou efeito mágico no alcance. Todas as magias ativas de 3º círculo ou inferior no alvo encerram automaticamente. Para cada magia de 4º círculo ou superior, realiza teste de seu Atributo de Conjuração (CD 10 + círculo da magia); sucesso encerra a magia.
+* Círculo Superior: Encerra automaticamente qualquer magia no alvo cujo círculo seja igual ou inferior ao círculo do espaço de magia gasto.
+
+### DISSIPAR O BEM E O MAL
+* Círculo/Escola: 5º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (água benta ou pó de prata e ferro) | Duração: Concentração, até 1 minuto
+* Efeito: Celestiais, Elementais, Feéricos, Ínferos e Mortos-Vivos têm Desvantagem em jogadas de ataque contra você. Como ação Usar Magia, pode encerrar a magia antecipadamente para 1 efeito abaixo:
+  - Quebrar Encantamento: Toca 1 criatura -> encerra condição Amedrontado, Enfeitiçado ou possessão imposta por um dos tipos acima.
+  - Expulsão: Faz ataque mágico corpo a corpo contra 1 criatura dos tipos acima -> acerto força SG Carisma ou envia o alvo de volta ao plano natal dele (Mortos-Vivos vão para o Pendor das Sombras; Feéricos para a Faéria).
+
+### DOMINAR FERA
+* Círculo/Escola: 4º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: 1 Fera visível faz SG Sabedoria (com Vantagem se você ou aliados estiverem lutando contra ela) ou fica Enfeitiçada pela duração. Ligação telepática: emite comandos mentais sem ação; pode usar sua ação Usar Magia para assumir controle total e preciso até o fim do seu próximo turno (nesse caso, a Fera só faz o que você mandar e não usa Reação sem sua ordem). Sempre que o alvo sofrer dano, repete a SG Sabedoria para encerrar.
+* Círculo Superior: Concentração aumenta para 10 min (5º), 1 hora (6º) ou 8 horas (7º+).
+
+### DOMINAR MONSTRO
+* Círculo/Escola: 8º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura visível faz SG Sabedoria (com Vantagem se você ou aliados estiverem lutando contra ela) ou fica Enfeitiçada pela duração. Ligação telepática (mesmo plano): comandos gerais sem ação; ação Usar Magia assume controle total até o fim do próximo turno. Sempre que o alvo sofrer dano, repete a SG Sabedoria para encerrar.
+* Círculo Superior: 9º círculo aumenta a duração máxima da Concentração para 8 horas.
+
+### DOMINAR PESSOA
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: 1 Humanoide visível faz SG Sabedoria (com Vantagem se você ou aliados estiverem lutando contra ele) ou fica Enfeitiçado pela duração. Ligação telepática (mesmo plano): comandos gerais sem ação; ação Usar Magia assume controle total até o fim do próximo turno. Sempre que o alvo sofrer dano, repete a SG Sabedoria para encerrar.
+* Círculo Superior: Concentração aumenta para 10 min (6º), 1 hora (7º) ou 8 horas (8º+).
+
+### DUELO COMPELIDO
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação Bônus | Alcance: 9 m | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível faz SG Sabedoria ou fica compelida pela duração: tem Desvantagem em jogadas de ataque contra criaturas diferentes de você e deve passar em SG Sabedoria sempre que tentar mover-se voluntariamente para um espaço a mais de 9m de você. A magia encerra se você atacar/alvejá-la com magia prejudicial em outra criatura, se um aliado seu causar dano ou conjurar magia prejudicial no alvo, ou se você encerrar seu turno a mais de 9m do alvo.
+
+## LETRA E
+
+### ELEMENTALISMO
+* Círculo/Escola: Truque, Transmutação
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Cria 1 efeito elemental menor em ponto no alcance:
+  - Acenar Ar: Brisa em Cubo de 1,5m move folhas, poeira e objetos soltos leves.
+  - Acenar Terra: Poeira/areia cobre ou limpa área de 1,5m², ou escreve 1 palavra curta em terra/areia.
+  - Acenar Fogo: Nuvem fina de brasas/fumaça em Cubo de 1,5m acende vela/tocha/fogueira.
+  - Acenar Água: Névoa fria umedece objetos em Cubo de 1,5m ou cria 1 xícara de água limpa (evapora em 1 min).
+  - Esculpir Elemento: Molda terra, areia, fogo, fumaça, névoa ou água em Cubo de 30cm por 1 hora.
+
+### EMARANHAR
+* Círculo/Escola: 1º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Plantas brotam no chão em um quadrado de 6m de lado (Terreno Difícil pela duração). Cada criatura na área no momento da conjuração faz SG Força ou fica Contida até a magia encerrar. Uma criatura Contida pode usar sua ação para fazer teste de Força (Atletismo) vs sua CD para se libertar.
+
+### ENCARNAÇÃO FANTASMAGÓRICA
+* Círculo/Escola: 9º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Esfera de 9m de raio em ponto no alcance. Cada criatura na área faz SG Sabedoria -> falha: sofre 10d10 de dano Psíquico e fica Amedrontada pela duração; sucesso: metade do dano e não fica Amedrontada. No fim de cada turno dela, uma criatura Amedrontada repete a SG Sabedoria: falha = 5d10 de dano Psíquico; sucesso = magia encerra nela.
+
+### ENCONTRAR ARMADILHAS
+* Círculo/Escola: 2º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Sente a presença de qualquer armadilha (mecanismo artificial ou mágico criado para causar dano/perigo) dentro do alcance e na sua linha de visão. Revela apenas que há armadilha(s) e a natureza geral do perigo, não a localização exata.
+
+### ENCONTRAR O CAMINHO
+* Círculo/Escola: 6º Círculo, Adivinhação
+* Conjuração: 1 minuto | Alcance: Pessoal | Componentes: V, S, M (conjunto de ferramentas de adivinhação de 100+ PO e objeto do local de destino) | Duração: Concentração, até 1 dia
+* Efeito: Escolhe 1 local específico e familiar no mesmo plano de existência. Enquanto estiver no mesmo plano, sabe a distância e direção exatas até o destino e, ao encontrar bifurcações, sabe automaticamente qual rota é a mais curta e direta.
+
+### ENFEITIÇAR MONSTRO
+* Círculo/Escola: 4º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: 1 hora
+* Efeito: 1 criatura visível faz SG Sabedoria (com Vantagem se você ou aliados estiverem lutando contra ela) ou fica Enfeitiçada por você pela duração (ou até você/aliados causarem dano a ela). O alvo torna-se Amigável com você; ao encerrar, sabe que foi enfeitiçado.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 4º.
+
+### ENFEITIÇAR PESSOA
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: 1 hora
+* Efeito: 1 Humanoide visível faz SG Sabedoria (com Vantagem se você ou aliados estiverem lutando contra ele) ou fica Enfeitiçado por você pela duração (ou até você/aliados causarem dano a ele). O alvo torna-se Amigável com você; ao encerrar, sabe que foi enfeitiçado.
+* Círculo Superior: Alveja +1 Humanoide adicional por círculo acima do 1º.
+
+### ESCALADA DE ARANHA
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (gota de betume e uma aranha) | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura voluntária tocada ganha Deslocamento de Escalada igual ao seu Deslocamento e pode mover-se por superfícies verticais e de cabeça para baixo em tetos deixando as mãos livres.
+* Círculo Superior: Alveja +1 criatura voluntária adicional por círculo acima do 2º.
+
+### ESCRITA ILUSÓRIA
+* Círculo/Escola: 1º Círculo, Ilusão (Ritual)
+* Conjuração: 1 minuto | Alcance: Toque | Componentes: S, M (tinta à base de chumbo de 10+ PO, consumida) | Duração: 10 dias
+* Efeito: Escreve mensagem em pergaminho/papel. Apenas você e criaturas designadas no momento da conjuração leem o texto real; demais criaturas veem escrita incompreensível ou uma mensagem alternativa escrita por você (Visão Verdadeira revela a mensagem oculta).
+
+### ESCUDO ARCANO
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Reação (ao ser atingido por jogada de ataque ou alvejado pela magia Mísseis Mágicos) | Alcance: Pessoal | Componentes: V, S | Duração: 1 rodada
+* Efeito: Até o início do seu próximo turno, recebe +5 na CA (incluindo contra o ataque desencadeador) e não sofre dano da magia Mísseis Mágicos.
+
+### ESCUDO ARDENTE
+* Círculo/Escola: 4º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (pouco de fósforo ou vaga-lume) | Duração: 10 minutos
+* Efeito: Chamas envolvem seu corpo (Luz Plena 3m, Meia-luz +3m; pode encerrar sem ação). Escolhe 1 tipo:
+  - Escudo Quente: Resistência a dano Gélido. Sempre que criatura a até 1,5m atingir você com ataque corpo a corpo, ela sofre 2d8 de dano Ígneo.
+  - Escudo Frio: Resistência a dano Ígneo. Sempre que criatura a até 1,5m atingir você com ataque corpo a corpo, ela sofre 2d8 de dano Gélido.
+
+### ESCUDO DA FÉ
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Ação Bônus | Alcance: 18 m | Componentes: V, S, M (pergaminho com texto sagrado) | Duração: Concentração, até 10 minutos
+* Efeito: 1 criatura à escolha no alcance recebe bônus de +2 na CA pela duração.
+
+### ESCURIDÃO
+* Círculo/Escola: 2º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, M (pelo de morcego e pedaço de carvão) | Duração: Concentração, até 10 minutos
+* Efeito: Esfera de 4,5m de raio de Escuridão mágica em ponto no alcance (ou em objeto não vestido/carregado por outra criatura; cobrir o objeto bloqueia a escuridão). Visão no Escuro não enxerga através dela e luz não mágica não a ilumina. Dissipa qualquer magia de luz de 2º círculo ou inferior que se sobreponha à área.
+
+### ESFERA CONGELANTE DE OTILUKE
+* Círculo/Escola: 6º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 90 m | Componentes: V, S, M (esfera de cristal em miniatura) | Duração: Instantânea
+* Efeito: Globo explode em Esfera de 18m de raio em ponto no alcance. Cada criatura na área faz SG Constituição -> falha: 10d6 de dano Gélido; sucesso: metade. Congela superfície aquática (quadrado de 9m, 15cm de espessura por 1 min), prendendo criaturas na superfície (ação + Força [Atletismo] vs sua CD para escapar).
+  - Opção Retida: Pode reter o globo na mão (ou passar a outra criatura) por até 1 minuto; arremessá-lo (12m) ou dispará-lo de funda detona a esfera no impacto (ou detona automaticamente após 1 min).
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 6º.
+
+### ESFERA FLAMEJANTE
+* Círculo/Escola: 2º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (bola de cera) | Duração: Concentração, até 1 minuto
+* Efeito: Cria esfera de fogo de 1,5m de diâmetro em espaço desocupado (Luz Plena 6m, Meia-luz +6m; incendeia inflamáveis não vestidos/carregados). Qualquer criatura que encerre seu turno a até 1,5m da esfera faz SG Destreza -> falha: 2d6 de dano Ígneo; sucesso: metade.
+  - Mover/Atropelar: Como Ação Bônus no seu turno, move a esfera até 9m (salta barreiras de até 1,5m e fossos de até 3m). Se colidir com uma criatura, ela faz a SG Destreza imediatamente e a esfera para o movimento neste turno.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 2º.
+
+### ESFERA RESILIENTE DE OTILUKE
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (esfera de vidro) | Duração: Concentração, até 1 minuto
+* Efeito: Envolve 1 criatura ou objeto Grande ou menor em esfera de energia transparente (criatura involuntária faz SG Destreza). Nada físico, ataque ou efeito mágico passa de fora para dentro ou de dentro para fora (permite respirar). A esfera é imune a todo dano. Criatura dentro pode rolar a esfera à metade do seu Deslocamento; criatura fora pode empurrar/levantar a esfera sem peso.
+
+### ESFERA VITRIÓLICA
+* Círculo/Escola: 4º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S, M (gota de bile de lesma gigante) | Duração: Instantânea
+* Efeito: Esfera de 6m de raio em ponto no alcance. Cada criatura na área faz SG Destreza -> falha: sofre 10d4 de dano Ácido imediatamente e +5d4 de dano Ácido no final do próximo turno dela; sucesso: sofre metade do dano inicial e nenhum dano adicional.
+* Círculo Superior: Dano inicial aumenta em +2d4 por círculo acima do 4º.
+
+### ESPADA DE MORDENKAINEN
+* Círculo/Escola: 7º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (espada de platina em miniatura de 250+ PO) | Duração: Concentração, até 1 minuto
+* Efeito: Cria espada espectral flutuante em ponto no alcance. Ao conjurar, faz 1 ataque mágico corpo a corpo contra alvo a até 1,5m dela: acerto = 4d12 + Mod. Atributo de Conjuração de dano Energético. Como Ação Bônus nos turnos seguintes, move a espada até 9m e repete o ataque contra 1 alvo a até 1,5m dela.
+
+### ESPINHO MENTAL
+* Círculo/Escola: 2º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: S | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura visível faz SG Sabedoria -> falha: 3d8 de dano Psíquico; sucesso: metade. Em caso de falha, você sabe sempre a localização exata do alvo enquanto estiverem no mesmo plano de existência, e ele não pode se esconder de você (nem se beneficiar de Invisível contra você).
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 2º.
+
+### ESQUENTAR METAL
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (pedaço de ferro e uma chama) | Duração: Concentração, até 1 minuto
+* Efeito: Escolhe 1 objeto de metal manufaturado visível no alcance (ex: arma ou armadura). Ao conjurar e como Ação Bônus nos turnos seguintes, qualquer criatura em contato físico com o objeto sofre 2d8 de dano Ígneo. Se a criatura segurar ou vestir o objeto e sofrer o dano, faz SG Constituição ou deve largar o objeto se puder; se não largar, tem Desvantagem em jogadas de ataque e testes de atributo até o início do seu próximo turno.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 2º.
+
+### ESTÁTICA SINÁPTICA
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Esfera de 6m de raio em ponto no alcance. Cada criatura na área faz SG Inteligência -> falha: 8d6 de dano Psíquico; sucesso: metade. Em falha, se a criatura tiver Inteligência >= 3, seus pensamentos ficam embaralhados por 1 minuto: subtrai 1d6 de todas as jogadas de ataque, testes de atributo e salvaguardas de Constituição para manter Concentração. No fim de cada turno dela, repete SG Inteligência para encerrar.
+
+### EXPLOSÃO ELEMENTAL
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Ataque mágico à distância contra 1 criatura ou objeto no alcance. Escolhe tipo de dano: Ácido, Elétrico, Gélido, Ígneo, Psíquico, Trovejante ou Venenoso. Acerto: 1d8 de dano do tipo escolhido. Se obtiver 8 em qualquer d8 desta magia, joga 1d8 adicional e soma ao dano (limite de d8s adicionais por conjuração = Mod. Atributo de Conjuração, mín. 1).
+* Aprimoramento de Truque: Dano base aumenta para 2d8 (Nv 5), 3d8 (Nv 11) e 4d8 (Nv 17).
+
+### EXPLOSÃO SOLAR
+* Círculo/Escola: 8º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S, M (pedaço de pedra-do-sol) | Duração: Instantânea
+* Efeito: Esfera de 18m de raio de luz solar brilhante em ponto no alcance (dissipa Escuridão mágica na área). Cada criatura na área faz SG Constituição (Mortos-Vivos e Limos têm Desvantagem) -> falha: 12d6 de dano Radiante e fica Cega por 1 minuto (repete SG Constituição no fim de cada turno dela para encerrar); sucesso: metade do dano e não fica Cega.

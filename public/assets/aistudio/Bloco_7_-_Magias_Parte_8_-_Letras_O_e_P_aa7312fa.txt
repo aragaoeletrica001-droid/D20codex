@@ -1,0 +1,258 @@
+# BLOCO 7: MAGIAS - PARTE 8 (LETRAS O E P)
+
+## LETRA O
+
+### OLHO ARCANO
+* Círculo/Escola: 4º Círculo, Adivinhação
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (pouco de pelo de morcego) | Duração: Concentração, até 1 hora
+* Efeito: Cria olho mágico invisível flutuante em ponto no alcance (Visão no Escuro 9m; envia visão mentalmente a você). Como Ação Bônus no seu turno, move o olho até 9m em qualquer direção (pode atravessar aberturas de até 2,5cm de diâmetro; não atravessa barreiras sólidas). Não há limite de distância máxima entre você e o olho, desde que permaneçam no mesmo plano de existência.
+
+### ONDA DESTRUTIVA
+* Círculo/Escola: 5º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V | Duração: Instantânea
+* Efeito: Cada criatura à escolha na Emanação faz SG Constituição -> falha: 5d6 de dano Trovejante + 5d6 de dano Necrótico ou Radiante (à escolha ao conjurar) e fica Caída; sucesso: metade do dano e não fica Caída.
+
+### ONDA TROVEJANTE
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Cubo de 4,5 m) | Componentes: V, S | Duração: Instantânea
+* Efeito: Estrondo audível a até 90m. Cada criatura no Cubo faz SG Constituição -> falha: 2d8 de dano Trovejante e é empurrada 3m para longe de você; sucesso: metade do dano e não é empurrada. Objetos soltos inteiramente no Cubo também são empurrados 3m para longe de você.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 1º.
+
+### ORAÇÃO DE CURA
+* Círculo/Escola: 2º Círculo, Abjuração
+* Conjuração: 10 minutos | Alcance: 9 m | Componentes: V | Duração: Instantânea
+* Efeito: Até 5 criaturas visíveis à escolha no alcance (que não sejam Constructos ou Mortos-Vivos) ganham os benefícios de um Descanso Curto e recuperam 2d8 PV adicionais. Uma criatura não pode ser afetada por esta magia novamente até completar um Descanso Longo.
+* Círculo Superior: Cura adicional aumenta em +1d8 por círculo acima do 2º.
+
+### ORBE CROMÁTICO
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (diamante de 50+ PO) | Duração: Instantânea
+* Efeito: Arremessa orbe de energia em 1 criatura ou objeto no alcance (ataque mágico à distância). Escolhe tipo de dano: Ácido, Elétrico, Gélido, Ígneo, Trovejante ou Venenoso. Acerto: 3d8 de dano do tipo escolhido. Se obtiver o mesmo número em dois ou mais d8s da jogada de dano, o orbe salta para outro alvo (criatura ou objeto) à escolha a até 9m do alvo anterior, realizando nova jogada de ataque e dano (máximo de saltos = círculo do espaço gasto; cada criatura só pode ser alvo 1 vez por conjuração).
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 1º (e aumenta o limite máximo de saltos).
+
+### ORIENTAÇÃO
+* Círculo/Escola: Truque, Adivinhação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Toca 1 criatura voluntária e escolhe 1 perícia. Pela duração, o alvo pode somar 1d4 a qualquer teste de atributo realizado usando a perícia escolhida (1x por teste, antes ou depois de rolar o d20). A magia encerra imediatamente após o bônus ser usado.
+
+## LETRA P
+
+### PADRÃO HIPNÓTICO
+* Círculo/Escola: 3º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: S, M (vareta de incenso ou frasco de cristal com material fosforescente) | Duração: Concentração, até 1 minuto
+* Efeito: Cria padrão de luzes coloridas em um Cubo de 9m no alcance. Cada criatura na área que possa ver o padrão faz SG Sabedoria (passa automaticamente se imune a Enfeitiçado) -> falha: fica Enfeitiçada, Incapacitada e com Deslocamento = 0 pela duração. A magia encerra em uma criatura afetada se ela sofrer qualquer dano ou se outra criatura usar uma ação para sacudi-la e despertá-la.
+
+### PALAVRA CURATIVA
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Ação Bônus | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: 1 criatura visível à escolha no alcance recupera 2d4 + Mod. Atributo de Conjuração em PV.
+* Círculo Superior: Cura aumenta em +2d4 por círculo acima do 1º.
+
+### PALAVRA CURATIVA EM MASSA
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação Bônus | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: Até 6 criaturas visíveis à escolha no alcance recuperam 2d4 + Mod. Atributo de Conjuração em PV.
+* Círculo Superior: Cura aumenta em +1d4 por círculo acima do 3º.
+
+### PALAVRA DE PODER: ATORDOAR
+* Círculo/Escola: 8º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: 1 criatura visível no alcance. Se o alvo tiver 150 PV ou menos, fica Atordoado; caso contrário, não há efeito. No fim de cada turno dela, a criatura Atordoada faz SG Constituição para encerrar a condição.
+
+### PALAVRA DE PODER: CURAR
+* Círculo/Escola: 9º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: 1 criatura visível no alcance recupera todos os seus PV. Se o alvo estiver Amedrontado, Atordoado, Cego, Enfeitiçado, Paralisado ou Surdo, essas condições encerram nele; se estiver Caído, pode usar sua Reação para levantar-se.
+
+### PALAVRA DE PODER: FORTIFICAR
+* Círculo/Escola: 7º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: Distribui até 120 Pontos de Vida Temporários divididos à escolha entre até 6 criaturas visíveis no alcance. Qualquer criatura que receba PVT desta magia também encerra as condições Amedrontado e Enfeitiçado em si.
+
+### PALAVRA DE PODER: MATAR
+* Círculo/Escola: 9º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V | Duração: Instantânea
+* Efeito: 1 criatura visível no alcance. Se o alvo tiver 100 PV ou menos, morre instantaneamente; caso contrário, sofre 12d12 de dano Psíquico.
+
+### PALAVRA DE RECORDAÇÃO
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 1,5 m | Componentes: V | Duração: Instantânea
+* Efeito: Você e até 5 criaturas voluntárias a até 1,5m teleportam instantaneamente para um santuário previamente designado por você (consagrado à sua divindade; surgem nos espaços desocupados mais próximos ao ponto designado, no mesmo plano de existência).
+
+### PALAVRA DIVINA
+* Círculo/Escola: 7º Círculo, Evocação
+* Conjuração: 1 Ação Bônus | Alcance: 9 m | Componentes: V | Duração: Instantânea
+* Efeito: Cada criatura à escolha visível no alcance faz SG Carisma. Falha: sofre efeito cumulativo baseado nos PV atuais do alvo:
+  - 50 PV ou menos: Surdo por 1 minuto.
+  - 40 PV ou menos: Surdo e Cego por 10 minutos.
+  - 30 PV ou menos: Cego, Surdo e Atordoado por 1 hora.
+  - 20 PV ou menos: Morre instantaneamente.
+  - Extraplanares: Independentemente dos PV atuais, qualquer Celestial, Elemental, Feérico ou Ínfero que falhar na SG é banido de volta ao plano natal por 24 horas (a menos que já esteja em seu plano natal).
+
+### PALAVRA RADIANTE
+* Círculo/Escola: Truque, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 1,5 m) | Componentes: V, M (Símbolo Sagrado) | Duração: Instantânea
+* Efeito: Cada criatura à escolha na Emanação faz SG Constituição ou sofre 1d6 de dano Radiante.
+* Aprimoramento de Truque: Dano aumenta para 2d6 (Nv 5), 3d6 (Nv 11) e 4d6 (Nv 17).
+
+### PARALISAR MONSTRO
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (pequeno pedaço reto de ferro) | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível no alcance faz SG Sabedoria ou fica Paralisada pela duração. No fim de cada turno dela, repete a SG Sabedoria para encerrar.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 5º (a até 9m umas das outras).
+
+### PARALISAR PESSOA
+* Círculo/Escola: 2º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (pequeno pedaço reto de ferro) | Duração: Concentração, até 1 minuto
+* Efeito: 1 Humanoide visível no alcance faz SG Sabedoria ou fica Paralisado pela duração. No fim de cada turno dele, repete a SG Sabedoria para encerrar.
+* Círculo Superior: Alveja +1 Humanoide adicional por círculo acima do 2º (a até 9m uns dos outros).
+
+### PARAR O TEMPO
+* Círculo/Escola: 9º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Interrompe o fluxo do tempo para todas as outras criaturas. Você recebe 1d4 + 1 turnos seguidos imediatamente, durante os quais pode agir e mover-se normalmente. A magia encerra antecipadamente se qualquer ação sua ou efeito criado por você afetar uma criatura diferente de você ou um objeto vestido/carregado por outra criatura, ou se você se mover para um local a mais de 300m de onde conjurou a magia.
+
+### PASSO ARBÓREO
+* Círculo/Escola: 5º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Ganha a habilidade de entrar em uma árvore (viva, de tamanho igual ou maior ao seu) gastando 1,5m de movimento e sair instantaneamente por outra árvore do mesmo tipo a até 150m (sentindo a localização de todas as árvores elegíveis nesse raio). Pode usar esse transporte 1x por turno pela duração.
+
+### PASSO NEBULOSO
+* Círculo/Escola: 2º Círculo, Conjuração
+* Conjuração: 1 Ação Bônus | Alcance: Pessoal | Componentes: V | Duração: Instantânea
+* Efeito: Você teleporta até 9m para um espaço desocupado que possa ver.
+
+### PASSO SEM RASTRO
+* Círculo/Escola: 2º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V, S, M (cinzas de folha de visco queimada) | Duração: Concentração, até 1 hora
+* Efeito: Você e cada criatura à escolha na Emanação recebem bônus de +10 em testes de Destreza (Furtividade) e não deixam rastros ou pegadas não mágicos (não podem ser rastreados, exceto por meios mágicos).
+
+### PASSOS LARGOS
+* Círculo/Escola: 1º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pitada de terra) | Duração: 1 hora
+* Efeito: O Deslocamento de 1 criatura tocada aumenta em +3m pela duração.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 1º.
+
+### PELE DE ÁRVORE
+* Círculo/Escola: 2º Círculo, Transmutação
+* Conjuração: 1 Ação Bônus | Alcance: Toque | Componentes: V, S, M (punhado de casca de carvalho) | Duração: 1 hora
+* Efeito: 1 criatura voluntária tocada tem sua pele enrijecida como casca de árvore; sua CA passa a ser no mínimo 17 (independentemente da armadura que estiver vestindo).
+
+### PELE-ROCHA
+* Círculo/Escola: 4º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (pó de diamante de 100+ PO, consumido) | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura voluntária tocada ganha Resistência a dano Contundente, Cortante e Perfurante pela duração.
+
+### PEQUENO REFÚGIO DE LEOMUND
+* Círculo/Escola: 3º Círculo, Evocação (Ritual)
+* Conjuração: 1 minuto | Alcance: Pessoal (Emanação de 3 m) | Componentes: V, S, M (pequena conta de cristal) | Duração: 8 horas
+* Efeito: Cria domo imóvel de energia ao redor de você e até 9 criaturas Médias ou menores (encerra se você sair da área). Criaturas que estavam dentro ao conjurar entram e saem livremente; outras criaturas e objetos não atravessam. Magias e efeitos mágicos não passam através do domo, mas o ambiente interno é confortável e seco; opaco pelo lado de fora, transparente por dentro.
+
+### PERDIÇÃO
+* Círculo/Escola: 1º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (gota de sangue) | Duração: Concentração, até 1 minuto
+* Efeito: Até 3 criaturas visíveis à escolha no alcance fazem SG Carisma -> falha: subtraem 1d4 de qualquer jogada de ataque ou salvaguarda que realizarem pela duração.
+* Círculo Superior: Alveja +1 criatura adicional por círculo acima do 1º.
+
+### PISCAR
+* Círculo/Escola: 3º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: 1 minuto
+* Efeito: No final de cada um dos seus turnos pela duração, joga 1d20: em resultado >= 11, você desaparece do plano atual e surge no Plano Etéreo (falha se já estiver lá). No início do seu próximo turno, retorna em um espaço desocupado visível a até 3m do local de onde desapareceu (ou espaço desocupado mais próximo). Enquanto no Plano Etéreo, vê e ouve o plano original em tons de cinza (18m) e só afeta/é afetado por criaturas lá.
+
+### POLIMORFIA
+* Círculo/Escola: 4º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (casulo de lagarta) | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura visível no alcance (alvo involuntário faz SG Sabedoria; Metamorfo passa automaticamente) transforma-se em uma Fera à escolha com ND igual ou inferior ao nível ou ND do alvo. Assume as estatísticas da Fera (mantendo alinhamento, personalidade, Pontos de Vida e Dados de Vida), ganha Pontos de Vida Temporários iguais aos PV da Fera (a magia encerra se perder todos os PVT), não pode falar nem conjurar magias e seu equipamento funde-se à nova forma.
+
+### POLIMORFIA TOTAL
+* Círculo/Escola: 9º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S, M (gota de mercúrio, glóbulo de goma-arábica e tufo de fumaça) | Duração: Concentração, até 1 hora
+* Efeito: Transforma 1 criatura visível ou objeto não mágico não vestido/carregado (alvo involuntário faz SG Sabedoria; Metamorfo passa automaticamente). Se mantiver Concentração pelo 1 hora completo, a transformação torna-se permanente até ser dissipada:
+  - Criatura em Criatura: Qualquer tipo com ND igual ou inferior ao nível/ND do alvo (assume estatísticas e ganha PVT iguais aos PV da forma; encerra ao perder os PVT antes de se tornar permanente).
+  - Objeto em Criatura: Objeto Enorme ou menor vira criatura de ND <= 9 (Amigável com você durante a Concentração; age livremente após).
+  - Criatura em Objeto: Transforma criatura e tudo que veste/carrega em objeto não mágico (sem memória do período; retorna com PV anteriores ao fim da magia).
+
+### PORTA DIMENSIONAL
+* Círculo/Escola: 4º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 150 m | Componentes: V | Duração: Instantânea
+* Efeito: Você teleporta de sua posição atual para qualquer outro local no alcance (pode visualizar, imaginar ou indicar direção e distância). Pode levar consigo objetos dentro da sua Capacidade de Carga e 1 criatura voluntária do seu tamanho ou menor (que também carregue até a própria capacidade) adjacente a você a até 1,5m. Se o destino estiver ocupado, você e o passageiro sofrem 4d6 de dano Energético cada e o teleporte falha.
+
+### PORTAIS ARCANOS
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 150 m | Componentes: V, S | Duração: Concentração, até 10 minutos
+* Efeito: Cria 2 portais circulares interligados (3m de diâmetro) suspensos perpendicularmente ao chão em pontos desocupados visíveis no alcance (pode girar a orientação como Ação Bônus). Qualquer criatura ou objeto que entrar em um portal sai pelo outro como se os dois espaços fossem adjacentes (atravessar um lado específico definido pelo conjurador).
+
+### PORTAL
+* Círculo/Escola: 9º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (diamante de 5.000+ PO) | Duração: Concentração, até 1 minuto
+* Efeito: Abre portal circular (1,5m a 6m de diâmetro) conectando o espaço visível no alcance a um local específico em outro plano de existência (divindades e senhores planares podem impedir a abertura em seus domínios). Qualquer criatura que atravessar o portal surge no espaço desocupado mais próximo do destino. Ao conjurar, pode pronunciar o nome de uma criatura específica de outro plano para puxá-la através do portal para o espaço desocupado mais próximo a você (sem salvaguarda).
+
+### PRAGA DE INSETOS
+* Círculo/Escola: 5º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 90 m | Componentes: V, S, M (poucos grãos de açúcar, grãos de cereais e mancha de gordura) | Duração: Concentração, até 10 minutos
+* Efeito: Enxame de gafanhotos preenche Esfera de 6m de raio em ponto no alcance (área Levemente Obscurecida e Terreno Difícil). Quando a área surge ou quando uma criatura entra nela pela 1ª vez no turno ou encerra seu turno nela (máx. 1x/turno por criatura), faz SG Constituição -> falha: 4d10 de dano Perfurante; sucesso: metade.
+* Círculo Superior: Dano aumenta em +1d10 por círculo acima do 5º.
+
+### PRESENÇA RÉGIA DE YOLANDE
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 3 m) | Componentes: V, S, M (tiara em miniatura) | Duração: Concentração, até 1 minuto
+* Efeito: Aura majestosa envolve você pela duração. Sempre que a Emanação entrar no espaço de uma criatura ou uma criatura entrar na Emanação pela 1ª vez no turno ou encerrar seu turno nela (máx. 1x/turno por criatura), faz SG Sabedoria -> falha: sofre 4d6 de dano Psíquico, cai Caída e só pode se levantar usando sua Ação; sucesso: metade do dano e não cai Caída.
+
+### PRESSÁGIO
+* Círculo/Escola: 4º Círculo, Adivinhação (Ritual)
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (incenso e oferta sacrificial de 25+ PO, consumidos) | Duração: Instantânea
+* Efeito: Faz 1 pergunta à sua divindade ou servidores sobre um objetivo, evento ou atividade específica que ocorrerá dentro de 7 dias; recebe resposta verídica (frase curta, rima críptica ou presságio). 25% de chance cumulativa de resposta aleatória a cada conjuração adicional antes de um Descanso Longo.
+
+### PRESTIDIGITAÇÃO ARCANA
+* Círculo/Escola: Truque, Transmutação
+* Conjuração: 1 Ação | Alcance: 3 m | Componentes: V, S | Duração: Até 1 hora
+* Efeito: Cria 1 efeito mágico menor (até 3 efeitos não instantâneos simultâneos; encerra efeito como Ação Bônus): efeito sensorial inofensivo instantâneo; acender ou apagar vela, tocha ou fogueira pequena; limpar ou sujar objeto em Cubo de 30cm; esfriar, aquecer ou temperar matéria não viva em Cubo de 30cm por 1h; fazer cor, marca ou símbolo aparecer em objeto/superfície por 1h; criar bugiganga não mágica ou imagem ilusória cabível na mão até o fim do seu próximo turno.
+
+### PROJEÇÃO ASTRAL
+* Círculo/Escola: 9º Círculo, Necromancia
+* Conjuração: 1 hora | Alcance: 3 m | Componentes: V, S, M (1 jacinto de 1.000+ PO e 1 barra de prata esculpida de 100+ PO por criatura, consumidos) | Duração: Até ser dissipada
+* Efeito: Você e até 8 criaturas voluntárias no alcance projetam seus corpos astrais para o Plano Astral (corpos físicos ficam inconscientes em animação suspensa sem envelhecer nem precisar comer/respirar). O corpo astral leva cópias astrais do equipamento, conecta-se ao corpo físico por cordão prateado invisível e viaja livremente pelo Plano Astral e portais para outros planos (materializando novo corpo físico no destino conectado pelo cordão). Se o cordão for cortado (raríssimo) ou o corpo físico morrer, a alma morre; se o corpo astral cair a 0 PV, a magia encerra no alvo e ele desperta no corpo físico.
+
+### PROJETAR IMAGEM
+* Círculo/Escola: 7º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: 800 km | Componentes: V, S, M (pequena réplica sua de 5+ PO) | Duração: Concentração, até 1 dia
+* Efeito: Cria cópia ilusória intangível e idêntica a você em local já visto anteriormente no alcance. Como ação Usar Magia no seu turno, move a cópia até 18m, faz gestos/fala e enxerga/ouve pelos sentidos dela como se estivesse lá (alterando entre seus sentidos e os dela como Ação Bônus). Qualquer dano físico que a cópia sofreria a destrói e encerra a magia; criatura pode usar ação Analisar com Inteligência (Investigação) vs sua CD para discernir (objetos passam através).
+
+### PROTEÇÃO CONTRA A MORTE
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: 8 horas
+* Efeito: Toca 1 criatura voluntária. Na 1ª vez em que o alvo cairia a 0 PV como resultado de sofrer dano, ele cai para 1 PV em vez disso e a magia encerra. Se o alvo for submetido a um efeito que o mataria instantaneamente sem causar dano, esse efeito é anulado no alvo e a magia encerra.
+
+### PROTEÇÃO CONTRA ENERGIA
+* Círculo/Escola: 3º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: 1 criatura voluntária tocada ganha Resistência a 1 tipo de dano à escolha pela duração: Ácido, Elétrico, Gélido, Ígneo ou Trovejante.
+
+### PROTEÇÃO CONTRA LÂMINAS
+* Círculo/Escola: Truque, Abjuração
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Sempre que uma criatura realizar uma jogada de ataque contra você antes do fim da magia, o atacante subtrai 1d4 da jogada de ataque.
+
+### PROTEÇÃO CONTRA O BEM E O MAL
+* Círculo/Escola: 1º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (frasco de água benta de 25+ PO, consumido) | Duração: Concentração, até 10 minutos
+* Efeito: 1 criatura voluntária tocada fica protegida contra Aberrações, Celestiais, Elementais, Feéricos, Ínferos e Mortos-Vivos: criaturas desses tipos têm Desvantagem em jogadas de ataque contra o alvo, e o alvo não pode ser Enfeitiçado, Amedrontado ou possuído por elas (se já estiver, tem Vantagem em novas SGs contra o efeito).
+
+### PROTEÇÃO CONTRA VENENO
+* Círculo/Escola: 2º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: 1 hora
+* Efeito: Toca 1 criatura; neutraliza o veneno nela (se houver) e encerra a condição Envenenado. Pela duração, o alvo tem Vantagem em salvaguardas para evitar ou encerrar a condição Envenenado e ganha Resistência a dano Venenoso.
+
+### PROTEGER FORTALEZA
+* Círculo/Escola: 6º Círculo, Abjuração
+* Conjuração: 10 minutos | Alcance: Toque | Componentes: V, S, M (incenso, enxofre, óleo, corda com nós, sangue de umber hulk e bastão de prata de 10+ PO) | Duração: 24 horas
+* Efeito: Protege área de até 230 m² (até 6m de altura; você e criaturas designadas são imunes). Conjurar todos os dias no mesmo local por 365 dias torna permanente. Efeitos na área:
+  - Corredores preenchidos por névoa (Visão = 1,5m).
+  - Todas as portas ficam trancadas magicamente (como Tranca Arcana) e disfarçadas como parede sólida.
+  - Teias preenchem todas as escadas (regeneram em 10 min se queimadas).
+  - Você escolhe 1 efeito extra: Luzes Dançantes em 4 corredores; Boca Encantada em 2 locais; Névoa Fétida em 2 locais; Lufada de Vento contínua em 1 corredor/sala; ou Sugestão em 1 local (quadrado de 1,5m).
+
+### PURIFICAR ALIMENTOS E BEBIDAS
+* Círculo/Escola: 1º Círculo, Transmutação (Ritual)
+* Conjuração: 1 Ação | Alcance: 3 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Toda comida e bebida não mágica em uma Esfera de 1,5m de raio centrada em ponto no alcance é purificada e livrada de venenos e contágios.

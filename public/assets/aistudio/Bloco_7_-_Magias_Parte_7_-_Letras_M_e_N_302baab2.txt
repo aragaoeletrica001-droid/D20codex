@@ -1,0 +1,203 @@
+# BLOCO 7: MAGIAS - PARTE 7 (LETRAS M E N)
+
+## LETRA M
+
+### MALOGRO
+* Círculo/Escola: 4º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: Instantânea
+* Efeito: 1 criatura visível no alcance (não afeta Constructos nem Mortos-Vivos) faz SG Constituição -> falha: 8d8 de dano Necrótico; sucesso: metade. Criaturas do tipo Planta têm Desvantagem na SG e sofrem o dano máximo possível. Plantas não mágicas (não criaturas) murcham e morrem instantaneamente.
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 4º.
+
+### MANSÃO MAGNÍFICA DE MORDENKAINEN
+* Círculo/Escola: 7º Círculo, Conjuração
+* Conjuração: 1 minuto | Alcance: 90 m | Componentes: V, S, M (portal de marfim em miniatura, pedaço de mármore polido e colher de prata, valendo 5+ PO cada) | Duração: 24 horas
+* Efeito: Cria portal invisível (1,5m larg x 3m alt) para espaço extradimensional mobiliado (planta definida pelo conjurador até 50 cubos de 3m de lado) com clima agradável e comida para 100 pessoas por 24h. Apenas você e criaturas designadas entram pelo portal aberto (pode abrir/fechar portal como Ação Bônus a até 9m). Contém 100 servos invisíveis e intangíveis que obedecem comandos simples (não atacam nem causam dano). Ao fim da magia, tudo dentro é ejetado em segurança para espaços desocupados próximos ao portal.
+
+### MANTO DO CRUZADO
+* Círculo/Escola: 3º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Emanação de 9 m) | Componentes: V | Duração: Concentração, até 1 minuto
+* Efeito: Aura de poder sagrado irradia de você pela duração. Enquanto estiver na Emanação, cada criatura não hostil (incluindo você) causa +1d4 de dano Radiante adicional sempre que acertar um ataque com arma ou Ataque Desarmado.
+
+### MÃO DE BIGBY
+* Círculo/Escola: 5º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (casca de ovo e luva de pele de cobra) | Duração: Concentração, até 1 minuto
+* Efeito: Cria mão Grande de energia translúcida em espaço desocupado visível (CA 20; PV = seus PV máximos; Força 26 [+8], Destreza 10 [+0]; não ocupa espaço). Ao conjurar e como Ação Bônus nos turnos seguintes, move a mão até 18m e executa 1 efeito:
+  - Punho Cerrado: Ataque mágico corpo a corpo (1,5m) usando suas estatísticas de conjuração -> acerto: 5d8 de dano Energético.
+  - Mão Poderosa: Tenta empurrar 1 criatura (Enorme ou menor) a até 1,5m da mão. Faz teste de Atributo de Conjuração com Vantagem vs Força (Atletismo) ou Destreza (Acrobacia) do alvo -> sucesso: empurra até (1,5 + 1,5 x Mod. Atributo de Conjuração) metros e a mão segue o alvo.
+  - Mão Agarradora: Tenta imobilizar 1 criatura (Enorme ou menor) a até 1,5m da mão. Faz teste de Atributo de Conjuração com Vantagem vs Força (Atletismo) ou Destreza (Acrobacia) do alvo -> sucesso: alvo fica Imobilizado (enquanto Imobilizado, usa Ação Bônus para esmagar causando 4d6 + Mod. Atributo de Conjuração de dano Contundente).
+  - Mão Interposta: Interpõe-se entre você e 1 criatura escolhida, concedendo Cobertura Parcial contra ela e tratando o espaço dela como Terreno Difícil para o alvo (se o alvo tiver Força <= 26, não pode atravessar o espaço da mão).
+* Círculo Superior: Dano de Punho Cerrado aumenta em +2d8 e dano de Mão Agarradora aumenta em +2d6 por círculo acima do 5º.
+
+### MÃOS FLAMEJANTES
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: Pessoal (Cone de 4,5 m) | Componentes: V, S | Duração: Instantânea
+* Efeito: Cada criatura no Cone faz SG Destreza -> falha: 3d6 de dano Ígneo; sucesso: metade. Objetos inflamáveis na área que não estejam vestidos/carregados entram em combustão.
+* Círculo Superior: Dano aumenta em +1d6 por círculo acima do 1º.
+
+### MÃOS MÁGICAS
+* Círculo/Escola: Truque, Conjuração
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: 1 minuto
+* Efeito: Cria mão espectral flutuante em ponto no alcance (desaparece se ficar a >9m de você ou ao reconjurar). Como ação Usar Magia, controla a mão: manipula objeto, abre porta/recipiente destrancado, guarda/retira item de recipiente aberto ou derrama conteúdo de frasco. Move a mão até 9m por uso. Não pode atacar, ativar itens mágicos nem carregar mais de 5 kg.
+
+### MARCA DO PREDADOR
+* Círculo/Escola: 1º Círculo, Adivinhação
+* Conjuração: 1 Ação Bônus | Alcance: 27 m | Componentes: V | Duração: Concentração, até 1 hora
+* Efeito: Marca 1 criatura visível no alcance como sua presa pela duração:
+  - Sempre que você a atingir com uma jogada de ataque usando uma arma, ela sofre +1d6 de dano Energético adicional.
+  - Tem Vantagem em testes de Sabedoria (Percepção ou Sobrevivência) para encontrá-la.
+  - Se o alvo cair a 0 PV antes do fim da magia, pode usar Ação Bônus em um turno subsequente para marcar uma nova criatura visível no alcance.
+* Círculo Superior: Duração máxima da Concentração aumenta para 8 horas (3º-4º círculo) ou 24 horas (5º círculo+).
+
+### MAU OLHADO
+* Círculo/Escola: 6º Círculo, Necromancia
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Ao conjurar e como ação Usar Magia nos turnos seguintes, alveja 1 criatura visível a até 18m -> SG Sabedoria ou sofre 1 efeito (nova criatura não pode ser alvo se já passou na SG contra esta conjuração):
+  - Adormecido: Fica Inconsciente pela duração (acorda se sofrer dano ou se outra criatura usar ação para sacudi-la).
+  - Em Pânico: Fica Amedrontada por você; em cada turno dela, deve executar a ação Correr para se afastar pela rota mais segura. Encerra se terminar turno em local sem linha de visão sua a >18m.
+  - Enfermo: Tem Desvantagem em jogadas de ataque e testes de atributo; no fim de cada turno dela, repete SG Sabedoria para encerrar.
+
+### MEDO
+* Círculo/Escola: 3º Círculo, Ilusão
+* Conjuração: 1 Ação | Alcance: Pessoal (Cone de 9 m) | Componentes: V, S, M (pena branca ou coração de galinha) | Duração: Concentração, até 1 minuto
+* Efeito: Cada criatura no Cone faz SG Sabedoria -> falha: larga tudo o que estiver segurando e fica Amedrontada pela duração. Enquanto Amedrontada por esta magia, deve executar a ação Correr e se afastar de você pela rota mais segura em cada turno dela (salvo se não houver para onde ir). Ao encerrar turno em local sem linha de visão sua, repete a SG Sabedoria para encerrar.
+
+### MENSAGEM
+* Círculo/Escola: Truque, Transmutação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: S, M (pedaço de fio de cobre) | Duração: 1 rodada
+* Efeito: Aponta para 1 criatura no alcance e sussurra mensagem ouvida apenas pelo alvo (pode responder com sussurro ouvido apenas por você). Pode conjurar através de objetos sólidos se conhecer o alvo e souber que está além da barreira (bloqueada por silêncio mágico, 30cm de pedra/terra/madeira, 2,5cm de metal ou folha fina de chumbo).
+
+### MESCLAR-SE ÀS ROCHAS
+* Círculo/Escola: 3º Círculo, Transmutação (Ritual)
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S | Duração: 8 horas
+* Efeito: Entra na pedra com tudo o que veste/carrega (requer volume de pedra suficiente para seu corpo). Enquanto fundido: não vê o exterior, testes de Sabedoria (Percepção) para ouvir fora têm Desvantagem, percebe a passagem do tempo e pode conjurar magias em si mesmo; usa movimento para sair onde entrou (encerra a magia). Dano físico menor à pedra não o fere, mas destruição parcial/total expele você e causa 6d6 ou 50 de dano Energético, respectivamente (caindo Caído).
+
+### METAMORFOSE
+* Círculo/Escola: 9º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Pessoal | Componentes: V, S, M (diadema de jade de 1.500+ PO) | Duração: Concentração, até 1 hora
+* Efeito: Transforma-se em qualquer criatura de ND igual ou inferior ao seu nível (não pode ser Constructo ou Morto-Vivo). Assume as estatísticas da nova forma (mantendo alinhamento, personalidade, Inteligência, Sabedoria, Carisma, proficiências e capacidade de falar/conjurar se a forma tiver mãos/fala) e ganha Pontos de Vida Temporários iguais aos PV da nova forma (reverte ao perder todos os PVT ou ao encerrar sem ação). Pode usar ação Usar Magia nos turnos seguintes para assumir outra forma elegível.
+
+### MIRAGEM ARCANA
+* Círculo/Escola: 7º Círculo, Ilusão
+* Conjuração: 10 minutos | Alcance: Visão | Componentes: V, S | Duração: 10 dias
+* Efeito: Transforma a aparência, sons, cheiros e textura tátil de terreno de até 1,6 km quadrado (inclui estruturas, terreno difícil/aberto, mas não disfarça/cria criaturas). Elementos ilusórios possuem substância física real (ex: pode escalar árvore ilusória ou caminhar sobre ponte ilusória). Criaturas com Visão Verdadeira enxergam a forma real através da ilusão, mas ainda interagem fisicamente com o terreno alterado.
+
+### MÍSSEIS MÁGICOS
+* Círculo/Escola: 1º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Instantânea
+* Efeito: Cria 3 dardos brilhantes de energia mágica. Cada dardo atinge automaticamente 1 criatura visível à escolha no alcance (podem mirar o mesmo alvo ou alvos diferentes; atingem simultaneamente) causando 1d4 + 1 de dano Energético por dardo.
+* Círculo Superior: Cria +1 dardo adicional por círculo acima do 1º.
+
+### MISSÃO
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 minuto | Alcance: 18 m | Componentes: V | Duração: 30 dias
+* Efeito: Compulsa 1 criatura visível no alcance (que o compreenda) a realizar ou abster-se de um serviço/atividade (não pode ordenar morte certa). Faz SG Sabedoria (passa automaticamente se imune a Enfeitiçado) ou fica Enfeitiçada pela duração. Enquanto Enfeitiçada, sofre 5d10 de dano Psíquico (máx. 1x/dia) sempre que agir de modo diretamente contrário às suas instruções. Encerra por Remover Maldição, Restauração Maior ou Desejo.
+* Círculo Superior: Duração aumenta para 1 ano (7º-8º círculo) ou Até ser dissipada (9º círculo).
+
+### MODIFICAR MEMÓRIA
+* Círculo/Escola: 5º Círculo, Encantamento
+* Conjuração: 1 Ação | Alcance: 9 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: 1 criatura visível faz SG Sabedoria (com Vantagem se você estiver lutando contra ela) ou fica Enfeitiçada e Incapacitada pela duração (se sofrer dano ou for alvo de outra magia, a magia encerra sem alterar memórias). Enquanto Enfeitiçada, você descreve verbalmente a alteração de até 10 minutos de memórias ocorridas nas últimas 24 horas (eliminar, alterar detalhes ou implantar memória falsa). Quando a magia encerra após a descrição, a alteração torna-se permanente (Removível por Remover Maldição ou Restauração Maior).
+* Círculo Superior: Altera memórias ocorridas há até 7 dias (6º), 30 dias (7º), 1 ano (8º) ou qualquer época da vida (9º).
+
+### MOLDAR ROCHAS
+* Círculo/Escola: 4º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (argila mole) | Duração: Instantânea
+* Efeito: Toca objeto de pedra Médio ou menor (ou seção de pedra de até 1,5m em qualquer dimensão) e molda-o em qualquer forma desejada (ex: abrir porta, criar arma rústica, selar passagem). Objetos criados não possuem mecanismos finos nem partes móveis complexas.
+
+### MONTARIA FANTASMAGÓRICA
+* Círculo/Escola: 3º Círculo, Ilusão (Ritual)
+* Conjuração: 1 minuto | Alcance: 9 m | Componentes: V, S | Duração: 1 hora
+* Efeito: Cria criatura quase-real Grande semelhante a cavalo (CA 10, 13 PV, Deslocamento 30m — viaja 16 km/h ou 21 km/h em ritmo acelerado) para você ou 1 criatura designada montar. Se sofrer qualquer dano, a magia encerra gradualmente ao longo de 1 minuto (permitindo desmontar em segurança).
+
+### MOVER TERRA
+* Círculo/Escola: 6º Círculo, Transmutação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (lâmina de ferro e pequeno saco com mistura de argila, marga e areia) | Duração: Concentração, até 2 horas
+* Efeito: Remodela terra, areia ou argila (não pedra sólida) em área de até 12m de lado no alcance. A cada 10 minutos mantendo Concentração, altera elevação, cria valas, diques ou pilares (mudanças ocorrem lentamente, sem prender ou causar dano direto a criaturas).
+
+### MOVIMENTAÇÃO LIVRE
+* Círculo/Escola: 4º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: Toque | Componentes: V, S, M (tira de couro amarrada ao braço) | Duração: 1 hora
+* Efeito: 1 criatura voluntária tocada torna-se imune a reduções de Deslocamento por Terreno Difícil, magias ou efeitos mágicos, e não pode ficar Paralisada nem Contida. Também pode gastar 1,5m de movimento para escapar automaticamente de amarras não mágicas ou da condição Imobilizado, e não sofre penalidades em ataques ou movimento debaixo d'água.
+* Círculo Superior: Alveja +1 criatura voluntária adicional por círculo acima do 4º.
+
+### MURALHA DE ENERGIA
+* Círculo/Escola: 5º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (pitada de pó de pedra preciosa clara) | Duração: Concentração, até 10 minutos
+* Efeito: Cria parede invisível e indestrutível de energia mágica (estende-se ao Plano Etéreo; imune a todo dano e a Dissipar Magia; destruída apenas por Desintegrar). Formatos: cúpula/esfera de até 3m de raio, ou superfície plana de até dez painéis de 3x3m contíguos (0,6cm de espessura). Nada físico atravessa a muralha. Se surgir cortando o espaço de uma criatura, empurra-a para um lado (à escolha do conjurador).
+
+### MURALHA DE ESPINHOS
+* Círculo/Escola: 6º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (punhado de espinhos) | Duração: Concentração, até 10 minutos
+* Efeito: Cria parede de arbustos espinhosos densos: reta (até 18m comp x 3m alt x 1,5m esp) ou círculo (até 6m diâmetro x 6m alt x 1,5m esp). Bloqueia linha de visão; cada 1,5m de movimento através dela custa 6m de deslocamento.
+  - Surgimento: Criatura no espaço da muralha faz SG Destreza -> falha: 7d8 de dano Perfurante; sucesso: metade (empurrada para fora da área).
+  - Travessia/Turno: Criatura que entrar na muralha pela 1ª vez no turno ou encerrar turno nela faz SG Destreza -> falha: 7d8 de dano Cortante; sucesso: metade.
+* Círculo Superior: Ambos os danos aumentam em +1d8 por círculo acima do 6º.
+
+### MURALHA DE FOGO
+* Círculo/Escola: 4º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (pedaço de fósforo) | Duração: Concentração, até 1 minuto
+* Efeito: Cria parede opaca de chamas: reta (até 18m comp x 6m alt x 0,3m esp) ou anel (até 6m diâmetro x 6m alt x 0,3m esp). Escolhe 1 lado da muralha para irradiar calor letal a até 3m:
+  - Surgimento: Criatura na área da muralha faz SG Destreza -> falha: 5d8 de dano Ígneo; sucesso: metade.
+  - Dano Contínuo: Qualquer criatura que encerre seu turno dentro da muralha ou a até 3m do lado escolhido sofre 5d8 de dano Ígneo (máx. 1x/turno).
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 4º.
+
+### MURALHA DE GELO
+* Círculo/Escola: 6º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (pedaço de quartzo) | Duração: Concentração, até 10 minutos
+* Efeito: Cria parede opaca de gelo: cúpula/esfera de até 3m de raio, ou até dez painéis planos de 3x3m (0,3m esp). Cada seção de 3x3m tem CA 12, 30 PV, Vulnerabilidade a dano Ígneo e Imunidade a Gélido, Psíquico e Venenoso.
+  - Surgimento: Criatura no espaço da muralha faz SG Destreza -> falha: 10d6 de dano Gélido; sucesso: metade (empurrada para fora).
+  - Ar Gélido (após destruir painel): Uma nuvem de ar congelante preenche o espaço do painel destruído; criatura que atravessar pela 1ª vez no turno faz SG Constituição -> falha: 5d6 de dano Gélido; sucesso: metade.
+* Círculo Superior: Dano inicial aumenta em +2d6 e dano do ar gélido aumenta em +1d6 por círculo acima do 6º.
+
+### MURALHA DE PEDRA
+* Círculo/Escola: 5º Círculo, Evocação
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S, M (pequeno bloco de granito) | Duração: Concentração, até 10 minutos
+* Efeito: Cria parede de pedra não mágica (10 painéis de 3x3m com 15cm de espessura, ou 10 painéis de 3x6m com 7,5cm de espessura; deve apoiar-se em pedra existente). Cada painel tem CA 15 e 30 PV por 2,5cm de espessura (Imune a Psíquico e Venenoso). Se surgir cercando uma criatura, ela faz SG Destreza para usar Reação e mover-se até seu Deslocamento para escapar. Se mantiver Concentração pelos 10 minutos completos, a muralha torna-se permanente.
+
+### MURALHA PRISMÁTICA
+* Círculo/Escola: 9º Círculo, Abjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S | Duração: 10 minutos
+* Efeito: Cria parede opaca de 7 camadas coloridas (reta de até 27m comp x 9m alt x 2,5cm esp, ou esfera de até 9m de diâmetro). Você e criaturas designadas atravessam ilesos. Qualquer outra criatura a até 6m que olhe para a parede faz SG Constituição ou fica Cega por 1 minuto. Criatura que tentar atravessar ou tocar sofre os efeitos de cada camada ativa em ordem (SG Destreza para metade do dano):
+  1. Vermelha: 12d6 Ígneo; bloqueia ataques à distância não mágicos; destruída por >= 25 de dano Gélido.
+  2. Laranja: 12d6 Ácido; bloqueia ataques à distância mágicos; destruída por vento forte (ex: Lufada de Vento).
+  3. Amarela: 12d6 Elétrico; destruída por >= 60 de dano Energético.
+  4. Verde: 12d6 Venenoso; destruída por Criar ou Destruir Água (ou magia similar).
+  5. Azul: 12d6 Gélido; destruída por >= 25 de dano Ígneo.
+  6. Índigo: SG Constituição -> falha: Contida; repete SG no fim de cada turno (3 sucessos encerra; 3 falhas impõe Petrificado permanentemente); bloqueia todas as magias; destruída por luz solar brilhante (ex: Luz do Dia).
+  7. Violeta: SG Sabedoria -> falha: Cega; repete SG no início do próximo turno (sucesso encerra; falha transporta para outro plano aleatório); destruída por Dissipar Magia.
+
+## LETRA N
+
+### NEVASCA
+* Círculo/Escola: 3º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S, M (granizo branco e algumas gotas de água) | Duração: Concentração, até 1 minuto
+* Efeito: Cria Cilindro de 12m de raio x 6m de altura de neve e gelo giratórios em ponto no alcance. A área fica Totalmente Obscurecida, apaga chamas expostas e torna-se Terreno Difícil. Qualquer criatura que inicie seu turno na área (ou entre nela pela 1ª vez no turno) faz SG Destreza ou fica Caída; conjuradores mantendo Concentração na área fazem SG Constituição (sua CD) ou perdem a Concentração.
+
+### NÉVOA MORTAL
+* Círculo/Escola: 5º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Cria Esfera de 6m de raio de gás venenoso amarelo-esverdeado em ponto no alcance (área Totalmente Obscurecida; vento forte dispersa e encerra a magia). Move-se 3m para longe de você no início de cada um dos seus turnos (rente ao chão, descendo aberturas). Quando a nuvem surge ou quando uma criatura entra nela pela 1ª vez no turno ou encerra seu turno nela (máx. 1x/turno por criatura), faz SG Constituição -> falha: 5d8 de dano Venenoso; sucesso: metade (afeta mesmo criaturas que não respiram).
+* Círculo Superior: Dano aumenta em +1d8 por círculo acima do 5º.
+
+### NÉVOA OBSCURECENTE
+* Círculo/Escola: 1º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 36 m | Componentes: V, S | Duração: Concentração, até 1 hora
+* Efeito: Cria Esfera de 6m de raio de neblina em ponto no alcance. A área fica Totalmente Obscurecida pela duração (um vento forte de >= 16 km/h dispersa a neblina e encerra a magia).
+* Círculo Superior: Raio da Esfera aumenta em +6m por círculo acima do 1º.
+
+### NUVEM DE ADAGAS
+* Círculo/Escola: 2º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 18 m | Componentes: V, S, M (lasca de vidro) | Duração: Concentração, até 1 minuto
+* Efeito: Preenche um Cubo de 1,5m de lado em ponto no alcance com adagas giratórias. Qualquer criatura que esteja na área quando ela surge, entre nela pela 1ª vez no turno ou encerre seu turno nela sofre 4d4 de dano Cortante (sem salvaguarda; máx. 1x/turno por criatura). Como ação Usar Magia nos turnos seguintes, pode teleportar o Cubo até 9m para outro ponto no alcance.
+* Círculo Superior: Dano aumenta em +2d4 por círculo acima do 2º.
+
+### NUVEM FÉTIDA
+* Círculo/Escola: 3º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 27 m | Componentes: V, S, M (ovo podre ou folhas de repolho fétidas) | Duração: Concentração, até 1 minuto
+* Efeito: Cria Esfera de 6m de raio de gás nauseante em ponto no alcance (área Totalmente Obscurecida; vento forte dispersa e encerra a magia). Cada criatura na nuvem no início do turno dela faz SG Constituição (passa automaticamente se imune a Envenenado) -> falha: fica Envenenada até o fim do turno e perde sua Ação e Ação Bônus nesse turno.
+* Círculo Superior: Raio da Esfera aumenta em +1,5m por círculo acima do 3º.
+
+### NUVEM INCENDIÁRIA
+* Círculo/Escola: 8º Círculo, Conjuração
+* Conjuração: 1 Ação | Alcance: 45 m | Componentes: V, S | Duração: Concentração, até 1 minuto
+* Efeito: Cria Esfera de 6m de raio de fumaça e brasas em ponto no alcance (área Totalmente Obscurecida; vento forte dispersa e encerra a magia). Move-se 3m para longe de você no início de cada um dos seus turnos. Quando a nuvem surge ou quando uma criatura entra nela pela 1ª vez no turno ou encerra seu turno nela (máx. 1x/turno por criatura), faz SG Destreza -> falha: 10d8 de dano Ígneo; sucesso: metade.

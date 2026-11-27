@@ -1,0 +1,124 @@
+# BLOCO 3: CLASSES DE PERSONAGEM - PARTE 4 (CLÉRIGO)
+
+## TRAÇOS BÁSICOS
+* Atributo Primário: Sabedoria
+* Dado de Ponto de Vida: d8 por nível de Clérigo
+* PV no Nível 1: 8 + Mod. Constituição
+* PV em Níveis Seguintes: 1d8 (ou 5) + Mod. Constituição
+* Proficiência em Salvaguardas: Sabedoria e Carisma
+* Proficiência em Perícias: Escolha 2 entre História, Intuição, Medicina, Persuasão ou Religião
+* Proficiência com Armas: Armas Simples
+* Treinamento com Armadura: Armaduras Leve e Média e Escudos
+* Equipamento Inicial: (A) Cota de Malha Parcial, Escudo, Maça, Símbolo Sagrado, Kit de Sacerdote e 7 PO; ou (B) 110 PO
+* Multiclasse (Ganhos): Dado de Vida (d8), Armaduras Leve e Média e Escudos
+
+## TABELA DE PROGRESSÃO (CLÉRIGO)
+| Nv | BP | Canalizar Divindade | Truques | Prep. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | Características |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | +2 | - | 3 | 4 | 2 | - | - | - | - | - | - | - | - | Conjuração, Ordem Divina |
+| 2 | +2 | 2 | 3 | 5 | 3 | - | - | - | - | - | - | - | - | Canalizar Divindade |
+| 3 | +2 | 2 | 3 | 6 | 4 | 2 | - | - | - | - | - | - | - | Subclasse de Clérigo |
+| 4 | +2 | 2 | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - | Aumento no Valor de Atributo |
+| 5 | +3 | 2 | 4 | 9 | 4 | 3 | 2 | - | - | - | - | - | - | Fulminar Mortos-Vivos |
+| 6 | +3 | 3 | 4 | 10 | 4 | 3 | 3 | - | - | - | - | - | - | Característica de Subclasse |
+| 7 | +3 | 3 | 4 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - | Golpes Abençoados |
+| 8 | +3 | 3 | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - | Aumento no Valor de Atributo |
+| 9 | +4 | 3 | 4 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | - |
+| 10 | +4 | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | Intervenção Divina |
+| 11 | +4 | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
+| 12 | +4 | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | Aumento no Valor de Atributo |
+| 13 | +5 | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
+| 14 | +5 | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Golpes Abençoados Aprimorados |
+| 15 | +5 | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | - |
+| 16 | +5 | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | Aumento no Valor de Atributo |
+| 17 | +6 | 3 | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | Característica de Subclasse |
+| 18 | +6 | 4 | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | - |
+| 19 | +6 | 4 | 5 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | Dádiva Épica |
+| 20 | +6 | 4 | 5 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | Intervenção Divina Maior |
+
+## CARACTERÍSTICAS DE CLASSE
+* Nível 1 - Conjuração:
+  - Atributo: Sabedoria. Foco: Símbolo Sagrado.
+  - Truques: Conforme tabela; pode substituir 1 truque ao subir de nível de Clérigo.
+  - Magias Preparadas: Conforme tabela (de círculos para os quais possui espaços). Pode alterar qualquer magia preparada ao completar um Descanso Longo. Magias sempre preparadas de outras características não contam no limite. Restaura espaços em Descanso Longo.
+* Nível 1 - Ordem Divina: Escolhe 1 opção:
+  - Protetor: Proficiência com Armas Marciais e treinamento com Armadura Pesada.
+  - Taumaturgo: +1 truque da lista de Clérigo; soma Mod. Sabedoria (mín. +1) a testes de Inteligência (Arcanismo ou Religião).
+* Nível 2 - Canalizar Divindade: Usos conforme tabela (2 no Nv 2, 3 no Nv 6, 4 no Nv 18). Recupera 1 uso em Descanso Curto e todos em Descanso Longo. CD = sua CD de magia de Clérigo. Opções base:
+  - Centelha Divina: Ação Usar Magia, outra criatura visível a até 9m. Joga 1d8 + Mod. Sabedoria (sobe para 2d8 Nv 7, 3d8 Nv 13, 4d8 Nv 18). Restaura PV igual ao total OU força SG Constituição (falha: dano Necrótico ou Radiante à escolha igual ao total; sucesso: metade, arred. baixo).
+  - Expulsar Mortos-Vivos: Ação Usar Magia. Cada Morto-Vivo à escolha a até 9m faz SG Sabedoria. Falha: condições Amedrontado e Incapacitado por 1 min, tentando se mover o mais longe possível de você nos turnos dele. Encerra na criatura se sofrer dano, se você ficar Incapacitado ou morrer.
+* Nível 3 - Subclasse de Clérigo: Escolhe um Domínio.
+* Nível 4, 8, 12, 16 - Aumento no Valor de Atributo: Talento Aumento no Valor de Atributo ou outro talento elegível.
+* Nível 5 - Fulminar Mortos-Vivos: Ao usar Expulsar Mortos-Vivos, joga d8s = Mod. Sabedoria (mín. 1d8). Cada Morto-Vivo que falhar na SG sofre dano Radiante igual ao total jogado (não encerra Expulsar Mortos-Vivos).
+* Nível 7 - Golpes Abençoados: Escolhe 1 opção (substitui versões antigas de subclasses):
+  - Conjuração Poderosa: Soma Mod. Sabedoria ao dano de qualquer truque de Clérigo.
+  - Golpe Divino: 1x em cada um dos seus turnos, ao acertar criatura com ataque armado, causa +1d8 de dano Necrótico ou Radiante (à escolha).
+* Nível 10 - Intervenção Divina: Ação Usar Magia. Escolhe qualquer magia de Clérigo de 5º círculo ou inferior (que não exija Reação) e conjura como parte da mesma ação, sem gastar espaço de magia e sem precisar de componentes Materiais. Usos: 1x/Descanso Longo.
+* Nível 14 - Golpes Abençoados Aprimorados: Melhora a opção escolhida no Nível 7:
+  - Conjuração Poderosa: Ao causar dano a uma criatura com truque de Clérigo, concede PVT = 2 x Mod. Sabedoria a si ou outra criatura a até 18m.
+  - Golpe Divino: Dano adicional aumenta para 2d8.
+* Nível 19 - Dádiva Épica: Recebe 1 talento de Dádiva Épica ou outro elegível.
+* Nível 20 - Intervenção Divina Maior: Pode escolher a magia Desejo com Intervenção Divina. Se fizer isso, não pode usar Intervenção Divina novamente até completar 2d4 Descansos Longos.
+
+## LISTA DE MAGIAS DE CLÉRIGO (C=Concentração, R=Ritual, M=Material Específico)
+* Truques (0º): Acudir os Moribundos, Badalar Fúnebre, Chama Sagrada, Luz, Orientação (C), Palavra de Radiância, Reparar, Resistência (C), Taumaturgia.
+* 1º Círculo: Bênção (C, M), Comando, Criar ou Destruir Água, Curar Ferimentos, Detectar Magia (C, R), Detectar o Bem e o Mal (C), Detectar Veneno e Doença (C, R), Escudo da Fé (C), Infligir Ferimentos, Palavra Curativa, Perdição (C), Proteção Contra o Bem e o Mal (C, M), Purificar Alimentos e Bebidas (R), Raio Guia, Santuário.
+* 2º Círculo: Acalmar Emoções (C), Aprimorar Atributo (C), Arma Espiritual (C), Augúrio (R, M), Auxílio, Cegueira/Surdez, Chama Contínua (M), Encontrar Armadilhas, Localizar Objeto (C), Oração de Cura, Paralisar Pessoa (C), Proteção Contra Veneno, Repouso Tranquilo (R, M), Restauração Menor, Silêncio (C, R), Vínculo de Proteção (M), Zona da Verdade.
+* 3º Círculo: Animar Mortos, Aura de Vitalidade (C), Caminhar Sobre as Águas (R), Círculo Mágico (M), Clarividência (C, M), Criar Comida e Água, Dissipar Magia, Falar com Mortos, Glifo de Proteção (M), Guardiões Espirituais (C), Línguas, Luz do Dia, Mesclar-se às Rochas (R), Palavra Curativa em Massa, Proteção contra Energia (C), Remeter, Remover Maldição, Revivificar (M), Rogar Maldição (C), Simular Morte (R), Sinal de Esperança (C).
+* 4º Círculo: Aura de Pureza (C), Aura de Vida (C), Banimento (C), Controlar Água (C), Defensor da Fé, Localizar Criatura (C), Moldar Rochas, Movimentação Livre, Presságio (R, M), Proteção Contra a Morte.
+* 5º Círculo: Âncora Planar (M), Círculo de Poder (C), Coluna de Chamas, Comunhão (R), Consagrar (M), Contágio, Convocar Celestial (C, M), Curar Ferimentos em Massa, Dissipar o Bem e o Mal (C), Lendas e Histórias (M), Missão, Praga de Insetos (C), Restauração Maior (M), Reviver os Mortos (M), Vidência (C, M).
+* 6º Círculo: Aliado Extraplanar, Banquete de Heróis (M), Barreira de Lâminas (C), Criar Mortos-Vivos (M), Cura Completa, Encontrar o Caminho (C, M), Moléstia, Palavra de Regresso, Proibição (R, M), Raio Solar (C), Visão da Verdade (M).
+* 7º Círculo: Forma Etérea, Invocar Celestial (C), Palavra de Poder: Fortificar, Palavra Sagrada, Regeneração, Ressurreição (M), Símbolo (M), Tempestade de Fogo, Transição Planar (M).
+* 8º Círculo: Aura Sagrada (C, M), Campo Antimagia (C), Controlar o Clima (C), Explosão Solar, Terremoto (C).
+* 9º Círculo: Cura Completa em Massa, Palavra de Poder: Salvar, Portal (C, M), Projeção Astral (M), Ressurreição Verdadeira (M).
+
+## SUBCLASSES DE CLÉRIGO
+
+### DOMÍNIO DA GUERRA
+* Nível 3 - Magias de Domínio da Guerra (sempre preparadas):
+  - Nv 3: Arma Espiritual, Arma Mágica, Escudo da Fé, Raio Guia
+  - Nv 5: Guardiões Espirituais, Manto do Cruzado
+  - Nv 7: Escudo Ardente, Movimentação Livre
+  - Nv 9: Golpe de Arço, Paralisar Monstro
+* Nível 3 - Ataque Direcionado: Quando você ou criatura a até 9m erra jogada de ataque, gasta 1 uso de Canalizar Divindade para conceder +10 à jogada (usa Reação se for para outra criatura; sem ação se for para si).
+* Nível 3 - Sacerdote da Guerra: Ação Bônus para realizar 1 ataque com arma ou Ataque Desarmado. Usos = Mod. Sabedoria (mín. 1); restaura todos em Descanso Curto ou Longo.
+* Nível 6 - Bênção do Deus da Guerra: Gasta 1 uso de Canalizar Divindade para conjurar Arma Espiritual ou Escudo da Fé sem gastar espaço de magia e sem exigir Concentração. Dura 1 minuto (encerra se conjurar novamente, ficar Incapacitado ou morrer).
+* Nível 17 - Avatar da Guerra: Resistência a dano Contundente, Cortante e Perfurante.
+
+### DOMÍNIO DA LUZ
+* Nível 3 - Magias de Domínio da Luz (sempre preparadas):
+  - Nv 3: Fogo das Fadas, Mãos Flamejantes, Raio Ardente, Ver o Invisível
+  - Nv 5: Bola de Fogo, Luz do Dia
+  - Nv 7: Muralha de Fogo, Olho Arcano
+  - Nv 9: Coluna de Chamas, Vidência
+* Nível 3 - Brilho do Amanhecer: Ação Usar Magia + 1 uso de Canalizar Divindade. Emanação de 9m originada em você: dissipa Escuridão mágica na área; cada criatura à escolha na área faz SG Constituição (falha: 2d10 + nível de Clérigo de dano Radiante; sucesso: metade).
+* Nível 3 - Labareda Protetora: Reação quando criatura visível a até 9m realiza jogada de ataque -> impõe Desvantagem na jogada (antes de saber se acerta/erra). Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+* Nível 6 - Labareda Protetora Aprimorada: Restaura usos gastos de Labareda Protetora em Descanso Curto ou Longo. Sempre que usar Labareda Protetora, pode conceder PVT = 2d6 + Mod. Sabedoria ao alvo do ataque.
+* Nível 17 - Coroa de Luz: Ação Usar Magia (1 min ou encerra sem ação). Emite Luz Plena 18m e Meia-luz +9m. Inimigos na Luz Plena têm Desvantagem em SG contra Brilho do Amanhecer e qualquer magia que cause dano Ígneo ou Radiante. Usos = Mod. Sabedoria (mín. 1); restaura em Descanso Longo.
+
+### DOMÍNIO DA TRAPAÇA
+* Nível 3 - Magias de Domínio da Trapaça (sempre preparadas):
+  - Nv 3: Disfarçar-se, Enfeitiçar Pessoa, Invisibilidade, Passo Sem Rastro
+  - Nv 5: Indetectável, Padrão Hipnótico
+  - Nv 7: Confusão, Porta Dimensional
+  - Nv 9: Dominar Pessoa, Modificar Memória
+* Nível 3 - Bênção do Trapaceiro: Ação Usar Magia: escolhe a si ou criatura voluntária a até 9m para ter Vantagem em testes de Destreza (Furtividade) até completar Descanso Longo ou usar esta característica novamente.
+* Nível 3 - Invocar Duplicidade: Ação Bônus + 1 uso de Canalizar Divindade. Cria ilusão visual intangível de si em espaço desocupado visível a até 9m (não ocupa espaço; dura 1 min ou até Incapacitado/encerrar sem ação). Benefícios:
+  - Conjurar Magias: Conjura magias como se estivesse no espaço da ilusão (usando seus próprios sentidos).
+  - Distração: Quando você e a ilusão estão a até 1,5m de uma criatura que vê a ilusão, você tem Vantagem em jogadas de ataque contra ela.
+  - Mover: Ação Bônus move a ilusão até 9m para espaço desocupado a até 36m de você.
+* Nível 6 - Transposição do Trapaceiro: Ao usar Ação Bônus para criar ou mover a ilusão de Invocar Duplicidade, pode se teleportar trocando de lugar com ela.
+* Nível 17 - Duplicidade Aprimorada:
+  - Distração Compartilhada: Você e seus aliados têm Vantagem em jogadas de ataque contra qualquer criatura a até 1,5m da ilusão.
+  - Ilusão de Cura: Quando a ilusão termina, você ou 1 criatura à escolha a até 1,5m dela recupera PV = seu nível de Clérigo.
+
+### DOMÍNIO DA VIDA
+* Nível 3 - Magias de Domínio da Vida (sempre preparadas):
+  - Nv 3: Auxílio, Bênção, Curar Ferimentos, Restauração Menor
+  - Nv 5: Palavra Curativa em Massa, Revivificar
+  - Nv 7: Aura de Vida, Proteção Contra a Morte
+  - Nv 9: Curar Ferimentos em Massa, Restauração Maior
+* Nível 3 - Discípulo da Vida: Ao conjurar magia com espaço de magia que restaura PV em uma criatura, ela recupera PV adicionais = 2 + círculo do espaço de magia no turno da conjuração.
+* Nível 3 - Preservar a Vida: Ação Usar Magia + 1 uso de Canalizar Divindade. Reserva de cura = 5 x nível de Clérigo, dividida entre criaturas Sangrando a até 9m (pode incluir você). Não pode restaurar uma criatura acima da metade dos PV máximos dela.
+* Nível 6 - Curandeiro Abençoado: Imediatamente após conjurar magia com espaço de magia que restaura PV em outra criatura (não você), você recupera PV = 2 + círculo do espaço de magia.
+* Nível 17 - Cura Suprema: Ao usar magia ou Canalizar Divindade para restaurar PV em uma criatura, não joga os dados; utiliza automaticamente o maior resultado possível de cada dado.

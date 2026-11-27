@@ -1,0 +1,358 @@
+# BLOCO 5: TALENTOS
+
+## REGRAS GERAIS DE TALENTOS
+* Categorias: Origem, Geral, Estilo de Luta e Dádiva Épica.
+* Pré-requisitos: Para escolher um talento, o personagem deve atender a todos os seus pré-requisitos. Se perder um pré-requisito posteriormente, não pode usar o talento até recuperá-lo.
+* Regra de Repetição: Um talento só pode ser escolhido mais de uma vez se indicar explicitamente "(Repetível)".
+* Limite de Atributo: Aumentos de atributo de Talentos Gerais têm limite máximo de 20; de Talentos de Dádiva Épica têm limite máximo de 30.
+
+## TALENTOS DE ORIGEM
+
+### ALERTA
+* Proficiência em Iniciativa: Soma seu Bônus de Proficiência (BP) às jogadas de Iniciativa.
+* Troca de Iniciativa: Imediatamente após jogar Iniciativa, pode trocar sua Iniciativa com a de 1 aliado voluntário no mesmo combate (não funciona se você ou o aliado estiver Incapacitado).
+
+### ARTIFISTA
+* Proficiência com Ferramentas: Ganha proficiência com 3 tipos de Ferramentas de Artesão à escolha.
+* Desconto: 20% de desconto na compra de itens não mágicos.
+* Fabricação Rápida: Ao completar um Descanso Longo, pode fabricar 1 equipamento da tabela abaixo (desde que possua a ferramenta associada e proficiência nela). O item dura até você completar outro Descanso Longo, quando se desfaz.
+
+| Ferramenta | Itens Fabricáveis |
+|---|---|
+| Ferramentas de Carpinteiro | Clava, Clava Grande, Cajado, Escada, Tocha |
+| Ferramentas de Coureiro | Chicote, Funda, Algibeira, Caixa de Mapas/Pergaminhos |
+| Ferramentas de Ferreiro | Dardo, Esferas de Metal, Estrepes, Gancho de Escalada, Pote de Ferro |
+| Ferramentas de Funileiro | Aríete Portátil, Sino, Pá, Caixa de Fogo |
+| Ferramentas de Oleiro | Jarro, Lâmpada |
+| Ferramentas de Pedreiro | Roldana e Polia |
+| Ferramentas de Tecelão | Cesta, Corda, Rede, Tenda |
+| Ferramentas de Entalhador | Clava, Clava Grande, Cajado |
+
+### ATACANTE SELVAGEM
+* 1x por turno, ao atingir um alvo com uma arma, pode jogar os dados de dano da arma duas vezes e escolher qualquer um dos dois resultados contra o alvo.
+
+### CURANDEIRO
+* Médico de Batalha: Se tiver um Kit de Curandeiro, pode usar a ação Usar Objeto para gastar 1 uso do kit e atender 1 criatura a até 1,5m. A criatura pode gastar 1 de seus Dados de Vida, jogá-lo e recuperar PV = resultado + seu BP.
+* Novas Jogadas de Cura: Sempre que jogar um dado para determinar PV restaurados por uma magia sua ou por Médico de Batalha, pode jogar novamente qualquer resultado 1 no dado (deve usar o novo resultado).
+
+### HABILIDOSO (Repetível)
+* Ganha proficiência em qualquer combinação de 3 perícias ou ferramentas à escolha.
+
+### INICIADO EM MAGIA (Repetível - escolha uma lista diferente a cada vez)
+* Dois Truques: Escolhe 1 lista de classe (Clérigo, Druida ou Mago) e aprende 2 truques dela. Escolhe Inteligência, Sabedoria ou Carisma como atributo de conjuração para as magias deste talento.
+* Magia de 1º Círculo: Escolhe 1 magia de 1º círculo da mesma lista; ela fica sempre preparada. Pode conjurá-la 1x sem espaço de magia (restaura em Descanso Longo) e também com quaisquer espaços de magia que possuir.
+* Troca de Magia: Sempre que subir de nível, pode substituir 1 das magias escolhidas por outra magia do mesmo círculo da mesma lista.
+
+### MÚSICO
+* Treinamento Instrumental: Ganha proficiência com 3 Instrumentos Musicais à escolha.
+* Canção Encorajadora: Ao completar um Descanso Curto ou Longo, pode tocar um instrumento musical no qual seja proficiente e conceder Inspiração Heroica a um número de aliados que o ouçam igual ao seu BP.
+
+### SORTUDO
+* Pontos de Sorte: Quantidade = seu BP (restaura todos em Descanso Longo).
+* Vantagem: Ao realizar um Teste de D20, pode gastar 1 Ponto de Sorte para ter Vantagem na jogada.
+* Desvantagem: Quando uma criatura realiza uma jogada de ataque contra você, pode gastar 1 Ponto de Sorte para impor Desvantagem nessa jogada.
+
+### VALENTÃO DE TAVERNA
+* Ataque Desarmado Aprimorado: Ao acertar um Ataque Desarmado e causar dano, causa 1d4 + Mod. Força de dano Contundente (em vez do dano padrão).
+* Novas Jogadas de Dano: Ao tirar 1 no dado de dano do Ataque Desarmado, pode jogá-lo novamente (deve usar o novo resultado).
+* Improvisador Armado: Ganha proficiência com armas improvisadas.
+* Empurrão: 1x por turno ao acertar criatura com Ataque Desarmado na ação Atacar, além de causar dano, pode empurrar o alvo 1,5m para longe de você.
+
+### VIGOROSO
+* Seus PV máximos aumentam em 2 x seu nível de personagem atual ao adquirir este talento. Sempre que ganhar um novo nível depois disso, seus PV máximos aumentam em +2 adicionais.
+
+## TALENTOS GERAIS (PRÉ-REQUISITO BASE: NÍVEL 4+)
+
+### ADEPTO ELEMENTAL (Prér: Nv 4+, Conjuração ou Magia de Pacto; Repetível - escolha tipo diferente)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20).
+* Domínio de Energia: Escolhe 1 tipo de dano: Ácido, Elétrico, Gélido, Ígneo ou Trovejante. Magias que conjurar ignoram Resistência a esse tipo de dano. Ao jogar dano para magia que cause esse tipo de dano, trata qualquer 1 nos dados de dano como 2.
+
+### AGARRADOR (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Soco e Agarrão: 1x/turno ao acertar criatura com Ataque Desarmado na ação Atacar, pode usar as opções Dano e Imobilizar simultaneamente.
+* Vantagem de Ataque: Tem Vantagem em jogadas de ataque contra criatura Imobilizada por você.
+* Lutador Veloz: Não precisa gastar movimento extra para movimentar uma criatura Imobilizada por você se ela for do seu tamanho ou menor.
+
+### ATACANTE EM INVESTIDA (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Corrida Aprimorada: Ao executar ação Correr, seu Deslocamento aumenta em +3m para essa ação.
+* Ataque em Investida: Se mover >= 3m em linha reta imediatamente antes de atingir criatura com ataque corpo a corpo na ação Atacar, escolhe 1 benefício (1x/turno): +1d8 de dano do mesmo tipo do ataque OU empurra o alvo até 3m para longe (se for até 1 tamanho maior que você).
+
+### ATIRADOR AGUÇADO (Prér: Nv 4+, Destreza 13+)
+* Aumento de Atributo: +1 em Destreza (máx. 20).
+* Ignorar Cobertura: Ataques à distância com armas ignoram Cobertura Parcial e Cobertura de Três Quartos.
+* Disparar em Combate Corpo a Corpo: Estar a até 1,5m de inimigo não impõe Desvantagem em suas jogadas de ataque à distância com armas.
+* Longos Disparos: Atacar no alcance longo não impõe Desvantagem em suas jogadas de ataque à distância com armas.
+
+### ATIRADOR DE MAGIAS (Prér: Nv 4+, Conjuração ou Magia de Pacto)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20).
+* Ignorar Cobertura: Jogadas de ataque mágico ignoram Cobertura Parcial e Cobertura de Três Quartos.
+* Conjuração em Combate Corpo a Corpo: Estar a até 1,5m de inimigo não impõe Desvantagem em suas jogadas de ataque mágico à distância.
+* Alcance Aumentado: Ao conjurar magia com alcance >= 3m que exija jogada de ataque, o alcance dela aumenta em +18m.
+
+### ATLETA (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Deslocamento de Escalada: Ganha Deslocamento de Escalada = seu Deslocamento.
+* Levantar-se: Encerrar a condição Caído custa apenas 1,5m de movimento.
+* Saltar: Pode realizar Salto em Distância ou Salto em Altura completo após mover-se apenas 1,5m (em vez de 3m).
+
+### ATOR (Prér: Nv 4+, Carisma 13+)
+* Aumento de Atributo: +1 em Carisma (máx. 20).
+* Personificação: Enquanto disfarçado de pessoa real ou fictícia, tem Vantagem em testes de Carisma (Enganação ou Atuação) para convencer outros de que é essa pessoa.
+* Mimetismo: Pode imitar os sons de outras criaturas (incluindo fala) após ouvi-los por >= 1 minuto. Ouvinte pode detectar a farsa com sucesso em Sabedoria (Intuição) vs CD 8 + Mod. Carisma + BP.
+
+### AUMENTO NO VALOR DE ATRIBUTO (Prér: Nv 4+; Repetível)
+* Aumenta 1 atributo à escolha em +2, OU aumenta 2 atributos à escolha em +1 cada (máx. 20).
+
+### CHEF (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Constituição ou Sabedoria (máx. 20).
+* Utensílios de Cozinheiro: Proficiência com Utensílios de Cozinheiro.
+* Comida Revigorante: Em Descanso Curto, cozinha comida especial para até (4 + BP) criaturas (incluindo você). Quem comer e gastar >= 1 Dado de Vida nesse descanso recupera +1d8 PV extras.
+* Guloseimas Fortificantes: Com 1h de trabalho ou ao completar Descanso Longo, prepara um número de guloseimas = seu BP (duram 8h). Como Ação Bônus, uma criatura pode comer 1 guloseima para ganhar PVT = seu BP.
+
+### COMBATENTE COM DUAS ARMAS (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Combate com Duas Armas Aprimorado: Ao executar ação Atacar no seu turno e atacar com uma arma que tenha a propriedade Leve, pode realizar 1 ataque extra como Ação Bônus no mesmo turno usando uma arma corpo a corpo diferente (que não tenha a propriedade Duas Mãos). Não soma Mod. atributo ao dano do ataque extra, salvo se negativo.
+* Saque Rápido: Pode sacar ou guardar 2 armas sem a propriedade Duas Mãos quando normalmente só poderia sacar ou guardar 1.
+
+### COMBATENTE EM ARMADURA LEVE (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Treinamento com Armadura: Ganha treinamento com Armadura Leve e Escudos.
+
+### COMBATENTE EM ARMADURA MÉDIA (Prér: Nv 4+, Treinamento com Armadura Leve)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Treinamento com Armadura: Ganha treinamento com Armadura Média.
+
+### COMBATENTE EM ARMADURA PESADA (Prér: Nv 4+, Treinamento com Armadura Média)
+* Aumento de Atributo: +1 em Constituição ou Força (máx. 20).
+* Treinamento com Armadura: Ganha treinamento com Armadura Pesada.
+
+### COMBATENTE MONTADO (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força, Destreza ou Sabedoria (máx. 20).
+* Golpe Montado: Enquanto montado, tem Vantagem em jogadas de ataque corpo a corpo contra qualquer criatura desmontada a até 1,5m de sua montaria que seja pelo menos 1 tamanho menor que a montaria.
+* Salto Lateral: Se sua montaria sofrer efeito com SG de Destreza para metade do dano, ela sofre 0 em caso de sucesso e metade em caso de falha (apenas se você não estiver Incapacitado).
+* Virar a Montaria: Enquanto montado, se um ataque mirar em sua montaria, pode forçar o ataque a mirar em você.
+
+### CONJURADOR BÉLICO (Prér: Nv 4+, Conjuração ou Magia de Pacto)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20).
+* Concentração: Vantagem em salvaguardas de Constituição para manter Concentração.
+* Magia Reativa: Quando uma criatura provoca um Ataque de Oportunidade de você, pode usar sua Reação para conjurar 1 magia contra ela (em vez de fazer o ataque). A magia deve ter tempo de conjuração de 1 Ação e alvejar apenas essa criatura.
+* Componentes Somáticos: Pode realizar componentes Somáticos de magias mesmo empunhando armas ou Escudo em uma ou ambas as mãos.
+
+### CONJURADOR DE RITUAIS (Prér: Nv 4+, Inteligência, Sabedoria ou Carisma 13+)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20; define o atributo de conjuração destas magias).
+* Magias de Ritual: Escolhe um número de magias de 1º círculo com marcador Ritual de qualquer lista igual ao seu BP; ficam sempre preparadas (ganha +1 magia elegível sempre que seu BP aumentar).
+* Ritual Rápido: Pode conjurar qualquer magia de Ritual preparada usando o tempo de conjuração normal dela (em vez de adicionar 10 min) sem gastar espaço de magia. Usos: 1x/Descanso Longo.
+
+### CORTADOR (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Tendão Cortado: 1x/turno ao atingir criatura com ataque que cause dano Cortante, reduz o Deslocamento do alvo em 3m até o início do seu próximo turno.
+* Acerto Crítico Aprimorado: Ao obter Acerto Crítico que cause dano Cortante a uma criatura, ela tem Desvantagem em jogadas de ataque até o início do seu próximo turno.
+
+### DESTRUIDOR (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Constituição (máx. 20).
+* Empurrão: 1x/turno ao atingir criatura com ataque que cause dano Contundente, pode mover o alvo até 1,5m para espaço desocupado (se for até 1 tamanho maior que você).
+* Acerto Crítico Aprimorado: Ao obter Acerto Crítico que cause dano Contundente a uma criatura, todas as jogadas de ataque contra ela têm Vantagem até o início do seu próximo turno.
+
+### DUELISTA DEFENSIVO (Prér: Nv 4+, Destreza 13+)
+* Aumento de Atributo: +1 em Destreza (máx. 20).
+* Aparar: Empunhando arma com propriedade Acuidade, usa Reação ao ser atingido por ataque corpo a corpo -> soma seu BP à sua CA contra ataques corpo a corpo até o início do seu próximo turno (podendo fazer o ataque errar).
+
+### DURÁVEL (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Constituição (máx. 20).
+* Desafiar a Morte: Vantagem em Salvaguardas contra Morte.
+* Recuperação Rápida: Ação Bônus gasta 1 de seus Dados de Vida, joga o dado e recupera PV igual ao resultado (não soma Mod. Constituição).
+
+### ENVENENADOR (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Destreza ou Inteligência (máx. 20).
+* Veneno Potente: Dano Venenoso causado por seus ataques e magias ignora Resistência a dano Venenoso.
+* Preparar Veneno: Proficiência com Kit de Veneno. Com 1h de trabalho e 50 PO em materiais, cria doses de veneno = seu BP. Ação Bônus aplica 1 dose em 1 arma ou peça de munição (dura 1 min ou até acertar). Ao sofrer dano da arma/munição, alvo faz SG Constituição (CD 8 + Mod. atributo aumentado por este talento + BP) ou sofre 2d8 dano Venenoso e fica Envenenado até o fim do próximo turno dele.
+
+### ESPECIALISTA EM ARMAS DE HASTE (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Golpe com o Cabo: Imediatamente após executar ação Atacar e atacar com Cajado, Lança ou arma com propriedades Pesada e Alcance, usa Ação Bônus para fazer 1 ataque corpo a corpo com a extremidade oposta (dano 1d4 + mesmo Mod. atributo Contundente).
+* Golpe Reativo: Empunhando Cajado, Lança ou arma com propriedades Pesada e Alcance, usa Reação quando criatura entra no alcance dessa arma -> realiza 1 ataque corpo a corpo com ela contra a criatura.
+
+### ESPECIALISTA EM BESTA (Prér: Nv 4+, Destreza 13+)
+* Aumento de Atributo: +1 em Destreza (máx. 20).
+* Ignorar Recarga: Ignora a propriedade Recarga de Besta de Mão, Besta Leve e Besta Pesada. Se estiver segurando uma delas, pode recarregá-la mesmo sem mão livre.
+* Disparar em Combate Corpo a Corpo: Estar a até 1,5m de inimigo não impõe Desvantagem em suas jogadas de ataque com bestas.
+* Combate com Duas Bestas: Ao fazer o ataque extra da propriedade Leve usando uma besta, pode somar seu Mod. atributo ao dano desse ataque extra (se ainda não somou).
+
+### ESPECIALISTA EM PERÍCIA (Prér: Nv 4+)
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 20).
+* Proficiência em Perícia: Ganha proficiência em 1 perícia à escolha.
+* Especialização: Ganha Especialização em 1 perícia na qual seja proficiente e que ainda não tenha Especialização.
+
+### LÍDER INSPIRADOR (Prér: Nv 4+, Sabedoria ou Carisma 13+)
+* Aumento de Atributo: +1 em Sabedoria ou Carisma (máx. 20).
+* Discurso Encorajador: Ao completar um Descanso Curto ou Longo, escolhe até 6 aliados (pode incluir você) a até 9m que possam vê-lo ou ouvi-lo; cada um ganha PVT = seu nível de personagem + Mod. do atributo aumentado por este talento.
+
+### MATADOR DE CONJURADORES (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Quebrador de Concentração: Quando você causa dano a uma criatura mantendo Concentração, ela tem Desvantagem na salvaguarda para manter a Concentração.
+* Mente Protegida: Ao falhar em uma salvaguarda de Inteligência, Sabedoria ou Carisma, pode escolher ser bem-sucedido em vez disso. Usos: 1x/Descanso Curto ou Longo.
+
+### MENTE AGUÇADA (Prér: Nv 4+, Inteligência 13+)
+* Aumento de Atributo: +1 em Inteligência (máx. 20).
+* Conhecimento: Escolhe 1 perícia entre Arcanismo, História, Investigação, Natureza ou Religião. Se não for proficiente, ganha proficiência; se já for proficiente, ganha Especialização nela.
+* Estudo Rápido: Pode executar a ação Analisar como Ação Bônus.
+
+### MESTRE EM ARMADURA MÉDIA (Prér: Nv 4+, Treinamento com Armadura Média)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Usuário Destro: Vestindo Armadura Média, pode somar até +3 (em vez de +2) do seu Mod. Destreza à CA se tiver Destreza 16 ou superior.
+
+### MESTRE EM ARMADURA PESADA (Prér: Nv 4+, Treinamento com Armadura Pesada)
+* Aumento de Atributo: +1 em Constituição ou Força (máx. 20).
+* Redução de Dano: Enquanto vestir Armadura Pesada, reduz o dano Contundente, Cortante e Perfurante sofrido de ataques em um valor igual ao seu BP.
+
+### MESTRE EM ARMAS (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Propriedade de Maestria: Pode usar a propriedade de maestria de 1 tipo de arma Simples ou Marcial à escolha na qual seja proficiente. Pode trocar o tipo escolhido ao completar um Descanso Longo.
+
+### MESTRE EM ARMAS GRANDES (Prér: Nv 4+, Força 13+)
+* Aumento de Atributo: +1 em Força (máx. 20).
+* Maestria com Armas Pesadas: Ao atingir criatura com arma que tenha a propriedade Pesada como parte da ação Atacar no seu turno, causa dano adicional do mesmo tipo da arma igual ao seu BP.
+* Golpe Cortante: Imediatamente após obter Acerto Crítico com arma corpo a corpo ou reduzir uma criatura a 0 PV com ela, pode realizar 1 ataque com a mesma arma como Ação Bônus.
+
+### MESTRE EM ESCUDOS (Prér: Nv 4+, Treinamento com Escudo)
+* Aumento de Atributo: +1 em Força (máx. 20).
+* Golpe com Escudo: 1x/turno ao atingir criatura a até 1,5m com arma corpo a corpo na ação Atacar empunhando Escudo, força o alvo a fazer SG Força (CD 8 + Mod. Força + BP). Falha: empurra o alvo 1,5m para longe OU impõe a condição Caído (à escolha).
+* Interpor Escudo: Empunhando Escudo, ao passar em SG de Destreza contra efeito que normalmente causa metade do dano em caso de sucesso, usa Reação para sofrer 0 de dano.
+
+### OBSERVADOR (Prér: Nv 4+, Inteligência ou Sabedoria 13+)
+* Aumento de Atributo: +1 em Inteligência ou Sabedoria (máx. 20).
+* Observador Aguçado: Escolhe Intuição, Investigação ou Percepção. Se não for proficiente, ganha proficiência; se já for proficiente, ganha Especialização nela.
+* Busca Rápida: Pode executar a ação Procurar como Ação Bônus.
+
+### PERFURADOR (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Perfuração: 1x/turno ao atingir criatura com ataque que cause dano Perfurante, pode jogar novamente 1 dos dados de dano do ataque (deve usar o novo resultado).
+* Acerto Crítico Aprimorado: Ao obter Acerto Crítico que cause dano Perfurante a uma criatura, joga 1 dado de dano adicional ao determinar o dano extra do crítico.
+
+### RESILIENTE (Prér: Nv 4+)
+* Aumento de Atributo: +1 em qualquer atributo à escolha no qual não possua proficiência em salvaguarda (máx. 20).
+* Proficiência em Salvaguarda: Ganha proficiência em salvaguardas do atributo escolhido.
+
+### SENTINELA (Prér: Nv 4+, Força ou Destreza 13+)
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 20).
+* Guardião: Imediatamente após criatura a até 1,5m de você executar ação Desengajar ou atingir um alvo diferente de você com jogada de ataque, usa Reação para fazer um Ataque de Oportunidade contra ela.
+* Deter: Ao atingir uma criatura com Ataque de Oportunidade, o Deslocamento dela torna-se 0 pelo resto do turno atual.
+
+### SORRATEIRO (Prér: Nv 4+, Destreza 13+)
+* Aumento de Atributo: +1 em Destreza (máx. 20).
+* Visão às Cegas: Ganha Visão às Cegas com alcance de 3m.
+* Névoa de Guerra: Vantagem em testes de Destreza (Furtividade) realizados para executar a ação Esconder durante combate.
+* Atirador Furtivo: Se realizar jogada de ataque enquanto escondido e errar, o ataque não revela sua localização.
+
+### TELECINÉTICO (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20).
+* Telecinese Menor: Aprende Mãos Mágicas (usa o atributo aumentado; pode tornar a mão invisível e conjurar sem componentes V/S). Se já conhecer Mãos Mágicas, alcance aumenta em +9m.
+* Empurrão Telecinético: Ação Bônus escolhe 1 criatura visível a até 9m -> SG Força (CD 8 + Mod. atributo aumentado + BP). Falha (ou falha voluntária): move a criatura 1,5m em sua direção ou para longe de você.
+
+### TELEPATA (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20).
+* Fala Telepática: Comunicação telepática com qualquer criatura visível a até 18m (ela precisa compreender >= 1 idioma; não concede capacidade de responder telepaticamente).
+* Detectar Pensamentos: Sempre tem Detectar Pensamentos preparada (usa o atributo aumentado). Conjura 1x/Descanso Longo sem espaço de magia e sem componentes V/S/M, e também com espaços de magia.
+
+### TOCADO PELAS FADAS (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20; define o atributo de conjuração).
+* Magia Feérica: Sempre tem Passo Nebuloso e 1 magia de 1º círculo (escola de Adivinhação ou Encantamento) preparadas. Conjura cada uma 1x/Descanso Longo sem espaço de magia, e também com espaços de magia apropriados.
+
+### TOCADO PELAS SOMBRAS (Prér: Nv 4+)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 20; define o atributo de conjuração).
+* Magia Sombria: Sempre tem Invisibilidade e 1 magia de 1º círculo (escola de Ilusão ou Necromancia) preparadas. Conjura cada uma 1x/Descanso Longo sem espaço de magia, e também com espaços de magia apropriados.
+
+### VELOZ (Prér: Nv 4+, Destreza ou Constituição 13+)
+* Aumento de Atributo: +1 em Destreza ou Constituição (máx. 20).
+* Aumento de Deslocamento: Seu Deslocamento aumenta em +3m.
+* Correr em Terreno Difícil: Ao executar a ação Correr no seu turno, Terreno Difícil não custa movimento extra pelo resto do turno.
+* Movimento Ágil: Ataques de Oportunidade contra você têm Desvantagem.
+
+## TALENTOS DE ESTILO DE LUTA (PRÉ-REQUISITO: CARACTERÍSTICA ESTILO DE LUTA)
+
+### ARQUEARIA
+* Ganha bônus de +2 nas jogadas de ataque com armas à Distância.
+
+### COMBATE ÀS CEGAS
+* Ganha Visão às Cegas com alcance de 3m.
+
+### COMBATE COM ARMAS DE ARREMESSO
+* Ao atingir com ataque à distância usando arma que tenha a propriedade Arremesso, ganha bônus de +2 na jogada de dano.
+
+### COMBATE COM ARMAS GRANDES
+* Ao jogar dano de ataque com arma corpo a corpo empunhada com duas mãos (propriedade Duas Mãos ou Versátil), trata qualquer resultado 1 ou 2 nos dados de dano como 3.
+
+### COMBATE COM DUAS ARMAS
+* Ao realizar o ataque extra como resultado de usar arma com a propriedade Leve, pode somar seu modificador de atributo ao dano desse ataque (se ainda não o somou).
+
+### COMBATE DESARMADO
+* Ao acertar Ataque Desarmado e causar dano, causa 1d6 + Mod. Força Contundente (ou 1d8 + Mod. Força se não empunhar armas nem Escudo). No início de cada um dos seus turnos, pode causar 1d4 de dano Contundente a 1 criatura Imobilizada por você.
+
+### DEFESA
+* Enquanto vestir Armadura Leve, Média ou Pesada, ganha bônus de +1 na CA.
+
+### DUELISMO
+* Enquanto empunhar arma corpo a corpo em uma mão e nenhuma outra arma (pode usar Escudo), ganha bônus de +2 nas jogadas de dano com essa arma.
+
+### INTERCEPTAÇÃO
+* Reação quando uma criatura visível atinge outro alvo a até 1,5m de você com jogada de ataque (enquanto empunhar Escudo ou arma Simples/Marcial) -> reduz o dano sofrido pelo alvo em 1d10 + seu BP (mín. 0).
+
+### PROTEÇÃO
+* Reação quando uma criatura visível ataca outro alvo a até 1,5m de você (enquanto empunhar Escudo) -> impõe Desvantagem nessa jogada de ataque e em todas as outras jogadas de ataque contra aquele alvo até o início do seu próximo turno, enquanto ele permanecer a até 1,5m de você.
+
+## TALENTOS DE DÁDIVA ÉPICA (PRÉ-REQUISITO BASE: NÍVEL 19+)
+
+### DÁDIVA DA DESTREZA EM COMBATE
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Mira Incomparável: 1x/turno ao errar uma jogada de ataque, pode optar por acertar em vez disso.
+
+### DÁDIVA DA FORTITUDE
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Saúde Fortificada: Seus PV máximos aumentam em +40. 1x/turno, ao recuperar PV, recupera PV adicionais iguais ao seu Mod. Constituição.
+
+### DÁDIVA DA PERÍCIA
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Adepto Universal: Ganha proficiência em TODAS as perícias.
+* Especialização: Ganha Especialização em 1 perícia à escolha na qual ainda não tenha Especialização.
+
+### DÁDIVA DA RECUPERAÇÃO
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Último Suspiro: Ao ser reduzido a 0 PV, cai para 1 PV e recupera PV = metade dos seus PV máximos (1x/Descanso Longo).
+* Recuperar Vitalidade: Reserva de 10d10 (restaura em Descanso Longo). Ação Bônus gasta quantos dados quiser, joga-os e recupera PV igual ao total.
+
+### DÁDIVA DA RECORDAÇÃO MÁGICA (Prér: Nv 19+, Conjuração)
+* Aumento de Atributo: +1 em Inteligência, Sabedoria ou Carisma (máx. 30).
+* Conjuração Gratuita: Sempre que conjurar uma magia com espaço de magia de 1º a 4º círculo, joga 1d4. Se o resultado for igual ao círculo do espaço usado, o espaço não é gasto.
+
+### DÁDIVA DA RESISTÊNCIA À ENERGIA
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Resistência à Energia: Escolhe 2 tipos de dano entre Ácido, Elétrico, Gélido, Ígneo, Necrótico, Psíquico, Radiante, Trovejante ou Venenoso para ganhar Resistência (pode alterar as escolhas ao completar Descanso Longo).
+* Redirecionar Energia: Reação ao sofrer dano de um dos tipos escolhidos acima -> força 1 criatura visível a até 18m a fazer SG Destreza (CD 8 + Mod. Constituição + BP) ou sofrer 2d12 + Mod. Constituição de dano do mesmo tipo.
+
+### DÁDIVA DA VELOCIDADE
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Artista da Fuga: Ação Bônus executa ação Desengajar e encerra a condição Imobilizado em si.
+* Rapidez: Seu Deslocamento aumenta em +9m.
+
+### DÁDIVA DA VISÃO VERDADEIRA
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Visão Verdadeira: Ganha Visão Verdadeira com alcance de 18m.
+
+### DÁDIVA DO ATAQUE IRRESISTÍVEL
+* Aumento de Atributo: +1 em Força ou Destreza (máx. 30).
+* Superar Defesas: Dano Contundente, Cortante e Perfurante que você causar sempre ignora Resistência.
+* Golpe Avassalador: Ao tirar 20 natural no d20 de uma jogada de ataque, causa dano adicional do mesmo tipo igual ao valor do atributo aumentado por este talento.
+
+### DÁDIVA DO DESTINO
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Aprimorar o Destino: Quando você ou outra criatura a até 18m passar ou falhar em um Teste de D20, pode jogar 2d4 e somar ou subtrair o total do resultado. Recarrega ao jogar Iniciativa ou ao completar Descanso Curto ou Longo.
+
+### DÁDIVA DO ESPÍRITO NOTURNO
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Fundir-se às Sombras: Enquanto estiver em Meia-luz ou Escuridão, Ação Bônus concede a si a condição Invisível (encerra imediatamente após atacar, causar dano ou conjurar magia).
+* Forma Sombria: Enquanto estiver em Meia-luz ou Escuridão, tem Resistência a todos os tipos de dano, exceto Psíquico e Radiante.
+
+### DÁDIVA DO VIAJANTE DIMENSIONAL
+* Aumento de Atributo: +1 em qualquer atributo à escolha (máx. 30).
+* Passos Cintilantes: Imediatamente após executar a ação Atacar ou a ação Usar Magia, pode teleportar até 9m para espaço desocupado visível.

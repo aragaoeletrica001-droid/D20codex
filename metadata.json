@@ -1,0 +1,6 @@
+{
+  "name": "Ficha D&D 2024 — Operacional",
+  "description": "Ficha de Personagem Interativa e Operacional de Dungeons & Dragons (Edição 2024) otimizada para celular e tablet, com rolagem animada d20, cálculos automáticos, assistente guiado e persistência local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,191 @@
+# BLOCO 1: MECÂNICAS BÁSICAS E COMBATE
+
+## REGRAS FUNDAMENTAIS E DADOS
+* Dados Poliédricos: d4, d6, d8, d10, d12, d20, d100 (porcentagem: dois d10, sendo um dezenas e outro unidades; 00 + 0 = 100).
+* D3: Joga-se 1d6 e divide-se o resultado por 2 (arredondado para cima).
+* Probabilidade Percentual: Joga-se 1d100; se o resultado for igual ou inferior à porcentagem, o evento ocorre.
+* Arredondamento: Sempre arredondar para baixo ao dividir ou multiplicar, exceto quando uma regra especificar arredondamento para cima.
+* Hierarquia de Regras: Exceções específicas (características de classe, talentos, magias, itens mágicos, propriedades de armas, habilidades de monstros) sempre prevalecem sobre regras gerais.
+
+## OS SEIS ATRIBUTOS E MODIFICADORES
+* Atributos: Força (For), Destreza (Des), Constituição (Con), Inteligência (Int), Sabedoria (Sab), Carisma (Car).
+* Limites: Aventureiros variam de 1 a 20 (salvo exceção); monstros até 30.
+
+| Valor | Modificador | Valor | Modificador |
+|---|---|---|---|
+| 1 | -5 | 16-17 | +3 |
+| 2-3 | -4 | 18-19 | +4 |
+| 4-5 | -3 | 20-21 | +5 |
+| 6-7 | -2 | 22-23 | +6 |
+| 8-9 | -1 | 24-25 | +7 |
+| 10-11 | +0 | 26-27 | +8 |
+| 12-13 | +1 | 28-29 | +9 |
+| 14-15 | +2 | 30 | +10 |
+
+## TESTES DE D20
+* Tipos: Testes de Atributo, Salvaguardas (SG) e Jogadas de Ataque.
+* Fórmula: 1d20 + Modificador de Atributo Relevante + Bônus de Proficiência (se aplicável) + Bônus/Penalidades Circunstanciais.
+* Sucesso: Total >= Número-Alvo (Classe de Dificuldade [CD] para testes/SG; Classe de Armadura [CA] para ataques).
+* Salvaguardas Voluntárias: Uma criatura pode optar por falhar automaticamente em uma salvaguarda sem jogar o dado.
+* 20 Natural (Jogada de Ataque): Acerto automático independentemente de modificadores ou CA (Acerto Crítico).
+* 1 Natural (Jogada de Ataque): Erro automático independentemente de modificadores ou CA.
+
+### CLASSES DE DIFICULDADE (CD) PADRÃO
+| Dificuldade | CD | Dificuldade | CD |
+|---|---|---|---|
+| Muito fácil | 5 | Difícil | 20 |
+| Fácil | 10 | Muito difícil | 25 |
+| Média | 15 | Quase impossível | 30 |
+
+### ATRIBUTOS DE JOGADA DE ATAQUE E CA BASE
+* Ataque Corpo a Corpo (arma ou Ataque Desarmado): Força.
+* Ataque à Distância (arma): Destreza.
+* Ataque Mágico: Atributo de conjuração da característica/classe.
+* CA Base Padrão: 10 + Modificador de Destreza.
+* Regra de CA Base Única: Apenas um cálculo de CA base pode estar ativo por vez (se possuir múltiplos métodos, deve escolher um).
+
+### VANTAGEM, DESVANTAGEM E INSPIRAÇÃO HEROICA
+* Vantagem: Joga 2d20 e usa o maior resultado.
+* Desvantagem: Joga 2d20 e usa o menor resultado.
+* Não Acumulam: Múltiplas fontes de Vantagem ou Desvantagem resultam em apenas 2d20.
+* Anulação: Qualquer combinação simultânea de Vantagem e Desvantagem se anula (joga-se 1d20 normal), independentemente da quantidade de fontes.
+* Interação com Novas Jogadas: Efeitos que permitem jogar novamente ou substituir o d20 afetam apenas UM dos dois dados (à escolha do jogador).
+* Inspiração Heroica: Pode ser gasta imediatamente após jogar qualquer dado para jogá-lo novamente (obrigatório usar o novo resultado). Máximo de 1 por vez; se ganhar outra já possuindo, pode transferir a um aliado sem Inspiração.
+
+## PROFICIÊNCIA E PERÍCIAS
+* Regra de Não Acúmulo: O Bônus de Proficiência (BP) nunca é somado mais de uma vez à mesma jogada. Pode ser multiplicado (ex: Especialização = 2x) ou dividido apenas uma vez.
+
+### TABELA DE BÔNUS DE PROFICIÊNCIA (BP)
+| Nível ou ND | BP | Nível ou ND | BP |
+|---|---|---|---|
+| Até 4 | +2 | 17-20 | +6 |
+| 5-8 | +3 | 21-24 | +7 |
+| 9-12 | +4 | 25-28 | +8 |
+| 13-16 | +5 | 29-30 | +9 |
+
+### LISTA DE PERÍCIAS
+| Perícia | Atributo Padrão | Perícia | Atributo Padrão |
+|---|---|---|---|
+| Acrobacia | Destreza | Investigação | Inteligência |
+| Arcanismo | Inteligência | Lidar com Animais | Sabedoria |
+| Atletismo | Força | Medicina | Sabedoria |
+| Atuação | Carisma | Natureza | Inteligência |
+| Enganação | Carisma | Percepção | Sabedoria |
+| Furtividade | Destreza | Persuasão | Carisma |
+| História | Inteligência | Prestidigitação | Destreza |
+| Intimidação | Carisma | Religião | Inteligência |
+| Intuição | Sabedoria | Sobrevivência | Sabedoria |
+
+* Perícias com Atributos Diferentes: O Mestre pode solicitar uma perícia vinculada a outro atributo situacional.
+* Proficiência em Salvaguardas: Soma BP nas SG do atributo proficiente.
+* Proficiência em Armas: Soma BP nas jogadas de ataque com a arma.
+* Proficiência em Ferramentas: Soma BP em testes usando a ferramenta. Se possuir proficiência tanto na Ferramenta quanto na Perícia aplicada ao mesmo teste, ganha Vantagem no teste.
+
+## ECONOMIA DE AÇÕES
+* Ação: 1 por turno.
+* Ação Bônus: Máximo de 1 por turno (apenas se uma característica, magia ou regra conceder). Impedimentos de ação também impedem Ação Bônus.
+* Reação: Máximo de 1 por rodada (recarrega no início do seu próximo turno). Ocorre imediatamente após o gatilho (salvo indicação contrária).
+
+### TABELA DE AÇÕES PADRÃO
+| Ação | Efeito Mecânico |
+|---|---|
+| Ajudar | Auxilia no teste de atributo ou jogada de ataque de outra criatura, ou presta primeiros socorros. |
+| Analisar | Teste de Inteligência (Arcanismo, História, Investigação, Natureza ou Religião). |
+| Atacar | Realiza ataque com arma ou Ataque Desarmado. |
+| Correr | Ganha movimento adicional igual ao Deslocamento pelo resto do turno. |
+| Desengajar | Movimento não provoca Ataques de Oportunidade pelo resto do turno. |
+| Esconder | Realiza teste de Destreza (Furtividade). |
+| Esquivar | Até o início do próximo turno: ataques contra você têm Desvantagem e você tem Vantagem em SG de Destreza. Encerra se Incapacitado ou Deslocamento = 0. |
+| Influenciar | Teste de Carisma (Atuação, Enganação, Intimidação ou Persuasão) ou Sabedoria (Lidar com Animais) para alterar atitude. |
+| Preparar | Define um gatilho e uma ação/movimento para executar como Reação. |
+| Procurar | Teste de Sabedoria (Intuição, Medicina, Percepção ou Sobrevivência). |
+| Usar Magia | Conjura magia, usa item mágico ou característica mágica. |
+| Usar Objeto | Interage com objeto não mágico (além da 1 interação gratuita do turno). |
+
+## INTERAÇÃO SOCIAL E EXPLORAÇÃO
+* Atitudes de PNJ: Amigável, Indiferente ou Hostil.
+* Visão e Iluminação:
+  - Luz Plena: Visão normal.
+  - Meia-Luz (Parcialmente Obscurecida): Desvantagem em testes de Sabedoria (Percepção) dependentes de visão.
+  - Escuridão (Totalmente Obscurecida): Aplica a condição Cego ao tentar ver algo nessa área.
+* Sentidos Especiais: Sismiconsciência, Visão às Cegas, Visão no Escuro, Visão Verdadeira.
+* Interação com Objetos: 1 interação livre por turno durante movimento ou ação; adicionais exigem ação Usar Objeto. Quebrar objeto frágil não mágico (vidro/papel) = automático com 1 Ação.
+* Riscos Ambientais: Asfixia, Combustão, Desidratação, Desnutrição, Queda.
+
+### RITMO DE VIAGEM
+| Ritmo | Por Minuto | Por Hora | Por Dia | Efeito Mecânico |
+|---|---|---|---|---|
+| Rápido | 120 m | 6 km | 45 km | Desvantagem em Sabedoria (Percepção ou Sobrevivência) e Destreza (Furtividade) |
+| Normal | 90 m | 4,5 km | 36 km | Desvantagem em Destreza (Furtividade) |
+| Lento | 60 m | 3 km | 27 km | Vantagem em Sabedoria (Percepção ou Sobrevivência) |
+
+* Montarias em Viagem: Podem dobrar a distância por 1 hora; exigem Descanso Curto ou Longo antes de repetir.
+* Embarcações Aquáticas: Limitadas ao deslocamento da embarcação (sem opção de ritmo); podem navegar até 24h/dia.
+
+## COMBATE
+* Rodada: 6 segundos no mundo do jogo.
+* Iniciativa: Teste de Destreza. Surpresa impõe Desvantagem na Iniciativa. Empates: jogadores decidem entre PJs; Mestre decide entre monstros ou entre monstro e PJ.
+* Turno: Movimento (até o Deslocamento) + 1 Ação (+ Ação Bônus se disponível). Pode dividir o movimento antes e depois de ações.
+* Terreno Difícil: Cada metro custa 1 metro adicional (2 quadrados no grid). Não acumula múltiplas fontes.
+* Condição Caído: Pode cair voluntariamente no seu turno sem custo de ação ou movimento (exceto se Deslocamento = 0).
+* Grid de Batalha: 1 quadrado = 1,5m. Movimento diagonal custa 1 quadrado, mas não pode atravessar cantos de paredes/obstáculos sólidos.
+
+### TAMANHO E ESPAÇO DA CRIATURA
+| Tamanho | Espaço (Metros) | Espaço (Quadrados) |
+|---|---|---|
+| Minúsculo | 0,75 x 0,75 m | 4 por quadrado |
+| Pequeno | 1,5 x 1,5 m | 1 por quadrado |
+| Médio | 1,5 x 1,5 m | 1 por quadrado |
+| Grande | 3 x 3 m | 4 quadrados (2x2) |
+| Enorme | 4,5 x 4,5 m | 9 quadrados (3x3) |
+| Colossal | 6 x 6 m | 16 quadrados (4x4) |
+
+* Atravessar Criaturas: Pode atravessar espaço de aliado, criatura Incapacitada, Minúscula ou 2 tamanhos maior/menor. O espaço de outra criatura é Terreno Difícil (exceto aliado ou Minúscula). Não pode encerrar movimento voluntariamente em espaço ocupado; se terminar turno no espaço de outra criatura, fica Caído (exceto se for Minúsculo ou maior que ela).
+
+### COBERTURA (NÃO ACUMULA; APLICA-SE A MAIOR)
+| Grau | Benefício | Requisito |
+|---|---|---|
+| Parcial | +2 CA e SG de Destreza | Outra criatura ou objeto cobrindo >= 50% do alvo |
+| Três Quartos | +5 CA e SG de Destreza | Objeto cobrindo >= 75% do alvo |
+| Total | Não pode ser alvejado diretamente | Objeto cobrindo 100% do alvo |
+
+* Atacantes e Alvos Invisíveis: Atacar alvo não visível = Desvantagem (erra automaticamente se o alvo não estiver no espaço escolhido). Atacar sem ser visto = Vantagem. Atacar estando escondido revela sua posição (acertando ou errando).
+* Ataques à Distância: Alvo além do alcance normal = Desvantagem; além do alcance máximo = impossível. Realizar ataque à distância (arma, magia ou outro) a 1,5m de inimigo visível e não Incapacitado = Desvantagem.
+* Ataques Corpo a Corpo: Alcance padrão de 1,5m (salvo indicação contrária).
+* Ataques de Oportunidade: Reação quando criatura visível sai do seu alcance. Realiza 1 ataque corpo a corpo (arma ou Ataque Desarmado) imediatamente antes de ela sair. Não provocado por: Desengajar, Teleporte ou movimento forçado (sem gastar movimento/ação/bônus/reação).
+
+### COMBATE MONTADO E SUBAQUÁTICO
+* Combate Montado: Montaria voluntária deve ser >= 1 tamanho maior. Montar/desmontar custa metade do Deslocamento (arred. baixo) a até 1,5m.
+  - Montaria Controlada: Assume sua Iniciativa, age no seu turno e só pode usar Correr, Desengajar ou Esquivar.
+  - Montaria Independente: Mantém própria Iniciativa e ações.
+  - Queda: Se montaria for movida contra a vontade, ou se você/montaria ficar Caído, faça SG Destreza CD 10 ou caia (Caído a até 1,5m).
+* Combate Subaquático:
+  - Corpo a Corpo: Criatura sem Deslocamento de Natação tem Desvantagem (exceto armas de dano Perfurante).
+  - À Distância: Erra automaticamente além do alcance normal; Desvantagem dentro do alcance normal.
+  - Fogo: Tudo debaixo d'água tem Resistência a dano Ígneo.
+
+## DANO, CURA, MORTE E CONDIÇÕES
+* Sangrando: Condição descritiva quando PV atuais <= 50% dos PV máximos.
+* Jogadas de Dano: Dano mínimo é 0 (nunca negativo). Armas somam o mesmo modificador de atributo do ataque ao dano. Dano fixo sem dados (ex: Zarabatana) não soma modificador de atributo (salvo exceção).
+* Acertos Críticos: Joga todos os dados de dano do ataque (incluindo dados extras como Ataque Furtivo) duas vezes, soma-os e adiciona os modificadores fixos uma única vez.
+* Salvaguardas e Dano: Efeitos de área/múltiplos alvos jogam o dano uma única vez para todos. Metade do dano sempre arredondado para baixo.
+* Resistência e Vulnerabilidade: Resistência = metade do dano (arred. baixo). Vulnerabilidade = dobro do dano. Não acumulam fontes repetidas para o mesmo tipo de dano.
+* Ordem de Aplicação de Dano: 1) Ajustes fixos (bônus/penalidades/reduções); 2) Resistência; 3) Vulnerabilidade.
+* Imunidade: 0 de dano do tipo imune; não afetado pela condição imune.
+* Cura e Descanso: Cura não excede PV máximos. Descanso Curto = 1 hora; Descanso Longo = 8 horas.
+* Pontos de Vida Temporários (PVT): Perdidos antes dos PV reais. Duram até esgotarem ou Descanso Longo. Não acumulam (escolhe manter o atual ou aceitar o novo). Não são cura e não acordam criaturas com 0 PV.
+
+### CAINDO A 0 PONTOS DE VIDA
+* Morte Instantânea: 1) Monstros (regra padrão); 2) PV máximos reduzidos a 0; 3) Dano Maciço (dano excedente após chegar a 0 PV >= PV máximos).
+* Inconsciente: Se não morrer instantaneamente, cai Inconsciente até recuperar PV e faz Salvaguardas contra Morte.
+* Salvaguarda contra Morte: No início de cada turno com 0 PV, rola 1d20 (sem modificador de atributo).
+  - 10 ou mais = 1 sucesso; 9 ou menos = 1 falha.
+  - 3 sucessos = Estável; 3 falhas = Morte. (Contagens resetam ao recuperar PV ou estabilizar).
+  - 1 Natural = 2 falhas; 20 Natural = recupera 1 PV imediatamente.
+  - Sofrer dano a 0 PV = 1 falha (2 falhas se Acerto Crítico). Se dano >= PV máximos = morte instantânea.
+* Estabilizar: Ação Ajudar com teste de Sabedoria (Medicina) CD 10. Criatura estável permanece Inconsciente com 0 PV, não faz SG contra Morte (retoma se sofrer dano) e recupera 1 PV após 1d4 horas.
+* Nocautear: Ao reduzir criatura a 0 PV com ataque corpo a corpo, pode deixá-la com 1 PV e Inconsciente (inicia Descanso Curto; encerra ao fim do descanso, ao receber cura ou com Medicina CD 10).
+
+### CONDIÇÕES
+* Lista: Amedrontado, Atordoado, Caído, Cego, Contido, Enfeitiçado, Envenenado, Exaustão, Imobilizado, Incapacitado, Inconsciente, Invisível, Paralisado, Petrificado, Surdo.
+* Regra de Acúmulo: Condições não acumulam (você tem ou não tem), exceto Exaustão, que agrava a cada nível recebido.
